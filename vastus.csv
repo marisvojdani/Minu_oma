@@ -1,0 +1,2689 @@
+"";"DIM2";"Maakond";"DIM3";"Tegevusvaldkond";"DIM4";"Sugu";"TIME";"Vaatlusperiood";"Value"
+"221";37;"Harju maakond";2;"Folkloor";1;"Mehed";2008;2008;33
+"222";37;"Harju maakond";2;"Folkloor";1;"Mehed";2009;2009;21
+"223";37;"Harju maakond";2;"Folkloor";1;"Mehed";2010;2010;42
+"224";37;"Harju maakond";2;"Folkloor";1;"Mehed";2011;2011;69
+"225";37;"Harju maakond";2;"Folkloor";1;"Mehed";2012;2012;69
+"226";37;"Harju maakond";2;"Folkloor";1;"Mehed";2013;2013;69
+"227";37;"Harju maakond";2;"Folkloor";1;"Mehed";2014;2014;73
+"228";37;"Harju maakond";2;"Folkloor";1;"Mehed";2015;2015;72
+"229";37;"Harju maakond";2;"Folkloor";1;"Mehed";2016;2016;65
+"230";37;"Harju maakond";2;"Folkloor";1;"Mehed";2017;2017;72
+"231";37;"Harju maakond";2;"Folkloor";1;"Mehed";2018;2018;65
+"232";37;"Harju maakond";2;"Folkloor";2;"Naised";2008;2008;97
+"233";37;"Harju maakond";2;"Folkloor";2;"Naised";2009;2009;72
+"234";37;"Harju maakond";2;"Folkloor";2;"Naised";2010;2010;133
+"235";37;"Harju maakond";2;"Folkloor";2;"Naised";2011;2011;195
+"236";37;"Harju maakond";2;"Folkloor";2;"Naised";2012;2012;195
+"237";37;"Harju maakond";2;"Folkloor";2;"Naised";2013;2013;195
+"238";37;"Harju maakond";2;"Folkloor";2;"Naised";2014;2014;213
+"239";37;"Harju maakond";2;"Folkloor";2;"Naised";2015;2015;221
+"240";37;"Harju maakond";2;"Folkloor";2;"Naised";2016;2016;204
+"241";37;"Harju maakond";2;"Folkloor";2;"Naised";2017;2017;235
+"242";37;"Harju maakond";2;"Folkloor";2;"Naised";2018;2018;227
+"243";37;"Harju maakond";3;"Harrastusteater";1;"Mehed";2008;2008;140
+"244";37;"Harju maakond";3;"Harrastusteater";1;"Mehed";2009;2009;148
+"245";37;"Harju maakond";3;"Harrastusteater";1;"Mehed";2010;2010;418
+"246";37;"Harju maakond";3;"Harrastusteater";1;"Mehed";2011;2011;467
+"247";37;"Harju maakond";3;"Harrastusteater";1;"Mehed";2012;2012;467
+"248";37;"Harju maakond";3;"Harrastusteater";1;"Mehed";2013;2013;467
+"249";37;"Harju maakond";3;"Harrastusteater";1;"Mehed";2014;2014;492
+"250";37;"Harju maakond";3;"Harrastusteater";1;"Mehed";2015;2015;494
+"251";37;"Harju maakond";3;"Harrastusteater";1;"Mehed";2016;2016;509
+"252";37;"Harju maakond";3;"Harrastusteater";1;"Mehed";2017;2017;515
+"253";37;"Harju maakond";3;"Harrastusteater";1;"Mehed";2018;2018;488
+"254";37;"Harju maakond";3;"Harrastusteater";2;"Naised";2008;2008;266
+"255";37;"Harju maakond";3;"Harrastusteater";2;"Naised";2009;2009;278
+"256";37;"Harju maakond";3;"Harrastusteater";2;"Naised";2010;2010;782
+"257";37;"Harju maakond";3;"Harrastusteater";2;"Naised";2011;2011;870
+"258";37;"Harju maakond";3;"Harrastusteater";2;"Naised";2012;2012;870
+"259";37;"Harju maakond";3;"Harrastusteater";2;"Naised";2013;2013;870
+"260";37;"Harju maakond";3;"Harrastusteater";2;"Naised";2014;2014;901
+"261";37;"Harju maakond";3;"Harrastusteater";2;"Naised";2015;2015;904
+"262";37;"Harju maakond";3;"Harrastusteater";2;"Naised";2016;2016;928
+"263";37;"Harju maakond";3;"Harrastusteater";2;"Naised";2017;2017;928
+"264";37;"Harju maakond";3;"Harrastusteater";2;"Naised";2018;2018;873
+"265";37;"Harju maakond";4;"Koorimuusika";1;"Mehed";2008;2008;4031
+"266";37;"Harju maakond";4;"Koorimuusika";1;"Mehed";2009;2009;4143
+"267";37;"Harju maakond";4;"Koorimuusika";1;"Mehed";2010;2010;4520
+"268";37;"Harju maakond";4;"Koorimuusika";1;"Mehed";2011;2011;4267
+"269";37;"Harju maakond";4;"Koorimuusika";1;"Mehed";2012;2012;4264
+"270";37;"Harju maakond";4;"Koorimuusika";1;"Mehed";2013;2013;4264
+"271";37;"Harju maakond";4;"Koorimuusika";1;"Mehed";2014;2014;4329
+"272";37;"Harju maakond";4;"Koorimuusika";1;"Mehed";2015;2015;4352
+"273";37;"Harju maakond";4;"Koorimuusika";1;"Mehed";2016;2016;4375
+"274";37;"Harju maakond";4;"Koorimuusika";1;"Mehed";2017;2017;4625
+"275";37;"Harju maakond";4;"Koorimuusika";1;"Mehed";2018;2018;4633
+"276";37;"Harju maakond";4;"Koorimuusika";2;"Naised";2008;2008;10167
+"277";37;"Harju maakond";4;"Koorimuusika";2;"Naised";2009;2009;10277
+"278";37;"Harju maakond";4;"Koorimuusika";2;"Naised";2010;2010;10574
+"279";37;"Harju maakond";4;"Koorimuusika";2;"Naised";2011;2011;9832
+"280";37;"Harju maakond";4;"Koorimuusika";2;"Naised";2012;2012;9824
+"281";37;"Harju maakond";4;"Koorimuusika";2;"Naised";2013;2013;9824
+"282";37;"Harju maakond";4;"Koorimuusika";2;"Naised";2014;2014;10109
+"283";37;"Harju maakond";4;"Koorimuusika";2;"Naised";2015;2015;10163
+"284";37;"Harju maakond";4;"Koorimuusika";2;"Naised";2016;2016;10709
+"285";37;"Harju maakond";4;"Koorimuusika";2;"Naised";2017;2017;10820
+"286";37;"Harju maakond";4;"Koorimuusika";2;"Naised";2018;2018;10901
+"287";37;"Harju maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;15
+"288";37;"Harju maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;31
+"289";37;"Harju maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;60
+"290";37;"Harju maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;84
+"291";37;"Harju maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;84
+"292";37;"Harju maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;84
+"293";37;"Harju maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;87
+"294";37;"Harju maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;87
+"295";37;"Harju maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;79
+"296";37;"Harju maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;94
+"297";37;"Harju maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;94
+"298";37;"Harju maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;107
+"299";37;"Harju maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;138
+"300";37;"Harju maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;241
+"301";37;"Harju maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;296
+"302";37;"Harju maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;296
+"303";37;"Harju maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;296
+"304";37;"Harju maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;335
+"305";37;"Harju maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;363
+"306";37;"Harju maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;381
+"307";37;"Harju maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;413
+"308";37;"Harju maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;384
+"309";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;773
+"310";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;799
+"311";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;867
+"312";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;850
+"313";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;850
+"314";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;850
+"315";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;871
+"316";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;865
+"317";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;866
+"318";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;891
+"319";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;886
+"320";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;626
+"321";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;639
+"322";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;729
+"323";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;660
+"324";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;660
+"325";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;660
+"326";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;674
+"327";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;672
+"328";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;690
+"329";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;717
+"330";37;"Harju maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;697
+"331";37;"Harju maakond";7;"Rahvatants";1;"Mehed";2008;2008;1578
+"332";37;"Harju maakond";7;"Rahvatants";1;"Mehed";2009;2009;1632
+"333";37;"Harju maakond";7;"Rahvatants";1;"Mehed";2010;2010;1914
+"334";37;"Harju maakond";7;"Rahvatants";1;"Mehed";2011;2011;2004
+"335";37;"Harju maakond";7;"Rahvatants";1;"Mehed";2012;2012;2004
+"336";37;"Harju maakond";7;"Rahvatants";1;"Mehed";2013;2013;2004
+"337";37;"Harju maakond";7;"Rahvatants";1;"Mehed";2014;2014;2092
+"338";37;"Harju maakond";7;"Rahvatants";1;"Mehed";2015;2015;2108
+"339";37;"Harju maakond";7;"Rahvatants";1;"Mehed";2016;2016;2350
+"340";37;"Harju maakond";7;"Rahvatants";1;"Mehed";2017;2017;2402
+"341";37;"Harju maakond";7;"Rahvatants";1;"Mehed";2018;2018;2437
+"342";37;"Harju maakond";7;"Rahvatants";2;"Naised";2008;2008;2728
+"343";37;"Harju maakond";7;"Rahvatants";2;"Naised";2009;2009;2882
+"344";37;"Harju maakond";7;"Rahvatants";2;"Naised";2010;2010;3165
+"345";37;"Harju maakond";7;"Rahvatants";2;"Naised";2011;2011;3389
+"346";37;"Harju maakond";7;"Rahvatants";2;"Naised";2012;2012;3387
+"347";37;"Harju maakond";7;"Rahvatants";2;"Naised";2013;2013;3387
+"348";37;"Harju maakond";7;"Rahvatants";2;"Naised";2014;2014;3647
+"349";37;"Harju maakond";7;"Rahvatants";2;"Naised";2015;2015;3681
+"350";37;"Harju maakond";7;"Rahvatants";2;"Naised";2016;2016;3884
+"351";37;"Harju maakond";7;"Rahvatants";2;"Naised";2017;2017;4072
+"352";37;"Harju maakond";7;"Rahvatants";2;"Naised";2018;2018;4064
+"353";37;"Harju maakond";8;"Käsitöö";1;"Mehed";2008;2008;0
+"354";37;"Harju maakond";8;"Käsitöö";1;"Mehed";2009;2009;2
+"355";37;"Harju maakond";8;"Käsitöö";1;"Mehed";2010;2010;26
+"356";37;"Harju maakond";8;"Käsitöö";1;"Mehed";2011;2011;26
+"357";37;"Harju maakond";8;"Käsitöö";1;"Mehed";2012;2012;26
+"358";37;"Harju maakond";8;"Käsitöö";1;"Mehed";2013;2013;26
+"359";37;"Harju maakond";8;"Käsitöö";1;"Mehed";2014;2014;35
+"360";37;"Harju maakond";8;"Käsitöö";1;"Mehed";2015;2015;31
+"361";37;"Harju maakond";8;"Käsitöö";1;"Mehed";2016;2016;31
+"362";37;"Harju maakond";8;"Käsitöö";1;"Mehed";2017;2017;33
+"363";37;"Harju maakond";8;"Käsitöö";1;"Mehed";2018;2018;23
+"364";37;"Harju maakond";8;"Käsitöö";2;"Naised";2008;2008;160
+"365";37;"Harju maakond";8;"Käsitöö";2;"Naised";2009;2009;235
+"366";37;"Harju maakond";8;"Käsitöö";2;"Naised";2010;2010;521
+"367";37;"Harju maakond";8;"Käsitöö";2;"Naised";2011;2011;516
+"368";37;"Harju maakond";8;"Käsitöö";2;"Naised";2012;2012;516
+"369";37;"Harju maakond";8;"Käsitöö";2;"Naised";2013;2013;516
+"370";37;"Harju maakond";8;"Käsitöö";2;"Naised";2014;2014;604
+"371";37;"Harju maakond";8;"Käsitöö";2;"Naised";2015;2015;612
+"372";37;"Harju maakond";8;"Käsitöö";2;"Naised";2016;2016;535
+"373";37;"Harju maakond";8;"Käsitöö";2;"Naised";2017;2017;534
+"374";37;"Harju maakond";8;"Käsitöö";2;"Naised";2018;2018;497
+"375";37;"Harju maakond";9;"Muu valdkond";1;"Mehed";2008;2008;105
+"376";37;"Harju maakond";9;"Muu valdkond";1;"Mehed";2009;2009;121
+"377";37;"Harju maakond";9;"Muu valdkond";1;"Mehed";2010;2010;176
+"378";37;"Harju maakond";9;"Muu valdkond";1;"Mehed";2011;2011;210
+"379";37;"Harju maakond";9;"Muu valdkond";1;"Mehed";2012;2012;210
+"380";37;"Harju maakond";9;"Muu valdkond";1;"Mehed";2013;2013;210
+"381";37;"Harju maakond";9;"Muu valdkond";1;"Mehed";2014;2014;245
+"382";37;"Harju maakond";9;"Muu valdkond";1;"Mehed";2015;2015;248
+"383";37;"Harju maakond";9;"Muu valdkond";1;"Mehed";2016;2016;241
+"384";37;"Harju maakond";9;"Muu valdkond";1;"Mehed";2017;2017;263
+"385";37;"Harju maakond";9;"Muu valdkond";1;"Mehed";2018;2018;263
+"386";37;"Harju maakond";9;"Muu valdkond";2;"Naised";2008;2008;168
+"387";37;"Harju maakond";9;"Muu valdkond";2;"Naised";2009;2009;238
+"388";37;"Harju maakond";9;"Muu valdkond";2;"Naised";2010;2010;300
+"389";37;"Harju maakond";9;"Muu valdkond";2;"Naised";2011;2011;466
+"390";37;"Harju maakond";9;"Muu valdkond";2;"Naised";2012;2012;466
+"391";37;"Harju maakond";9;"Muu valdkond";2;"Naised";2013;2013;486
+"392";37;"Harju maakond";9;"Muu valdkond";2;"Naised";2014;2014;552
+"393";37;"Harju maakond";9;"Muu valdkond";2;"Naised";2015;2015;549
+"394";37;"Harju maakond";9;"Muu valdkond";2;"Naised";2016;2016;542
+"395";37;"Harju maakond";9;"Muu valdkond";2;"Naised";2017;2017;588
+"396";37;"Harju maakond";9;"Muu valdkond";2;"Naised";2018;2018;588
+"419";39;"Hiiu maakond";2;"Folkloor";1;"Mehed";2008;2008;23
+"420";39;"Hiiu maakond";2;"Folkloor";1;"Mehed";2009;2009;23
+"421";39;"Hiiu maakond";2;"Folkloor";1;"Mehed";2010;2010;23
+"422";39;"Hiiu maakond";2;"Folkloor";1;"Mehed";2011;2011;23
+"423";39;"Hiiu maakond";2;"Folkloor";1;"Mehed";2012;2012;19
+"424";39;"Hiiu maakond";2;"Folkloor";1;"Mehed";2013;2013;19
+"425";39;"Hiiu maakond";2;"Folkloor";1;"Mehed";2014;2014;9
+"426";39;"Hiiu maakond";2;"Folkloor";1;"Mehed";2015;2015;9
+"427";39;"Hiiu maakond";2;"Folkloor";1;"Mehed";2016;2016;9
+"428";39;"Hiiu maakond";2;"Folkloor";1;"Mehed";2017;2017;7
+"429";39;"Hiiu maakond";2;"Folkloor";1;"Mehed";2018;2018;7
+"430";39;"Hiiu maakond";2;"Folkloor";2;"Naised";2008;2008;79
+"431";39;"Hiiu maakond";2;"Folkloor";2;"Naised";2009;2009;79
+"432";39;"Hiiu maakond";2;"Folkloor";2;"Naised";2010;2010;79
+"433";39;"Hiiu maakond";2;"Folkloor";2;"Naised";2011;2011;70
+"434";39;"Hiiu maakond";2;"Folkloor";2;"Naised";2012;2012;59
+"435";39;"Hiiu maakond";2;"Folkloor";2;"Naised";2013;2013;64
+"436";39;"Hiiu maakond";2;"Folkloor";2;"Naised";2014;2014;48
+"437";39;"Hiiu maakond";2;"Folkloor";2;"Naised";2015;2015;48
+"438";39;"Hiiu maakond";2;"Folkloor";2;"Naised";2016;2016;41
+"439";39;"Hiiu maakond";2;"Folkloor";2;"Naised";2017;2017;41
+"440";39;"Hiiu maakond";2;"Folkloor";2;"Naised";2018;2018;41
+"441";39;"Hiiu maakond";3;"Harrastusteater";1;"Mehed";2008;2008;31
+"442";39;"Hiiu maakond";3;"Harrastusteater";1;"Mehed";2009;2009;22
+"443";39;"Hiiu maakond";3;"Harrastusteater";1;"Mehed";2010;2010;18
+"444";39;"Hiiu maakond";3;"Harrastusteater";1;"Mehed";2011;2011;17
+"445";39;"Hiiu maakond";3;"Harrastusteater";1;"Mehed";2012;2012;24
+"446";39;"Hiiu maakond";3;"Harrastusteater";1;"Mehed";2013;2013;22
+"447";39;"Hiiu maakond";3;"Harrastusteater";1;"Mehed";2014;2014;18
+"448";39;"Hiiu maakond";3;"Harrastusteater";1;"Mehed";2015;2015;15
+"449";39;"Hiiu maakond";3;"Harrastusteater";1;"Mehed";2016;2016;26
+"450";39;"Hiiu maakond";3;"Harrastusteater";1;"Mehed";2017;2017;17
+"451";39;"Hiiu maakond";3;"Harrastusteater";1;"Mehed";2018;2018;17
+"452";39;"Hiiu maakond";3;"Harrastusteater";2;"Naised";2008;2008;69
+"453";39;"Hiiu maakond";3;"Harrastusteater";2;"Naised";2009;2009;55
+"454";39;"Hiiu maakond";3;"Harrastusteater";2;"Naised";2010;2010;54
+"455";39;"Hiiu maakond";3;"Harrastusteater";2;"Naised";2011;2011;48
+"456";39;"Hiiu maakond";3;"Harrastusteater";2;"Naised";2012;2012;55
+"457";39;"Hiiu maakond";3;"Harrastusteater";2;"Naised";2013;2013;47
+"458";39;"Hiiu maakond";3;"Harrastusteater";2;"Naised";2014;2014;45
+"459";39;"Hiiu maakond";3;"Harrastusteater";2;"Naised";2015;2015;45
+"460";39;"Hiiu maakond";3;"Harrastusteater";2;"Naised";2016;2016;38
+"461";39;"Hiiu maakond";3;"Harrastusteater";2;"Naised";2017;2017;26
+"462";39;"Hiiu maakond";3;"Harrastusteater";2;"Naised";2018;2018;26
+"463";39;"Hiiu maakond";4;"Koorimuusika";1;"Mehed";2008;2008;63
+"464";39;"Hiiu maakond";4;"Koorimuusika";1;"Mehed";2009;2009;92
+"465";39;"Hiiu maakond";4;"Koorimuusika";1;"Mehed";2010;2010;90
+"466";39;"Hiiu maakond";4;"Koorimuusika";1;"Mehed";2011;2011;50
+"467";39;"Hiiu maakond";4;"Koorimuusika";1;"Mehed";2012;2012;65
+"468";39;"Hiiu maakond";4;"Koorimuusika";1;"Mehed";2013;2013;55
+"469";39;"Hiiu maakond";4;"Koorimuusika";1;"Mehed";2014;2014;78
+"470";39;"Hiiu maakond";4;"Koorimuusika";1;"Mehed";2015;2015;78
+"471";39;"Hiiu maakond";4;"Koorimuusika";1;"Mehed";2016;2016;75
+"472";39;"Hiiu maakond";4;"Koorimuusika";1;"Mehed";2017;2017;62
+"473";39;"Hiiu maakond";4;"Koorimuusika";1;"Mehed";2018;2018;69
+"474";39;"Hiiu maakond";4;"Koorimuusika";2;"Naised";2008;2008;260
+"475";39;"Hiiu maakond";4;"Koorimuusika";2;"Naised";2009;2009;286
+"476";39;"Hiiu maakond";4;"Koorimuusika";2;"Naised";2010;2010;303
+"477";39;"Hiiu maakond";4;"Koorimuusika";2;"Naised";2011;2011;216
+"478";39;"Hiiu maakond";4;"Koorimuusika";2;"Naised";2012;2012;274
+"479";39;"Hiiu maakond";4;"Koorimuusika";2;"Naised";2013;2013;258
+"480";39;"Hiiu maakond";4;"Koorimuusika";2;"Naised";2014;2014;241
+"481";39;"Hiiu maakond";4;"Koorimuusika";2;"Naised";2015;2015;220
+"482";39;"Hiiu maakond";4;"Koorimuusika";2;"Naised";2016;2016;208
+"483";39;"Hiiu maakond";4;"Koorimuusika";2;"Naised";2017;2017;220
+"484";39;"Hiiu maakond";4;"Koorimuusika";2;"Naised";2018;2018;169
+"485";39;"Hiiu maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;3
+"486";39;"Hiiu maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;3
+"487";39;"Hiiu maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;3
+"488";39;"Hiiu maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;17
+"489";39;"Hiiu maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;17
+"490";39;"Hiiu maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;17
+"491";39;"Hiiu maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;11
+"492";39;"Hiiu maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;11
+"493";39;"Hiiu maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;11
+"494";39;"Hiiu maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;11
+"495";39;"Hiiu maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;0
+"496";39;"Hiiu maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;6
+"497";39;"Hiiu maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;13
+"498";39;"Hiiu maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;13
+"499";39;"Hiiu maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;25
+"500";39;"Hiiu maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;31
+"501";39;"Hiiu maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;31
+"502";39;"Hiiu maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;12
+"503";39;"Hiiu maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;12
+"504";39;"Hiiu maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;12
+"505";39;"Hiiu maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;32
+"506";39;"Hiiu maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;29
+"507";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;19
+"508";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;16
+"509";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;17
+"510";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;24
+"511";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;29
+"512";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;25
+"513";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;16
+"514";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;16
+"515";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;19
+"516";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;19
+"517";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;9
+"518";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;10
+"519";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;9
+"520";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;14
+"521";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;18
+"522";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;21
+"523";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;15
+"524";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;6
+"525";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;7
+"526";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;3
+"527";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;3
+"528";39;"Hiiu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;2
+"529";39;"Hiiu maakond";7;"Rahvatants";1;"Mehed";2008;2008;67
+"530";39;"Hiiu maakond";7;"Rahvatants";1;"Mehed";2009;2009;73
+"531";39;"Hiiu maakond";7;"Rahvatants";1;"Mehed";2010;2010;56
+"532";39;"Hiiu maakond";7;"Rahvatants";1;"Mehed";2011;2011;55
+"533";39;"Hiiu maakond";7;"Rahvatants";1;"Mehed";2012;2012;44
+"534";39;"Hiiu maakond";7;"Rahvatants";1;"Mehed";2013;2013;43
+"535";39;"Hiiu maakond";7;"Rahvatants";1;"Mehed";2014;2014;39
+"536";39;"Hiiu maakond";7;"Rahvatants";1;"Mehed";2015;2015;33
+"537";39;"Hiiu maakond";7;"Rahvatants";1;"Mehed";2016;2016;45
+"538";39;"Hiiu maakond";7;"Rahvatants";1;"Mehed";2017;2017;69
+"539";39;"Hiiu maakond";7;"Rahvatants";1;"Mehed";2018;2018;58
+"540";39;"Hiiu maakond";7;"Rahvatants";2;"Naised";2008;2008;216
+"541";39;"Hiiu maakond";7;"Rahvatants";2;"Naised";2009;2009;233
+"542";39;"Hiiu maakond";7;"Rahvatants";2;"Naised";2010;2010;215
+"543";39;"Hiiu maakond";7;"Rahvatants";2;"Naised";2011;2011;223
+"544";39;"Hiiu maakond";7;"Rahvatants";2;"Naised";2012;2012;199
+"545";39;"Hiiu maakond";7;"Rahvatants";2;"Naised";2013;2013;205
+"546";39;"Hiiu maakond";7;"Rahvatants";2;"Naised";2014;2014;181
+"547";39;"Hiiu maakond";7;"Rahvatants";2;"Naised";2015;2015;189
+"548";39;"Hiiu maakond";7;"Rahvatants";2;"Naised";2016;2016;203
+"549";39;"Hiiu maakond";7;"Rahvatants";2;"Naised";2017;2017;241
+"550";39;"Hiiu maakond";7;"Rahvatants";2;"Naised";2018;2018;237
+"551";39;"Hiiu maakond";8;"Käsitöö";1;"Mehed";2008;2008;6
+"552";39;"Hiiu maakond";8;"Käsitöö";1;"Mehed";2009;2009;45
+"553";39;"Hiiu maakond";8;"Käsitöö";1;"Mehed";2010;2010;45
+"554";39;"Hiiu maakond";8;"Käsitöö";1;"Mehed";2011;2011;32
+"555";39;"Hiiu maakond";8;"Käsitöö";1;"Mehed";2012;2012;32
+"556";39;"Hiiu maakond";8;"Käsitöö";1;"Mehed";2013;2013;32
+"557";39;"Hiiu maakond";8;"Käsitöö";1;"Mehed";2014;2014;14
+"558";39;"Hiiu maakond";8;"Käsitöö";1;"Mehed";2015;2015;14
+"559";39;"Hiiu maakond";8;"Käsitöö";1;"Mehed";2016;2016;14
+"560";39;"Hiiu maakond";8;"Käsitöö";1;"Mehed";2017;2017;14
+"561";39;"Hiiu maakond";8;"Käsitöö";1;"Mehed";2018;2018;4
+"562";39;"Hiiu maakond";8;"Käsitöö";2;"Naised";2008;2008;73
+"563";39;"Hiiu maakond";8;"Käsitöö";2;"Naised";2009;2009;112
+"564";39;"Hiiu maakond";8;"Käsitöö";2;"Naised";2010;2010;112
+"565";39;"Hiiu maakond";8;"Käsitöö";2;"Naised";2011;2011;90
+"566";39;"Hiiu maakond";8;"Käsitöö";2;"Naised";2012;2012;81
+"567";39;"Hiiu maakond";8;"Käsitöö";2;"Naised";2013;2013;81
+"568";39;"Hiiu maakond";8;"Käsitöö";2;"Naised";2014;2014;38
+"569";39;"Hiiu maakond";8;"Käsitöö";2;"Naised";2015;2015;38
+"570";39;"Hiiu maakond";8;"Käsitöö";2;"Naised";2016;2016;38
+"571";39;"Hiiu maakond";8;"Käsitöö";2;"Naised";2017;2017;38
+"572";39;"Hiiu maakond";8;"Käsitöö";2;"Naised";2018;2018;35
+"573";39;"Hiiu maakond";9;"Muu valdkond";1;"Mehed";2008;2008;7
+"574";39;"Hiiu maakond";9;"Muu valdkond";1;"Mehed";2009;2009;11
+"575";39;"Hiiu maakond";9;"Muu valdkond";1;"Mehed";2010;2010;19
+"576";39;"Hiiu maakond";9;"Muu valdkond";1;"Mehed";2011;2011;8
+"577";39;"Hiiu maakond";9;"Muu valdkond";1;"Mehed";2012;2012;6
+"578";39;"Hiiu maakond";9;"Muu valdkond";1;"Mehed";2013;2013;7
+"579";39;"Hiiu maakond";9;"Muu valdkond";1;"Mehed";2014;2014;5
+"580";39;"Hiiu maakond";9;"Muu valdkond";1;"Mehed";2015;2015;5
+"581";39;"Hiiu maakond";9;"Muu valdkond";1;"Mehed";2016;2016;5
+"582";39;"Hiiu maakond";9;"Muu valdkond";1;"Mehed";2017;2017;5
+"583";39;"Hiiu maakond";9;"Muu valdkond";1;"Mehed";2018;2018;6
+"584";39;"Hiiu maakond";9;"Muu valdkond";2;"Naised";2008;2008;8
+"585";39;"Hiiu maakond";9;"Muu valdkond";2;"Naised";2009;2009;5
+"586";39;"Hiiu maakond";9;"Muu valdkond";2;"Naised";2010;2010;14
+"587";39;"Hiiu maakond";9;"Muu valdkond";2;"Naised";2011;2011;8
+"588";39;"Hiiu maakond";9;"Muu valdkond";2;"Naised";2012;2012;8
+"589";39;"Hiiu maakond";9;"Muu valdkond";2;"Naised";2013;2013;9
+"590";39;"Hiiu maakond";9;"Muu valdkond";2;"Naised";2014;2014;8
+"591";39;"Hiiu maakond";9;"Muu valdkond";2;"Naised";2015;2015;8
+"592";39;"Hiiu maakond";9;"Muu valdkond";2;"Naised";2016;2016;14
+"593";39;"Hiiu maakond";9;"Muu valdkond";2;"Naised";2017;2017;14
+"594";39;"Hiiu maakond";9;"Muu valdkond";2;"Naised";2018;2018;14
+"617";44;"Ida-Viru maakond";2;"Folkloor";1;"Mehed";2008;2008;10
+"618";44;"Ida-Viru maakond";2;"Folkloor";1;"Mehed";2009;2009;10
+"619";44;"Ida-Viru maakond";2;"Folkloor";1;"Mehed";2010;2010;31
+"620";44;"Ida-Viru maakond";2;"Folkloor";1;"Mehed";2011;2011;31
+"621";44;"Ida-Viru maakond";2;"Folkloor";1;"Mehed";2012;2012;31
+"622";44;"Ida-Viru maakond";2;"Folkloor";1;"Mehed";2013;2013;31
+"623";44;"Ida-Viru maakond";2;"Folkloor";1;"Mehed";2014;2014;31
+"624";44;"Ida-Viru maakond";2;"Folkloor";1;"Mehed";2015;2015;31
+"625";44;"Ida-Viru maakond";2;"Folkloor";1;"Mehed";2016;2016;31
+"626";44;"Ida-Viru maakond";2;"Folkloor";1;"Mehed";2017;2017;31
+"627";44;"Ida-Viru maakond";2;"Folkloor";1;"Mehed";2018;2018;31
+"628";44;"Ida-Viru maakond";2;"Folkloor";2;"Naised";2008;2008;37
+"629";44;"Ida-Viru maakond";2;"Folkloor";2;"Naised";2009;2009;37
+"630";44;"Ida-Viru maakond";2;"Folkloor";2;"Naised";2010;2010;78
+"631";44;"Ida-Viru maakond";2;"Folkloor";2;"Naised";2011;2011;78
+"632";44;"Ida-Viru maakond";2;"Folkloor";2;"Naised";2012;2012;78
+"633";44;"Ida-Viru maakond";2;"Folkloor";2;"Naised";2013;2013;78
+"634";44;"Ida-Viru maakond";2;"Folkloor";2;"Naised";2014;2014;78
+"635";44;"Ida-Viru maakond";2;"Folkloor";2;"Naised";2015;2015;107
+"636";44;"Ida-Viru maakond";2;"Folkloor";2;"Naised";2016;2016;82
+"637";44;"Ida-Viru maakond";2;"Folkloor";2;"Naised";2017;2017;82
+"638";44;"Ida-Viru maakond";2;"Folkloor";2;"Naised";2018;2018;82
+"639";44;"Ida-Viru maakond";3;"Harrastusteater";1;"Mehed";2008;2008;65
+"640";44;"Ida-Viru maakond";3;"Harrastusteater";1;"Mehed";2009;2009;65
+"641";44;"Ida-Viru maakond";3;"Harrastusteater";1;"Mehed";2010;2010;118
+"642";44;"Ida-Viru maakond";3;"Harrastusteater";1;"Mehed";2011;2011;122
+"643";44;"Ida-Viru maakond";3;"Harrastusteater";1;"Mehed";2012;2012;122
+"644";44;"Ida-Viru maakond";3;"Harrastusteater";1;"Mehed";2013;2013;122
+"645";44;"Ida-Viru maakond";3;"Harrastusteater";1;"Mehed";2014;2014;122
+"646";44;"Ida-Viru maakond";3;"Harrastusteater";1;"Mehed";2015;2015;135
+"647";44;"Ida-Viru maakond";3;"Harrastusteater";1;"Mehed";2016;2016;128
+"648";44;"Ida-Viru maakond";3;"Harrastusteater";1;"Mehed";2017;2017;128
+"649";44;"Ida-Viru maakond";3;"Harrastusteater";1;"Mehed";2018;2018;123
+"650";44;"Ida-Viru maakond";3;"Harrastusteater";2;"Naised";2008;2008;118
+"651";44;"Ida-Viru maakond";3;"Harrastusteater";2;"Naised";2009;2009;118
+"652";44;"Ida-Viru maakond";3;"Harrastusteater";2;"Naised";2010;2010;198
+"653";44;"Ida-Viru maakond";3;"Harrastusteater";2;"Naised";2011;2011;209
+"654";44;"Ida-Viru maakond";3;"Harrastusteater";2;"Naised";2012;2012;209
+"655";44;"Ida-Viru maakond";3;"Harrastusteater";2;"Naised";2013;2013;209
+"656";44;"Ida-Viru maakond";3;"Harrastusteater";2;"Naised";2014;2014;209
+"657";44;"Ida-Viru maakond";3;"Harrastusteater";2;"Naised";2015;2015;246
+"658";44;"Ida-Viru maakond";3;"Harrastusteater";2;"Naised";2016;2016;236
+"659";44;"Ida-Viru maakond";3;"Harrastusteater";2;"Naised";2017;2017;230
+"660";44;"Ida-Viru maakond";3;"Harrastusteater";2;"Naised";2018;2018;212
+"661";44;"Ida-Viru maakond";4;"Koorimuusika";1;"Mehed";2008;2008;487
+"662";44;"Ida-Viru maakond";4;"Koorimuusika";1;"Mehed";2009;2009;468
+"663";44;"Ida-Viru maakond";4;"Koorimuusika";1;"Mehed";2010;2010;467
+"664";44;"Ida-Viru maakond";4;"Koorimuusika";1;"Mehed";2011;2011;446
+"665";44;"Ida-Viru maakond";4;"Koorimuusika";1;"Mehed";2012;2012;446
+"666";44;"Ida-Viru maakond";4;"Koorimuusika";1;"Mehed";2013;2013;446
+"667";44;"Ida-Viru maakond";4;"Koorimuusika";1;"Mehed";2014;2014;446
+"668";44;"Ida-Viru maakond";4;"Koorimuusika";1;"Mehed";2015;2015;441
+"669";44;"Ida-Viru maakond";4;"Koorimuusika";1;"Mehed";2016;2016;462
+"670";44;"Ida-Viru maakond";4;"Koorimuusika";1;"Mehed";2017;2017;412
+"671";44;"Ida-Viru maakond";4;"Koorimuusika";1;"Mehed";2018;2018;366
+"672";44;"Ida-Viru maakond";4;"Koorimuusika";2;"Naised";2008;2008;1681
+"673";44;"Ida-Viru maakond";4;"Koorimuusika";2;"Naised";2009;2009;1681
+"674";44;"Ida-Viru maakond";4;"Koorimuusika";2;"Naised";2010;2010;1694
+"675";44;"Ida-Viru maakond";4;"Koorimuusika";2;"Naised";2011;2011;1654
+"676";44;"Ida-Viru maakond";4;"Koorimuusika";2;"Naised";2012;2012;1654
+"677";44;"Ida-Viru maakond";4;"Koorimuusika";2;"Naised";2013;2013;1654
+"678";44;"Ida-Viru maakond";4;"Koorimuusika";2;"Naised";2014;2014;1654
+"679";44;"Ida-Viru maakond";4;"Koorimuusika";2;"Naised";2015;2015;1624
+"680";44;"Ida-Viru maakond";4;"Koorimuusika";2;"Naised";2016;2016;1656
+"681";44;"Ida-Viru maakond";4;"Koorimuusika";2;"Naised";2017;2017;1553
+"682";44;"Ida-Viru maakond";4;"Koorimuusika";2;"Naised";2018;2018;1434
+"683";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;12
+"684";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;12
+"685";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;17
+"686";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;18
+"687";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;18
+"688";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;18
+"689";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;18
+"690";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;20
+"691";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;20
+"692";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;13
+"693";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;13
+"694";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;116
+"695";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;116
+"696";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;208
+"697";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;207
+"698";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;207
+"699";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;207
+"700";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;207
+"701";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;234
+"702";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;234
+"703";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;229
+"704";44;"Ida-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;200
+"705";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;159
+"706";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;165
+"707";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;153
+"708";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;156
+"709";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;156
+"710";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;156
+"711";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;156
+"712";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;158
+"713";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;158
+"714";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;136
+"715";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;114
+"716";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;88
+"717";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;90
+"718";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;76
+"719";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;87
+"720";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;87
+"721";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;87
+"722";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;87
+"723";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;91
+"724";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;91
+"725";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;76
+"726";44;"Ida-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;66
+"727";44;"Ida-Viru maakond";7;"Rahvatants";1;"Mehed";2008;2008;357
+"728";44;"Ida-Viru maakond";7;"Rahvatants";1;"Mehed";2009;2009;357
+"729";44;"Ida-Viru maakond";7;"Rahvatants";1;"Mehed";2010;2010;373
+"730";44;"Ida-Viru maakond";7;"Rahvatants";1;"Mehed";2011;2011;381
+"731";44;"Ida-Viru maakond";7;"Rahvatants";1;"Mehed";2012;2012;381
+"732";44;"Ida-Viru maakond";7;"Rahvatants";1;"Mehed";2013;2013;381
+"733";44;"Ida-Viru maakond";7;"Rahvatants";1;"Mehed";2014;2014;381
+"734";44;"Ida-Viru maakond";7;"Rahvatants";1;"Mehed";2015;2015;381
+"735";44;"Ida-Viru maakond";7;"Rahvatants";1;"Mehed";2016;2016;390
+"736";44;"Ida-Viru maakond";7;"Rahvatants";1;"Mehed";2017;2017;382
+"737";44;"Ida-Viru maakond";7;"Rahvatants";1;"Mehed";2018;2018;370
+"738";44;"Ida-Viru maakond";7;"Rahvatants";2;"Naised";2008;2008;702
+"739";44;"Ida-Viru maakond";7;"Rahvatants";2;"Naised";2009;2009;702
+"740";44;"Ida-Viru maakond";7;"Rahvatants";2;"Naised";2010;2010;675
+"741";44;"Ida-Viru maakond";7;"Rahvatants";2;"Naised";2011;2011;693
+"742";44;"Ida-Viru maakond";7;"Rahvatants";2;"Naised";2012;2012;693
+"743";44;"Ida-Viru maakond";7;"Rahvatants";2;"Naised";2013;2013;693
+"744";44;"Ida-Viru maakond";7;"Rahvatants";2;"Naised";2014;2014;693
+"745";44;"Ida-Viru maakond";7;"Rahvatants";2;"Naised";2015;2015;739
+"746";44;"Ida-Viru maakond";7;"Rahvatants";2;"Naised";2016;2016;763
+"747";44;"Ida-Viru maakond";7;"Rahvatants";2;"Naised";2017;2017;728
+"748";44;"Ida-Viru maakond";7;"Rahvatants";2;"Naised";2018;2018;677
+"749";44;"Ida-Viru maakond";8;"Käsitöö";1;"Mehed";2008;2008;3
+"750";44;"Ida-Viru maakond";8;"Käsitöö";1;"Mehed";2009;2009;3
+"751";44;"Ida-Viru maakond";8;"Käsitöö";1;"Mehed";2010;2010;0
+"752";44;"Ida-Viru maakond";8;"Käsitöö";1;"Mehed";2011;2011;0
+"753";44;"Ida-Viru maakond";8;"Käsitöö";1;"Mehed";2012;2012;0
+"754";44;"Ida-Viru maakond";8;"Käsitöö";1;"Mehed";2013;2013;0
+"755";44;"Ida-Viru maakond";8;"Käsitöö";1;"Mehed";2014;2014;0
+"756";44;"Ida-Viru maakond";8;"Käsitöö";1;"Mehed";2015;2015;5
+"757";44;"Ida-Viru maakond";8;"Käsitöö";1;"Mehed";2016;2016;5
+"758";44;"Ida-Viru maakond";8;"Käsitöö";1;"Mehed";2017;2017;5
+"759";44;"Ida-Viru maakond";8;"Käsitöö";1;"Mehed";2018;2018;5
+"760";44;"Ida-Viru maakond";8;"Käsitöö";2;"Naised";2008;2008;421
+"761";44;"Ida-Viru maakond";8;"Käsitöö";2;"Naised";2009;2009;421
+"762";44;"Ida-Viru maakond";8;"Käsitöö";2;"Naised";2010;2010;303
+"763";44;"Ida-Viru maakond";8;"Käsitöö";2;"Naised";2011;2011;303
+"764";44;"Ida-Viru maakond";8;"Käsitöö";2;"Naised";2012;2012;303
+"765";44;"Ida-Viru maakond";8;"Käsitöö";2;"Naised";2013;2013;303
+"766";44;"Ida-Viru maakond";8;"Käsitöö";2;"Naised";2014;2014;303
+"767";44;"Ida-Viru maakond";8;"Käsitöö";2;"Naised";2015;2015;341
+"768";44;"Ida-Viru maakond";8;"Käsitöö";2;"Naised";2016;2016;341
+"769";44;"Ida-Viru maakond";8;"Käsitöö";2;"Naised";2017;2017;341
+"770";44;"Ida-Viru maakond";8;"Käsitöö";2;"Naised";2018;2018;316
+"771";44;"Ida-Viru maakond";9;"Muu valdkond";1;"Mehed";2008;2008;10
+"772";44;"Ida-Viru maakond";9;"Muu valdkond";1;"Mehed";2009;2009;10
+"773";44;"Ida-Viru maakond";9;"Muu valdkond";1;"Mehed";2010;2010;25
+"774";44;"Ida-Viru maakond";9;"Muu valdkond";1;"Mehed";2011;2011;16
+"775";44;"Ida-Viru maakond";9;"Muu valdkond";1;"Mehed";2012;2012;16
+"776";44;"Ida-Viru maakond";9;"Muu valdkond";1;"Mehed";2013;2013;16
+"777";44;"Ida-Viru maakond";9;"Muu valdkond";1;"Mehed";2014;2014;16
+"778";44;"Ida-Viru maakond";9;"Muu valdkond";1;"Mehed";2015;2015;35
+"779";44;"Ida-Viru maakond";9;"Muu valdkond";1;"Mehed";2016;2016;35
+"780";44;"Ida-Viru maakond";9;"Muu valdkond";1;"Mehed";2017;2017;35
+"781";44;"Ida-Viru maakond";9;"Muu valdkond";1;"Mehed";2018;2018;35
+"782";44;"Ida-Viru maakond";9;"Muu valdkond";2;"Naised";2008;2008;20
+"783";44;"Ida-Viru maakond";9;"Muu valdkond";2;"Naised";2009;2009;20
+"784";44;"Ida-Viru maakond";9;"Muu valdkond";2;"Naised";2010;2010;44
+"785";44;"Ida-Viru maakond";9;"Muu valdkond";2;"Naised";2011;2011;51
+"786";44;"Ida-Viru maakond";9;"Muu valdkond";2;"Naised";2012;2012;51
+"787";44;"Ida-Viru maakond";9;"Muu valdkond";2;"Naised";2013;2013;51
+"788";44;"Ida-Viru maakond";9;"Muu valdkond";2;"Naised";2014;2014;51
+"789";44;"Ida-Viru maakond";9;"Muu valdkond";2;"Naised";2015;2015;159
+"790";44;"Ida-Viru maakond";9;"Muu valdkond";2;"Naised";2016;2016;184
+"791";44;"Ida-Viru maakond";9;"Muu valdkond";2;"Naised";2017;2017;184
+"792";44;"Ida-Viru maakond";9;"Muu valdkond";2;"Naised";2018;2018;184
+"815";49;"Jõgeva maakond";2;"Folkloor";1;"Mehed";2008;2008;15
+"816";49;"Jõgeva maakond";2;"Folkloor";1;"Mehed";2009;2009;15
+"817";49;"Jõgeva maakond";2;"Folkloor";1;"Mehed";2010;2010;15
+"818";49;"Jõgeva maakond";2;"Folkloor";1;"Mehed";2011;2011;9
+"819";49;"Jõgeva maakond";2;"Folkloor";1;"Mehed";2012;2012;9
+"820";49;"Jõgeva maakond";2;"Folkloor";1;"Mehed";2013;2013;9
+"821";49;"Jõgeva maakond";2;"Folkloor";1;"Mehed";2014;2014;9
+"822";49;"Jõgeva maakond";2;"Folkloor";1;"Mehed";2015;2015;9
+"823";49;"Jõgeva maakond";2;"Folkloor";1;"Mehed";2016;2016;9
+"824";49;"Jõgeva maakond";2;"Folkloor";1;"Mehed";2017;2017;9
+"825";49;"Jõgeva maakond";2;"Folkloor";1;"Mehed";2018;2018;7
+"826";49;"Jõgeva maakond";2;"Folkloor";2;"Naised";2008;2008;42
+"827";49;"Jõgeva maakond";2;"Folkloor";2;"Naised";2009;2009;44
+"828";49;"Jõgeva maakond";2;"Folkloor";2;"Naised";2010;2010;44
+"829";49;"Jõgeva maakond";2;"Folkloor";2;"Naised";2011;2011;30
+"830";49;"Jõgeva maakond";2;"Folkloor";2;"Naised";2012;2012;30
+"831";49;"Jõgeva maakond";2;"Folkloor";2;"Naised";2013;2013;30
+"832";49;"Jõgeva maakond";2;"Folkloor";2;"Naised";2014;2014;30
+"833";49;"Jõgeva maakond";2;"Folkloor";2;"Naised";2015;2015;30
+"834";49;"Jõgeva maakond";2;"Folkloor";2;"Naised";2016;2016;30
+"835";49;"Jõgeva maakond";2;"Folkloor";2;"Naised";2017;2017;30
+"836";49;"Jõgeva maakond";2;"Folkloor";2;"Naised";2018;2018;24
+"837";49;"Jõgeva maakond";3;"Harrastusteater";1;"Mehed";2008;2008;106
+"838";49;"Jõgeva maakond";3;"Harrastusteater";1;"Mehed";2009;2009;106
+"839";49;"Jõgeva maakond";3;"Harrastusteater";1;"Mehed";2010;2010;109
+"840";49;"Jõgeva maakond";3;"Harrastusteater";1;"Mehed";2011;2011;97
+"841";49;"Jõgeva maakond";3;"Harrastusteater";1;"Mehed";2012;2012;105
+"842";49;"Jõgeva maakond";3;"Harrastusteater";1;"Mehed";2013;2013;112
+"843";49;"Jõgeva maakond";3;"Harrastusteater";1;"Mehed";2014;2014;115
+"844";49;"Jõgeva maakond";3;"Harrastusteater";1;"Mehed";2015;2015;114
+"845";49;"Jõgeva maakond";3;"Harrastusteater";1;"Mehed";2016;2016;112
+"846";49;"Jõgeva maakond";3;"Harrastusteater";1;"Mehed";2017;2017;112
+"847";49;"Jõgeva maakond";3;"Harrastusteater";1;"Mehed";2018;2018;86
+"848";49;"Jõgeva maakond";3;"Harrastusteater";2;"Naised";2008;2008;173
+"849";49;"Jõgeva maakond";3;"Harrastusteater";2;"Naised";2009;2009;173
+"850";49;"Jõgeva maakond";3;"Harrastusteater";2;"Naised";2010;2010;176
+"851";49;"Jõgeva maakond";3;"Harrastusteater";2;"Naised";2011;2011;152
+"852";49;"Jõgeva maakond";3;"Harrastusteater";2;"Naised";2012;2012;160
+"853";49;"Jõgeva maakond";3;"Harrastusteater";2;"Naised";2013;2013;177
+"854";49;"Jõgeva maakond";3;"Harrastusteater";2;"Naised";2014;2014;181
+"855";49;"Jõgeva maakond";3;"Harrastusteater";2;"Naised";2015;2015;184
+"856";49;"Jõgeva maakond";3;"Harrastusteater";2;"Naised";2016;2016;171
+"857";49;"Jõgeva maakond";3;"Harrastusteater";2;"Naised";2017;2017;171
+"858";49;"Jõgeva maakond";3;"Harrastusteater";2;"Naised";2018;2018;129
+"859";49;"Jõgeva maakond";4;"Koorimuusika";1;"Mehed";2008;2008;379
+"860";49;"Jõgeva maakond";4;"Koorimuusika";1;"Mehed";2009;2009;379
+"861";49;"Jõgeva maakond";4;"Koorimuusika";1;"Mehed";2010;2010;384
+"862";49;"Jõgeva maakond";4;"Koorimuusika";1;"Mehed";2011;2011;377
+"863";49;"Jõgeva maakond";4;"Koorimuusika";1;"Mehed";2012;2012;377
+"864";49;"Jõgeva maakond";4;"Koorimuusika";1;"Mehed";2013;2013;389
+"865";49;"Jõgeva maakond";4;"Koorimuusika";1;"Mehed";2014;2014;389
+"866";49;"Jõgeva maakond";4;"Koorimuusika";1;"Mehed";2015;2015;389
+"867";49;"Jõgeva maakond";4;"Koorimuusika";1;"Mehed";2016;2016;372
+"868";49;"Jõgeva maakond";4;"Koorimuusika";1;"Mehed";2017;2017;366
+"869";49;"Jõgeva maakond";4;"Koorimuusika";1;"Mehed";2018;2018;187
+"870";49;"Jõgeva maakond";4;"Koorimuusika";2;"Naised";2008;2008;1034
+"871";49;"Jõgeva maakond";4;"Koorimuusika";2;"Naised";2009;2009;1034
+"872";49;"Jõgeva maakond";4;"Koorimuusika";2;"Naised";2010;2010;1049
+"873";49;"Jõgeva maakond";4;"Koorimuusika";2;"Naised";2011;2011;1001
+"874";49;"Jõgeva maakond";4;"Koorimuusika";2;"Naised";2012;2012;1001
+"875";49;"Jõgeva maakond";4;"Koorimuusika";2;"Naised";2013;2013;1021
+"876";49;"Jõgeva maakond";4;"Koorimuusika";2;"Naised";2014;2014;1021
+"877";49;"Jõgeva maakond";4;"Koorimuusika";2;"Naised";2015;2015;1021
+"878";49;"Jõgeva maakond";4;"Koorimuusika";2;"Naised";2016;2016;1033
+"879";49;"Jõgeva maakond";4;"Koorimuusika";2;"Naised";2017;2017;1012
+"880";49;"Jõgeva maakond";4;"Koorimuusika";2;"Naised";2018;2018;816
+"881";49;"Jõgeva maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;13
+"882";49;"Jõgeva maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;13
+"883";49;"Jõgeva maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;13
+"884";49;"Jõgeva maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;13
+"885";49;"Jõgeva maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;13
+"886";49;"Jõgeva maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;9
+"887";49;"Jõgeva maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;9
+"888";49;"Jõgeva maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;9
+"889";49;"Jõgeva maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;9
+"890";49;"Jõgeva maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;9
+"891";49;"Jõgeva maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;9
+"892";49;"Jõgeva maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;78
+"893";49;"Jõgeva maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;88
+"894";49;"Jõgeva maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;99
+"895";49;"Jõgeva maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;102
+"896";49;"Jõgeva maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;102
+"897";49;"Jõgeva maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;101
+"898";49;"Jõgeva maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;101
+"899";49;"Jõgeva maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;99
+"900";49;"Jõgeva maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;101
+"901";49;"Jõgeva maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;101
+"902";49;"Jõgeva maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;82
+"903";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;144
+"904";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;144
+"905";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;129
+"906";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;135
+"907";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;135
+"908";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;135
+"909";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;135
+"910";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;135
+"911";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;135
+"912";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;135
+"913";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;133
+"914";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;66
+"915";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;66
+"916";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;72
+"917";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;73
+"918";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;73
+"919";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;72
+"920";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;72
+"921";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;76
+"922";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;72
+"923";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;72
+"924";49;"Jõgeva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;61
+"925";49;"Jõgeva maakond";7;"Rahvatants";1;"Mehed";2008;2008;301
+"926";49;"Jõgeva maakond";7;"Rahvatants";1;"Mehed";2009;2009;301
+"927";49;"Jõgeva maakond";7;"Rahvatants";1;"Mehed";2010;2010;301
+"928";49;"Jõgeva maakond";7;"Rahvatants";1;"Mehed";2011;2011;268
+"929";49;"Jõgeva maakond";7;"Rahvatants";1;"Mehed";2012;2012;276
+"930";49;"Jõgeva maakond";7;"Rahvatants";1;"Mehed";2013;2013;336
+"931";49;"Jõgeva maakond";7;"Rahvatants";1;"Mehed";2014;2014;336
+"932";49;"Jõgeva maakond";7;"Rahvatants";1;"Mehed";2015;2015;340
+"933";49;"Jõgeva maakond";7;"Rahvatants";1;"Mehed";2016;2016;336
+"934";49;"Jõgeva maakond";7;"Rahvatants";1;"Mehed";2017;2017;328
+"935";49;"Jõgeva maakond";7;"Rahvatants";1;"Mehed";2018;2018;203
+"936";49;"Jõgeva maakond";7;"Rahvatants";2;"Naised";2008;2008;618
+"937";49;"Jõgeva maakond";7;"Rahvatants";2;"Naised";2009;2009;618
+"938";49;"Jõgeva maakond";7;"Rahvatants";2;"Naised";2010;2010;628
+"939";49;"Jõgeva maakond";7;"Rahvatants";2;"Naised";2011;2011;594
+"940";49;"Jõgeva maakond";7;"Rahvatants";2;"Naised";2012;2012;604
+"941";49;"Jõgeva maakond";7;"Rahvatants";2;"Naised";2013;2013;697
+"942";49;"Jõgeva maakond";7;"Rahvatants";2;"Naised";2014;2014;731
+"943";49;"Jõgeva maakond";7;"Rahvatants";2;"Naised";2015;2015;774
+"944";49;"Jõgeva maakond";7;"Rahvatants";2;"Naised";2016;2016;768
+"945";49;"Jõgeva maakond";7;"Rahvatants";2;"Naised";2017;2017;759
+"946";49;"Jõgeva maakond";7;"Rahvatants";2;"Naised";2018;2018;499
+"947";49;"Jõgeva maakond";8;"Käsitöö";1;"Mehed";2008;2008;0
+"948";49;"Jõgeva maakond";8;"Käsitöö";1;"Mehed";2009;2009;0
+"949";49;"Jõgeva maakond";8;"Käsitöö";1;"Mehed";2010;2010;0
+"950";49;"Jõgeva maakond";8;"Käsitöö";1;"Mehed";2011;2011;0
+"951";49;"Jõgeva maakond";8;"Käsitöö";1;"Mehed";2012;2012;0
+"952";49;"Jõgeva maakond";8;"Käsitöö";1;"Mehed";2013;2013;0
+"953";49;"Jõgeva maakond";8;"Käsitöö";1;"Mehed";2014;2014;0
+"954";49;"Jõgeva maakond";8;"Käsitöö";1;"Mehed";2015;2015;0
+"955";49;"Jõgeva maakond";8;"Käsitöö";1;"Mehed";2016;2016;0
+"956";49;"Jõgeva maakond";8;"Käsitöö";1;"Mehed";2017;2017;0
+"957";49;"Jõgeva maakond";8;"Käsitöö";1;"Mehed";2018;2018;0
+"958";49;"Jõgeva maakond";8;"Käsitöö";2;"Naised";2008;2008;133
+"959";49;"Jõgeva maakond";8;"Käsitöö";2;"Naised";2009;2009;136
+"960";49;"Jõgeva maakond";8;"Käsitöö";2;"Naised";2010;2010;148
+"961";49;"Jõgeva maakond";8;"Käsitöö";2;"Naised";2011;2011;148
+"962";49;"Jõgeva maakond";8;"Käsitöö";2;"Naised";2012;2012;148
+"963";49;"Jõgeva maakond";8;"Käsitöö";2;"Naised";2013;2013;162
+"964";49;"Jõgeva maakond";8;"Käsitöö";2;"Naised";2014;2014;162
+"965";49;"Jõgeva maakond";8;"Käsitöö";2;"Naised";2015;2015;162
+"966";49;"Jõgeva maakond";8;"Käsitöö";2;"Naised";2016;2016;166
+"967";49;"Jõgeva maakond";8;"Käsitöö";2;"Naised";2017;2017;162
+"968";49;"Jõgeva maakond";8;"Käsitöö";2;"Naised";2018;2018;140
+"969";49;"Jõgeva maakond";9;"Muu valdkond";1;"Mehed";2008;2008;10
+"970";49;"Jõgeva maakond";9;"Muu valdkond";1;"Mehed";2009;2009;10
+"971";49;"Jõgeva maakond";9;"Muu valdkond";1;"Mehed";2010;2010;10
+"972";49;"Jõgeva maakond";9;"Muu valdkond";1;"Mehed";2011;2011;10
+"973";49;"Jõgeva maakond";9;"Muu valdkond";1;"Mehed";2012;2012;10
+"974";49;"Jõgeva maakond";9;"Muu valdkond";1;"Mehed";2013;2013;10
+"975";49;"Jõgeva maakond";9;"Muu valdkond";1;"Mehed";2014;2014;10
+"976";49;"Jõgeva maakond";9;"Muu valdkond";1;"Mehed";2015;2015;24
+"977";49;"Jõgeva maakond";9;"Muu valdkond";1;"Mehed";2016;2016;10
+"978";49;"Jõgeva maakond";9;"Muu valdkond";1;"Mehed";2017;2017;10
+"979";49;"Jõgeva maakond";9;"Muu valdkond";1;"Mehed";2018;2018;10
+"980";49;"Jõgeva maakond";9;"Muu valdkond";2;"Naised";2008;2008;4
+"981";49;"Jõgeva maakond";9;"Muu valdkond";2;"Naised";2009;2009;4
+"982";49;"Jõgeva maakond";9;"Muu valdkond";2;"Naised";2010;2010;4
+"983";49;"Jõgeva maakond";9;"Muu valdkond";2;"Naised";2011;2011;4
+"984";49;"Jõgeva maakond";9;"Muu valdkond";2;"Naised";2012;2012;4
+"985";49;"Jõgeva maakond";9;"Muu valdkond";2;"Naised";2013;2013;4
+"986";49;"Jõgeva maakond";9;"Muu valdkond";2;"Naised";2014;2014;4
+"987";49;"Jõgeva maakond";9;"Muu valdkond";2;"Naised";2015;2015;17
+"988";49;"Jõgeva maakond";9;"Muu valdkond";2;"Naised";2016;2016;4
+"989";49;"Jõgeva maakond";9;"Muu valdkond";2;"Naised";2017;2017;4
+"990";49;"Jõgeva maakond";9;"Muu valdkond";2;"Naised";2018;2018;4
+"1013";51;"Järva maakond";2;"Folkloor";1;"Mehed";2008;2008;9
+"1014";51;"Järva maakond";2;"Folkloor";1;"Mehed";2009;2009;10
+"1015";51;"Järva maakond";2;"Folkloor";1;"Mehed";2010;2010;6
+"1016";51;"Järva maakond";2;"Folkloor";1;"Mehed";2011;2011;9
+"1017";51;"Järva maakond";2;"Folkloor";1;"Mehed";2012;2012;9
+"1018";51;"Järva maakond";2;"Folkloor";1;"Mehed";2013;2013;9
+"1019";51;"Järva maakond";2;"Folkloor";1;"Mehed";2014;2014;9
+"1020";51;"Järva maakond";2;"Folkloor";1;"Mehed";2015;2015;9
+"1021";51;"Järva maakond";2;"Folkloor";1;"Mehed";2016;2016;11
+"1022";51;"Järva maakond";2;"Folkloor";1;"Mehed";2017;2017;11
+"1023";51;"Järva maakond";2;"Folkloor";1;"Mehed";2018;2018;11
+"1024";51;"Järva maakond";2;"Folkloor";2;"Naised";2008;2008;47
+"1025";51;"Järva maakond";2;"Folkloor";2;"Naised";2009;2009;51
+"1026";51;"Järva maakond";2;"Folkloor";2;"Naised";2010;2010;44
+"1027";51;"Järva maakond";2;"Folkloor";2;"Naised";2011;2011;27
+"1028";51;"Järva maakond";2;"Folkloor";2;"Naised";2012;2012;27
+"1029";51;"Järva maakond";2;"Folkloor";2;"Naised";2013;2013;27
+"1030";51;"Järva maakond";2;"Folkloor";2;"Naised";2014;2014;40
+"1031";51;"Järva maakond";2;"Folkloor";2;"Naised";2015;2015;35
+"1032";51;"Järva maakond";2;"Folkloor";2;"Naised";2016;2016;43
+"1033";51;"Järva maakond";2;"Folkloor";2;"Naised";2017;2017;43
+"1034";51;"Järva maakond";2;"Folkloor";2;"Naised";2018;2018;35
+"1035";51;"Järva maakond";3;"Harrastusteater";1;"Mehed";2008;2008;31
+"1036";51;"Järva maakond";3;"Harrastusteater";1;"Mehed";2009;2009;48
+"1037";51;"Järva maakond";3;"Harrastusteater";1;"Mehed";2010;2010;51
+"1038";51;"Järva maakond";3;"Harrastusteater";1;"Mehed";2011;2011;72
+"1039";51;"Järva maakond";3;"Harrastusteater";1;"Mehed";2012;2012;72
+"1040";51;"Järva maakond";3;"Harrastusteater";1;"Mehed";2013;2013;65
+"1041";51;"Järva maakond";3;"Harrastusteater";1;"Mehed";2014;2014;120
+"1042";51;"Järva maakond";3;"Harrastusteater";1;"Mehed";2015;2015;128
+"1043";51;"Järva maakond";3;"Harrastusteater";1;"Mehed";2016;2016;134
+"1044";51;"Järva maakond";3;"Harrastusteater";1;"Mehed";2017;2017;134
+"1045";51;"Järva maakond";3;"Harrastusteater";1;"Mehed";2018;2018;68
+"1046";51;"Järva maakond";3;"Harrastusteater";2;"Naised";2008;2008;74
+"1047";51;"Järva maakond";3;"Harrastusteater";2;"Naised";2009;2009;83
+"1048";51;"Järva maakond";3;"Harrastusteater";2;"Naised";2010;2010;88
+"1049";51;"Järva maakond";3;"Harrastusteater";2;"Naised";2011;2011;113
+"1050";51;"Järva maakond";3;"Harrastusteater";2;"Naised";2012;2012;113
+"1051";51;"Järva maakond";3;"Harrastusteater";2;"Naised";2013;2013;101
+"1052";51;"Järva maakond";3;"Harrastusteater";2;"Naised";2014;2014;179
+"1053";51;"Järva maakond";3;"Harrastusteater";2;"Naised";2015;2015;180
+"1054";51;"Järva maakond";3;"Harrastusteater";2;"Naised";2016;2016;184
+"1055";51;"Järva maakond";3;"Harrastusteater";2;"Naised";2017;2017;184
+"1056";51;"Järva maakond";3;"Harrastusteater";2;"Naised";2018;2018;99
+"1057";51;"Järva maakond";4;"Koorimuusika";1;"Mehed";2008;2008;345
+"1058";51;"Järva maakond";4;"Koorimuusika";1;"Mehed";2009;2009;371
+"1059";51;"Järva maakond";4;"Koorimuusika";1;"Mehed";2010;2010;375
+"1060";51;"Järva maakond";4;"Koorimuusika";1;"Mehed";2011;2011;388
+"1061";51;"Järva maakond";4;"Koorimuusika";1;"Mehed";2012;2012;388
+"1062";51;"Järva maakond";4;"Koorimuusika";1;"Mehed";2013;2013;388
+"1063";51;"Järva maakond";4;"Koorimuusika";1;"Mehed";2014;2014;421
+"1064";51;"Järva maakond";4;"Koorimuusika";1;"Mehed";2015;2015;413
+"1065";51;"Järva maakond";4;"Koorimuusika";1;"Mehed";2016;2016;407
+"1066";51;"Järva maakond";4;"Koorimuusika";1;"Mehed";2017;2017;347
+"1067";51;"Järva maakond";4;"Koorimuusika";1;"Mehed";2018;2018;215
+"1068";51;"Järva maakond";4;"Koorimuusika";2;"Naised";2008;2008;969
+"1069";51;"Järva maakond";4;"Koorimuusika";2;"Naised";2009;2009;1021
+"1070";51;"Järva maakond";4;"Koorimuusika";2;"Naised";2010;2010;1031
+"1071";51;"Järva maakond";4;"Koorimuusika";2;"Naised";2011;2011;935
+"1072";51;"Järva maakond";4;"Koorimuusika";2;"Naised";2012;2012;909
+"1073";51;"Järva maakond";4;"Koorimuusika";2;"Naised";2013;2013;909
+"1074";51;"Järva maakond";4;"Koorimuusika";2;"Naised";2014;2014;1127
+"1075";51;"Järva maakond";4;"Koorimuusika";2;"Naised";2015;2015;1081
+"1076";51;"Järva maakond";4;"Koorimuusika";2;"Naised";2016;2016;1107
+"1077";51;"Järva maakond";4;"Koorimuusika";2;"Naised";2017;2017;1097
+"1078";51;"Järva maakond";4;"Koorimuusika";2;"Naised";2018;2018;755
+"1079";51;"Järva maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;4
+"1080";51;"Järva maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;24
+"1081";51;"Järva maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;28
+"1082";51;"Järva maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;32
+"1083";51;"Järva maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;34
+"1084";51;"Järva maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;32
+"1085";51;"Järva maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;48
+"1086";51;"Järva maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;40
+"1087";51;"Järva maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;51
+"1088";51;"Järva maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;41
+"1089";51;"Järva maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;32
+"1090";51;"Järva maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;9
+"1091";51;"Järva maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;112
+"1092";51;"Järva maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;119
+"1093";51;"Järva maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;126
+"1094";51;"Järva maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;122
+"1095";51;"Järva maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;122
+"1096";51;"Järva maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;149
+"1097";51;"Järva maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;164
+"1098";51;"Järva maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;177
+"1099";51;"Järva maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;169
+"1100";51;"Järva maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;129
+"1101";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;59
+"1102";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;58
+"1103";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;56
+"1104";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;56
+"1105";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;56
+"1106";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;69
+"1107";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;74
+"1108";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;70
+"1109";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;67
+"1110";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;67
+"1111";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;79
+"1112";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;114
+"1113";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;102
+"1114";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;97
+"1115";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;99
+"1116";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;99
+"1117";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;100
+"1118";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;104
+"1119";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;89
+"1120";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;72
+"1121";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;72
+"1122";51;"Järva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;90
+"1123";51;"Järva maakond";7;"Rahvatants";1;"Mehed";2008;2008;233
+"1124";51;"Järva maakond";7;"Rahvatants";1;"Mehed";2009;2009;249
+"1125";51;"Järva maakond";7;"Rahvatants";1;"Mehed";2010;2010;273
+"1126";51;"Järva maakond";7;"Rahvatants";1;"Mehed";2011;2011;243
+"1127";51;"Järva maakond";7;"Rahvatants";1;"Mehed";2012;2012;233
+"1128";51;"Järva maakond";7;"Rahvatants";1;"Mehed";2013;2013;225
+"1129";51;"Järva maakond";7;"Rahvatants";1;"Mehed";2014;2014;290
+"1130";51;"Järva maakond";7;"Rahvatants";1;"Mehed";2015;2015;382
+"1131";51;"Järva maakond";7;"Rahvatants";1;"Mehed";2016;2016;351
+"1132";51;"Järva maakond";7;"Rahvatants";1;"Mehed";2017;2017;371
+"1133";51;"Järva maakond";7;"Rahvatants";1;"Mehed";2018;2018;302
+"1134";51;"Järva maakond";7;"Rahvatants";2;"Naised";2008;2008;405
+"1135";51;"Järva maakond";7;"Rahvatants";2;"Naised";2009;2009;449
+"1136";51;"Järva maakond";7;"Rahvatants";2;"Naised";2010;2010;457
+"1137";51;"Järva maakond";7;"Rahvatants";2;"Naised";2011;2011;462
+"1138";51;"Järva maakond";7;"Rahvatants";2;"Naised";2012;2012;460
+"1139";51;"Järva maakond";7;"Rahvatants";2;"Naised";2013;2013;448
+"1140";51;"Järva maakond";7;"Rahvatants";2;"Naised";2014;2014;548
+"1141";51;"Järva maakond";7;"Rahvatants";2;"Naised";2015;2015;667
+"1142";51;"Järva maakond";7;"Rahvatants";2;"Naised";2016;2016;644
+"1143";51;"Järva maakond";7;"Rahvatants";2;"Naised";2017;2017;662
+"1144";51;"Järva maakond";7;"Rahvatants";2;"Naised";2018;2018;638
+"1145";51;"Järva maakond";8;"Käsitöö";1;"Mehed";2008;2008;0
+"1146";51;"Järva maakond";8;"Käsitöö";1;"Mehed";2009;2009;0
+"1147";51;"Järva maakond";8;"Käsitöö";1;"Mehed";2010;2010;0
+"1148";51;"Järva maakond";8;"Käsitöö";1;"Mehed";2011;2011;0
+"1149";51;"Järva maakond";8;"Käsitöö";1;"Mehed";2012;2012;0
+"1150";51;"Järva maakond";8;"Käsitöö";1;"Mehed";2013;2013;0
+"1151";51;"Järva maakond";8;"Käsitöö";1;"Mehed";2014;2014;0
+"1152";51;"Järva maakond";8;"Käsitöö";1;"Mehed";2015;2015;7
+"1153";51;"Järva maakond";8;"Käsitöö";1;"Mehed";2016;2016;7
+"1154";51;"Järva maakond";8;"Käsitöö";1;"Mehed";2017;2017;7
+"1155";51;"Järva maakond";8;"Käsitöö";1;"Mehed";2018;2018;7
+"1156";51;"Järva maakond";8;"Käsitöö";2;"Naised";2008;2008;79
+"1157";51;"Järva maakond";8;"Käsitöö";2;"Naised";2009;2009;87
+"1158";51;"Järva maakond";8;"Käsitöö";2;"Naised";2010;2010;139
+"1159";51;"Järva maakond";8;"Käsitöö";2;"Naised";2011;2011;139
+"1160";51;"Järva maakond";8;"Käsitöö";2;"Naised";2012;2012;139
+"1161";51;"Järva maakond";8;"Käsitöö";2;"Naised";2013;2013;157
+"1162";51;"Järva maakond";8;"Käsitöö";2;"Naised";2014;2014;167
+"1163";51;"Järva maakond";8;"Käsitöö";2;"Naised";2015;2015;192
+"1164";51;"Järva maakond";8;"Käsitöö";2;"Naised";2016;2016;215
+"1165";51;"Järva maakond";8;"Käsitöö";2;"Naised";2017;2017;215
+"1166";51;"Järva maakond";8;"Käsitöö";2;"Naised";2018;2018;160
+"1167";51;"Järva maakond";9;"Muu valdkond";1;"Mehed";2008;2008;5
+"1168";51;"Järva maakond";9;"Muu valdkond";1;"Mehed";2009;2009;51
+"1169";51;"Järva maakond";9;"Muu valdkond";1;"Mehed";2010;2010;51
+"1170";51;"Järva maakond";9;"Muu valdkond";1;"Mehed";2011;2011;51
+"1171";51;"Järva maakond";9;"Muu valdkond";1;"Mehed";2012;2012;51
+"1172";51;"Järva maakond";9;"Muu valdkond";1;"Mehed";2013;2013;51
+"1173";51;"Järva maakond";9;"Muu valdkond";1;"Mehed";2014;2014;67
+"1174";51;"Järva maakond";9;"Muu valdkond";1;"Mehed";2015;2015;64
+"1175";51;"Järva maakond";9;"Muu valdkond";1;"Mehed";2016;2016;64
+"1176";51;"Järva maakond";9;"Muu valdkond";1;"Mehed";2017;2017;79
+"1177";51;"Järva maakond";9;"Muu valdkond";1;"Mehed";2018;2018;30
+"1178";51;"Järva maakond";9;"Muu valdkond";2;"Naised";2008;2008;15
+"1179";51;"Järva maakond";9;"Muu valdkond";2;"Naised";2009;2009;159
+"1180";51;"Järva maakond";9;"Muu valdkond";2;"Naised";2010;2010;159
+"1181";51;"Järva maakond";9;"Muu valdkond";2;"Naised";2011;2011;159
+"1182";51;"Järva maakond";9;"Muu valdkond";2;"Naised";2012;2012;159
+"1183";51;"Järva maakond";9;"Muu valdkond";2;"Naised";2013;2013;159
+"1184";51;"Järva maakond";9;"Muu valdkond";2;"Naised";2014;2014;170
+"1185";51;"Järva maakond";9;"Muu valdkond";2;"Naised";2015;2015;204
+"1186";51;"Järva maakond";9;"Muu valdkond";2;"Naised";2016;2016;214
+"1187";51;"Järva maakond";9;"Muu valdkond";2;"Naised";2017;2017;225
+"1188";51;"Järva maakond";9;"Muu valdkond";2;"Naised";2018;2018;91
+"1211";57;"Lääne maakond";2;"Folkloor";1;"Mehed";2008;2008;13
+"1212";57;"Lääne maakond";2;"Folkloor";1;"Mehed";2009;2009;6
+"1213";57;"Lääne maakond";2;"Folkloor";1;"Mehed";2010;2010;6
+"1214";57;"Lääne maakond";2;"Folkloor";1;"Mehed";2011;2011;17
+"1215";57;"Lääne maakond";2;"Folkloor";1;"Mehed";2012;2012;8
+"1216";57;"Lääne maakond";2;"Folkloor";1;"Mehed";2013;2013;8
+"1217";57;"Lääne maakond";2;"Folkloor";1;"Mehed";2014;2014;8
+"1218";57;"Lääne maakond";2;"Folkloor";1;"Mehed";2015;2015;11
+"1219";57;"Lääne maakond";2;"Folkloor";1;"Mehed";2016;2016;10
+"1220";57;"Lääne maakond";2;"Folkloor";1;"Mehed";2017;2017;10
+"1221";57;"Lääne maakond";2;"Folkloor";1;"Mehed";2018;2018;5
+"1222";57;"Lääne maakond";2;"Folkloor";2;"Naised";2008;2008;46
+"1223";57;"Lääne maakond";2;"Folkloor";2;"Naised";2009;2009;46
+"1224";57;"Lääne maakond";2;"Folkloor";2;"Naised";2010;2010;46
+"1225";57;"Lääne maakond";2;"Folkloor";2;"Naised";2011;2011;64
+"1226";57;"Lääne maakond";2;"Folkloor";2;"Naised";2012;2012;72
+"1227";57;"Lääne maakond";2;"Folkloor";2;"Naised";2013;2013;72
+"1228";57;"Lääne maakond";2;"Folkloor";2;"Naised";2014;2014;69
+"1229";57;"Lääne maakond";2;"Folkloor";2;"Naised";2015;2015;69
+"1230";57;"Lääne maakond";2;"Folkloor";2;"Naised";2016;2016;56
+"1231";57;"Lääne maakond";2;"Folkloor";2;"Naised";2017;2017;56
+"1232";57;"Lääne maakond";2;"Folkloor";2;"Naised";2018;2018;33
+"1233";57;"Lääne maakond";3;"Harrastusteater";1;"Mehed";2008;2008;72
+"1234";57;"Lääne maakond";3;"Harrastusteater";1;"Mehed";2009;2009;68
+"1235";57;"Lääne maakond";3;"Harrastusteater";1;"Mehed";2010;2010;95
+"1236";57;"Lääne maakond";3;"Harrastusteater";1;"Mehed";2011;2011;97
+"1237";57;"Lääne maakond";3;"Harrastusteater";1;"Mehed";2012;2012;87
+"1238";57;"Lääne maakond";3;"Harrastusteater";1;"Mehed";2013;2013;87
+"1239";57;"Lääne maakond";3;"Harrastusteater";1;"Mehed";2014;2014;78
+"1240";57;"Lääne maakond";3;"Harrastusteater";1;"Mehed";2015;2015;78
+"1241";57;"Lääne maakond";3;"Harrastusteater";1;"Mehed";2016;2016;77
+"1242";57;"Lääne maakond";3;"Harrastusteater";1;"Mehed";2017;2017;77
+"1243";57;"Lääne maakond";3;"Harrastusteater";1;"Mehed";2018;2018;50
+"1244";57;"Lääne maakond";3;"Harrastusteater";2;"Naised";2008;2008;179
+"1245";57;"Lääne maakond";3;"Harrastusteater";2;"Naised";2009;2009;187
+"1246";57;"Lääne maakond";3;"Harrastusteater";2;"Naised";2010;2010;211
+"1247";57;"Lääne maakond";3;"Harrastusteater";2;"Naised";2011;2011;206
+"1248";57;"Lääne maakond";3;"Harrastusteater";2;"Naised";2012;2012;192
+"1249";57;"Lääne maakond";3;"Harrastusteater";2;"Naised";2013;2013;192
+"1250";57;"Lääne maakond";3;"Harrastusteater";2;"Naised";2014;2014;154
+"1251";57;"Lääne maakond";3;"Harrastusteater";2;"Naised";2015;2015;154
+"1252";57;"Lääne maakond";3;"Harrastusteater";2;"Naised";2016;2016;144
+"1253";57;"Lääne maakond";3;"Harrastusteater";2;"Naised";2017;2017;144
+"1254";57;"Lääne maakond";3;"Harrastusteater";2;"Naised";2018;2018;89
+"1255";57;"Lääne maakond";4;"Koorimuusika";1;"Mehed";2008;2008;205
+"1256";57;"Lääne maakond";4;"Koorimuusika";1;"Mehed";2009;2009;136
+"1257";57;"Lääne maakond";4;"Koorimuusika";1;"Mehed";2010;2010;169
+"1258";57;"Lääne maakond";4;"Koorimuusika";1;"Mehed";2011;2011;235
+"1259";57;"Lääne maakond";4;"Koorimuusika";1;"Mehed";2012;2012;203
+"1260";57;"Lääne maakond";4;"Koorimuusika";1;"Mehed";2013;2013;203
+"1261";57;"Lääne maakond";4;"Koorimuusika";1;"Mehed";2014;2014;193
+"1262";57;"Lääne maakond";4;"Koorimuusika";1;"Mehed";2015;2015;216
+"1263";57;"Lääne maakond";4;"Koorimuusika";1;"Mehed";2016;2016;210
+"1264";57;"Lääne maakond";4;"Koorimuusika";1;"Mehed";2017;2017;210
+"1265";57;"Lääne maakond";4;"Koorimuusika";1;"Mehed";2018;2018;168
+"1266";57;"Lääne maakond";4;"Koorimuusika";2;"Naised";2008;2008;866
+"1267";57;"Lääne maakond";4;"Koorimuusika";2;"Naised";2009;2009;753
+"1268";57;"Lääne maakond";4;"Koorimuusika";2;"Naised";2010;2010;758
+"1269";57;"Lääne maakond";4;"Koorimuusika";2;"Naised";2011;2011;755
+"1270";57;"Lääne maakond";4;"Koorimuusika";2;"Naised";2012;2012;706
+"1271";57;"Lääne maakond";4;"Koorimuusika";2;"Naised";2013;2013;706
+"1272";57;"Lääne maakond";4;"Koorimuusika";2;"Naised";2014;2014;698
+"1273";57;"Lääne maakond";4;"Koorimuusika";2;"Naised";2015;2015;766
+"1274";57;"Lääne maakond";4;"Koorimuusika";2;"Naised";2016;2016;790
+"1275";57;"Lääne maakond";4;"Koorimuusika";2;"Naised";2017;2017;790
+"1276";57;"Lääne maakond";4;"Koorimuusika";2;"Naised";2018;2018;666
+"1277";57;"Lääne maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;6
+"1278";57;"Lääne maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;4
+"1279";57;"Lääne maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;9
+"1280";57;"Lääne maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;15
+"1281";57;"Lääne maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;14
+"1282";57;"Lääne maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;14
+"1283";57;"Lääne maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;16
+"1284";57;"Lääne maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;44
+"1285";57;"Lääne maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;38
+"1286";57;"Lääne maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;38
+"1287";57;"Lääne maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;32
+"1288";57;"Lääne maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;24
+"1289";57;"Lääne maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;26
+"1290";57;"Lääne maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;31
+"1291";57;"Lääne maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;42
+"1292";57;"Lääne maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;43
+"1293";57;"Lääne maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;43
+"1294";57;"Lääne maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;83
+"1295";57;"Lääne maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;93
+"1296";57;"Lääne maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;75
+"1297";57;"Lääne maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;75
+"1298";57;"Lääne maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;60
+"1299";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;94
+"1300";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;72
+"1301";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;72
+"1302";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;46
+"1303";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;48
+"1304";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;48
+"1305";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;48
+"1306";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;50
+"1307";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;50
+"1308";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;50
+"1309";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;47
+"1310";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;66
+"1311";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;68
+"1312";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;73
+"1313";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;61
+"1314";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;57
+"1315";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;57
+"1316";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;51
+"1317";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;48
+"1318";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;50
+"1319";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;50
+"1320";57;"Lääne maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;34
+"1321";57;"Lääne maakond";7;"Rahvatants";1;"Mehed";2008;2008;281
+"1322";57;"Lääne maakond";7;"Rahvatants";1;"Mehed";2009;2009;265
+"1323";57;"Lääne maakond";7;"Rahvatants";1;"Mehed";2010;2010;295
+"1324";57;"Lääne maakond";7;"Rahvatants";1;"Mehed";2011;2011;297
+"1325";57;"Lääne maakond";7;"Rahvatants";1;"Mehed";2012;2012;312
+"1326";57;"Lääne maakond";7;"Rahvatants";1;"Mehed";2013;2013;312
+"1327";57;"Lääne maakond";7;"Rahvatants";1;"Mehed";2014;2014;356
+"1328";57;"Lääne maakond";7;"Rahvatants";1;"Mehed";2015;2015;342
+"1329";57;"Lääne maakond";7;"Rahvatants";1;"Mehed";2016;2016;379
+"1330";57;"Lääne maakond";7;"Rahvatants";1;"Mehed";2017;2017;379
+"1331";57;"Lääne maakond";7;"Rahvatants";1;"Mehed";2018;2018;321
+"1332";57;"Lääne maakond";7;"Rahvatants";2;"Naised";2008;2008;533
+"1333";57;"Lääne maakond";7;"Rahvatants";2;"Naised";2009;2009;483
+"1334";57;"Lääne maakond";7;"Rahvatants";2;"Naised";2010;2010;531
+"1335";57;"Lääne maakond";7;"Rahvatants";2;"Naised";2011;2011;554
+"1336";57;"Lääne maakond";7;"Rahvatants";2;"Naised";2012;2012;587
+"1337";57;"Lääne maakond";7;"Rahvatants";2;"Naised";2013;2013;587
+"1338";57;"Lääne maakond";7;"Rahvatants";2;"Naised";2014;2014;589
+"1339";57;"Lääne maakond";7;"Rahvatants";2;"Naised";2015;2015;617
+"1340";57;"Lääne maakond";7;"Rahvatants";2;"Naised";2016;2016;760
+"1341";57;"Lääne maakond";7;"Rahvatants";2;"Naised";2017;2017;760
+"1342";57;"Lääne maakond";7;"Rahvatants";2;"Naised";2018;2018;566
+"1343";57;"Lääne maakond";8;"Käsitöö";1;"Mehed";2008;2008;0
+"1344";57;"Lääne maakond";8;"Käsitöö";1;"Mehed";2009;2009;0
+"1345";57;"Lääne maakond";8;"Käsitöö";1;"Mehed";2010;2010;0
+"1346";57;"Lääne maakond";8;"Käsitöö";1;"Mehed";2011;2011;0
+"1347";57;"Lääne maakond";8;"Käsitöö";1;"Mehed";2012;2012;0
+"1348";57;"Lääne maakond";8;"Käsitöö";1;"Mehed";2013;2013;0
+"1349";57;"Lääne maakond";8;"Käsitöö";1;"Mehed";2014;2014;0
+"1350";57;"Lääne maakond";8;"Käsitöö";1;"Mehed";2015;2015;0
+"1351";57;"Lääne maakond";8;"Käsitöö";1;"Mehed";2016;2016;0
+"1352";57;"Lääne maakond";8;"Käsitöö";1;"Mehed";2017;2017;0
+"1353";57;"Lääne maakond";8;"Käsitöö";1;"Mehed";2018;2018;0
+"1354";57;"Lääne maakond";8;"Käsitöö";2;"Naised";2008;2008;69
+"1355";57;"Lääne maakond";8;"Käsitöö";2;"Naised";2009;2009;69
+"1356";57;"Lääne maakond";8;"Käsitöö";2;"Naised";2010;2010;95
+"1357";57;"Lääne maakond";8;"Käsitöö";2;"Naised";2011;2011;136
+"1358";57;"Lääne maakond";8;"Käsitöö";2;"Naised";2012;2012;136
+"1359";57;"Lääne maakond";8;"Käsitöö";2;"Naised";2013;2013;136
+"1360";57;"Lääne maakond";8;"Käsitöö";2;"Naised";2014;2014;136
+"1361";57;"Lääne maakond";8;"Käsitöö";2;"Naised";2015;2015;136
+"1362";57;"Lääne maakond";8;"Käsitöö";2;"Naised";2016;2016;132
+"1363";57;"Lääne maakond";8;"Käsitöö";2;"Naised";2017;2017;136
+"1364";57;"Lääne maakond";8;"Käsitöö";2;"Naised";2018;2018;106
+"1365";57;"Lääne maakond";9;"Muu valdkond";1;"Mehed";2008;2008;10
+"1366";57;"Lääne maakond";9;"Muu valdkond";1;"Mehed";2009;2009;10
+"1367";57;"Lääne maakond";9;"Muu valdkond";1;"Mehed";2010;2010;5
+"1368";57;"Lääne maakond";9;"Muu valdkond";1;"Mehed";2011;2011;3
+"1369";57;"Lääne maakond";9;"Muu valdkond";1;"Mehed";2012;2012;3
+"1370";57;"Lääne maakond";9;"Muu valdkond";1;"Mehed";2013;2013;3
+"1371";57;"Lääne maakond";9;"Muu valdkond";1;"Mehed";2014;2014;3
+"1372";57;"Lääne maakond";9;"Muu valdkond";1;"Mehed";2015;2015;3
+"1373";57;"Lääne maakond";9;"Muu valdkond";1;"Mehed";2016;2016;2
+"1374";57;"Lääne maakond";9;"Muu valdkond";1;"Mehed";2017;2017;2
+"1375";57;"Lääne maakond";9;"Muu valdkond";1;"Mehed";2018;2018;6
+"1376";57;"Lääne maakond";9;"Muu valdkond";2;"Naised";2008;2008;7
+"1377";57;"Lääne maakond";9;"Muu valdkond";2;"Naised";2009;2009;7
+"1378";57;"Lääne maakond";9;"Muu valdkond";2;"Naised";2010;2010;21
+"1379";57;"Lääne maakond";9;"Muu valdkond";2;"Naised";2011;2011;20
+"1380";57;"Lääne maakond";9;"Muu valdkond";2;"Naised";2012;2012;20
+"1381";57;"Lääne maakond";9;"Muu valdkond";2;"Naised";2013;2013;20
+"1382";57;"Lääne maakond";9;"Muu valdkond";2;"Naised";2014;2014;16
+"1383";57;"Lääne maakond";9;"Muu valdkond";2;"Naised";2015;2015;20
+"1384";57;"Lääne maakond";9;"Muu valdkond";2;"Naised";2016;2016;20
+"1385";57;"Lääne maakond";9;"Muu valdkond";2;"Naised";2017;2017;20
+"1386";57;"Lääne maakond";9;"Muu valdkond";2;"Naised";2018;2018;26
+"1409";59;"Lääne-Viru maakond";2;"Folkloor";1;"Mehed";2008;2008;12
+"1410";59;"Lääne-Viru maakond";2;"Folkloor";1;"Mehed";2009;2009;14
+"1411";59;"Lääne-Viru maakond";2;"Folkloor";1;"Mehed";2010;2010;14
+"1412";59;"Lääne-Viru maakond";2;"Folkloor";1;"Mehed";2011;2011;14
+"1413";59;"Lääne-Viru maakond";2;"Folkloor";1;"Mehed";2012;2012;14
+"1414";59;"Lääne-Viru maakond";2;"Folkloor";1;"Mehed";2013;2013;52
+"1415";59;"Lääne-Viru maakond";2;"Folkloor";1;"Mehed";2014;2014;48
+"1416";59;"Lääne-Viru maakond";2;"Folkloor";1;"Mehed";2015;2015;63
+"1417";59;"Lääne-Viru maakond";2;"Folkloor";1;"Mehed";2016;2016;63
+"1418";59;"Lääne-Viru maakond";2;"Folkloor";1;"Mehed";2017;2017;63
+"1419";59;"Lääne-Viru maakond";2;"Folkloor";1;"Mehed";2018;2018;63
+"1420";59;"Lääne-Viru maakond";2;"Folkloor";2;"Naised";2008;2008;37
+"1421";59;"Lääne-Viru maakond";2;"Folkloor";2;"Naised";2009;2009;35
+"1422";59;"Lääne-Viru maakond";2;"Folkloor";2;"Naised";2010;2010;35
+"1423";59;"Lääne-Viru maakond";2;"Folkloor";2;"Naised";2011;2011;33
+"1424";59;"Lääne-Viru maakond";2;"Folkloor";2;"Naised";2012;2012;27
+"1425";59;"Lääne-Viru maakond";2;"Folkloor";2;"Naised";2013;2013;83
+"1426";59;"Lääne-Viru maakond";2;"Folkloor";2;"Naised";2014;2014;69
+"1427";59;"Lääne-Viru maakond";2;"Folkloor";2;"Naised";2015;2015;80
+"1428";59;"Lääne-Viru maakond";2;"Folkloor";2;"Naised";2016;2016;80
+"1429";59;"Lääne-Viru maakond";2;"Folkloor";2;"Naised";2017;2017;80
+"1430";59;"Lääne-Viru maakond";2;"Folkloor";2;"Naised";2018;2018;73
+"1431";59;"Lääne-Viru maakond";3;"Harrastusteater";1;"Mehed";2008;2008;88
+"1432";59;"Lääne-Viru maakond";3;"Harrastusteater";1;"Mehed";2009;2009;112
+"1433";59;"Lääne-Viru maakond";3;"Harrastusteater";1;"Mehed";2010;2010;117
+"1434";59;"Lääne-Viru maakond";3;"Harrastusteater";1;"Mehed";2011;2011;146
+"1435";59;"Lääne-Viru maakond";3;"Harrastusteater";1;"Mehed";2012;2012;167
+"1436";59;"Lääne-Viru maakond";3;"Harrastusteater";1;"Mehed";2013;2013;207
+"1437";59;"Lääne-Viru maakond";3;"Harrastusteater";1;"Mehed";2014;2014;206
+"1438";59;"Lääne-Viru maakond";3;"Harrastusteater";1;"Mehed";2015;2015;197
+"1439";59;"Lääne-Viru maakond";3;"Harrastusteater";1;"Mehed";2016;2016;180
+"1440";59;"Lääne-Viru maakond";3;"Harrastusteater";1;"Mehed";2017;2017;165
+"1441";59;"Lääne-Viru maakond";3;"Harrastusteater";1;"Mehed";2018;2018;163
+"1442";59;"Lääne-Viru maakond";3;"Harrastusteater";2;"Naised";2008;2008;172
+"1443";59;"Lääne-Viru maakond";3;"Harrastusteater";2;"Naised";2009;2009;190
+"1444";59;"Lääne-Viru maakond";3;"Harrastusteater";2;"Naised";2010;2010;196
+"1445";59;"Lääne-Viru maakond";3;"Harrastusteater";2;"Naised";2011;2011;271
+"1446";59;"Lääne-Viru maakond";3;"Harrastusteater";2;"Naised";2012;2012;322
+"1447";59;"Lääne-Viru maakond";3;"Harrastusteater";2;"Naised";2013;2013;375
+"1448";59;"Lääne-Viru maakond";3;"Harrastusteater";2;"Naised";2014;2014;393
+"1449";59;"Lääne-Viru maakond";3;"Harrastusteater";2;"Naised";2015;2015;358
+"1450";59;"Lääne-Viru maakond";3;"Harrastusteater";2;"Naised";2016;2016;338
+"1451";59;"Lääne-Viru maakond";3;"Harrastusteater";2;"Naised";2017;2017;306
+"1452";59;"Lääne-Viru maakond";3;"Harrastusteater";2;"Naised";2018;2018;285
+"1453";59;"Lääne-Viru maakond";4;"Koorimuusika";1;"Mehed";2008;2008;565
+"1454";59;"Lääne-Viru maakond";4;"Koorimuusika";1;"Mehed";2009;2009;535
+"1455";59;"Lääne-Viru maakond";4;"Koorimuusika";1;"Mehed";2010;2010;655
+"1456";59;"Lääne-Viru maakond";4;"Koorimuusika";1;"Mehed";2011;2011;655
+"1457";59;"Lääne-Viru maakond";4;"Koorimuusika";1;"Mehed";2012;2012;627
+"1458";59;"Lääne-Viru maakond";4;"Koorimuusika";1;"Mehed";2013;2013;591
+"1459";59;"Lääne-Viru maakond";4;"Koorimuusika";1;"Mehed";2014;2014;569
+"1460";59;"Lääne-Viru maakond";4;"Koorimuusika";1;"Mehed";2015;2015;552
+"1461";59;"Lääne-Viru maakond";4;"Koorimuusika";1;"Mehed";2016;2016;533
+"1462";59;"Lääne-Viru maakond";4;"Koorimuusika";1;"Mehed";2017;2017;520
+"1463";59;"Lääne-Viru maakond";4;"Koorimuusika";1;"Mehed";2018;2018;477
+"1464";59;"Lääne-Viru maakond";4;"Koorimuusika";2;"Naised";2008;2008;1407
+"1465";59;"Lääne-Viru maakond";4;"Koorimuusika";2;"Naised";2009;2009;1594
+"1466";59;"Lääne-Viru maakond";4;"Koorimuusika";2;"Naised";2010;2010;1708
+"1467";59;"Lääne-Viru maakond";4;"Koorimuusika";2;"Naised";2011;2011;1708
+"1468";59;"Lääne-Viru maakond";4;"Koorimuusika";2;"Naised";2012;2012;1662
+"1469";59;"Lääne-Viru maakond";4;"Koorimuusika";2;"Naised";2013;2013;3858
+"1470";59;"Lääne-Viru maakond";4;"Koorimuusika";2;"Naised";2014;2014;3931
+"1471";59;"Lääne-Viru maakond";4;"Koorimuusika";2;"Naised";2015;2015;1672
+"1472";59;"Lääne-Viru maakond";4;"Koorimuusika";2;"Naised";2016;2016;1578
+"1473";59;"Lääne-Viru maakond";4;"Koorimuusika";2;"Naised";2017;2017;1559
+"1474";59;"Lääne-Viru maakond";4;"Koorimuusika";2;"Naised";2018;2018;1351
+"1475";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;5
+"1476";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;26
+"1477";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;28
+"1478";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;28
+"1479";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;37
+"1480";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;38
+"1481";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;42
+"1482";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;42
+"1483";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;55
+"1484";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;54
+"1485";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;53
+"1486";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;158
+"1487";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;230
+"1488";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;228
+"1489";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;228
+"1490";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;263
+"1491";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;317
+"1492";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;306
+"1493";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;306
+"1494";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;301
+"1495";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;277
+"1496";59;"Lääne-Viru maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;293
+"1497";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;162
+"1498";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;154
+"1499";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;149
+"1500";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;153
+"1501";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;153
+"1502";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;145
+"1503";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;141
+"1504";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;126
+"1505";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;141
+"1506";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;106
+"1507";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;118
+"1508";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;115
+"1509";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;140
+"1510";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;159
+"1511";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;160
+"1512";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;172
+"1513";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;159
+"1514";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;155
+"1515";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;152
+"1516";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;177
+"1517";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;135
+"1518";59;"Lääne-Viru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;136
+"1519";59;"Lääne-Viru maakond";7;"Rahvatants";1;"Mehed";2008;2008;382
+"1520";59;"Lääne-Viru maakond";7;"Rahvatants";1;"Mehed";2009;2009;385
+"1521";59;"Lääne-Viru maakond";7;"Rahvatants";1;"Mehed";2010;2010;433
+"1522";59;"Lääne-Viru maakond";7;"Rahvatants";1;"Mehed";2011;2011;433
+"1523";59;"Lääne-Viru maakond";7;"Rahvatants";1;"Mehed";2012;2012;425
+"1524";59;"Lääne-Viru maakond";7;"Rahvatants";1;"Mehed";2013;2013;411
+"1525";59;"Lääne-Viru maakond";7;"Rahvatants";1;"Mehed";2014;2014;406
+"1526";59;"Lääne-Viru maakond";7;"Rahvatants";1;"Mehed";2015;2015;387
+"1527";59;"Lääne-Viru maakond";7;"Rahvatants";1;"Mehed";2016;2016;426
+"1528";59;"Lääne-Viru maakond";7;"Rahvatants";1;"Mehed";2017;2017;416
+"1529";59;"Lääne-Viru maakond";7;"Rahvatants";1;"Mehed";2018;2018;386
+"1530";59;"Lääne-Viru maakond";7;"Rahvatants";2;"Naised";2008;2008;875
+"1531";59;"Lääne-Viru maakond";7;"Rahvatants";2;"Naised";2009;2009;843
+"1532";59;"Lääne-Viru maakond";7;"Rahvatants";2;"Naised";2010;2010;911
+"1533";59;"Lääne-Viru maakond";7;"Rahvatants";2;"Naised";2011;2011;917
+"1534";59;"Lääne-Viru maakond";7;"Rahvatants";2;"Naised";2012;2012;872
+"1535";59;"Lääne-Viru maakond";7;"Rahvatants";2;"Naised";2013;2013;823
+"1536";59;"Lääne-Viru maakond";7;"Rahvatants";2;"Naised";2014;2014;825
+"1537";59;"Lääne-Viru maakond";7;"Rahvatants";2;"Naised";2015;2015;813
+"1538";59;"Lääne-Viru maakond";7;"Rahvatants";2;"Naised";2016;2016;828
+"1539";59;"Lääne-Viru maakond";7;"Rahvatants";2;"Naised";2017;2017;817
+"1540";59;"Lääne-Viru maakond";7;"Rahvatants";2;"Naised";2018;2018;774
+"1541";59;"Lääne-Viru maakond";8;"Käsitöö";1;"Mehed";2008;2008;0
+"1542";59;"Lääne-Viru maakond";8;"Käsitöö";1;"Mehed";2009;2009;0
+"1543";59;"Lääne-Viru maakond";8;"Käsitöö";1;"Mehed";2010;2010;0
+"1544";59;"Lääne-Viru maakond";8;"Käsitöö";1;"Mehed";2011;2011;0
+"1545";59;"Lääne-Viru maakond";8;"Käsitöö";1;"Mehed";2012;2012;8
+"1546";59;"Lääne-Viru maakond";8;"Käsitöö";1;"Mehed";2013;2013;8
+"1547";59;"Lääne-Viru maakond";8;"Käsitöö";1;"Mehed";2014;2014;14
+"1548";59;"Lääne-Viru maakond";8;"Käsitöö";1;"Mehed";2015;2015;14
+"1549";59;"Lääne-Viru maakond";8;"Käsitöö";1;"Mehed";2016;2016;14
+"1550";59;"Lääne-Viru maakond";8;"Käsitöö";1;"Mehed";2017;2017;14
+"1551";59;"Lääne-Viru maakond";8;"Käsitöö";1;"Mehed";2018;2018;14
+"1552";59;"Lääne-Viru maakond";8;"Käsitöö";2;"Naised";2008;2008;129
+"1553";59;"Lääne-Viru maakond";8;"Käsitöö";2;"Naised";2009;2009;143
+"1554";59;"Lääne-Viru maakond";8;"Käsitöö";2;"Naised";2010;2010;143
+"1555";59;"Lääne-Viru maakond";8;"Käsitöö";2;"Naised";2011;2011;143
+"1556";59;"Lääne-Viru maakond";8;"Käsitöö";2;"Naised";2012;2012;170
+"1557";59;"Lääne-Viru maakond";8;"Käsitöö";2;"Naised";2013;2013;173
+"1558";59;"Lääne-Viru maakond";8;"Käsitöö";2;"Naised";2014;2014;149
+"1559";59;"Lääne-Viru maakond";8;"Käsitöö";2;"Naised";2015;2015;142
+"1560";59;"Lääne-Viru maakond";8;"Käsitöö";2;"Naised";2016;2016;142
+"1561";59;"Lääne-Viru maakond";8;"Käsitöö";2;"Naised";2017;2017;142
+"1562";59;"Lääne-Viru maakond";8;"Käsitöö";2;"Naised";2018;2018;150
+"1563";59;"Lääne-Viru maakond";9;"Muu valdkond";1;"Mehed";2008;2008;16
+"1564";59;"Lääne-Viru maakond";9;"Muu valdkond";1;"Mehed";2009;2009;27
+"1565";59;"Lääne-Viru maakond";9;"Muu valdkond";1;"Mehed";2010;2010;28
+"1566";59;"Lääne-Viru maakond";9;"Muu valdkond";1;"Mehed";2011;2011;38
+"1567";59;"Lääne-Viru maakond";9;"Muu valdkond";1;"Mehed";2012;2012;48
+"1568";59;"Lääne-Viru maakond";9;"Muu valdkond";1;"Mehed";2013;2013;35
+"1569";59;"Lääne-Viru maakond";9;"Muu valdkond";1;"Mehed";2014;2014;27
+"1570";59;"Lääne-Viru maakond";9;"Muu valdkond";1;"Mehed";2015;2015;27
+"1571";59;"Lääne-Viru maakond";9;"Muu valdkond";1;"Mehed";2016;2016;27
+"1572";59;"Lääne-Viru maakond";9;"Muu valdkond";1;"Mehed";2017;2017;25
+"1573";59;"Lääne-Viru maakond";9;"Muu valdkond";1;"Mehed";2018;2018;15
+"1574";59;"Lääne-Viru maakond";9;"Muu valdkond";2;"Naised";2008;2008;40
+"1575";59;"Lääne-Viru maakond";9;"Muu valdkond";2;"Naised";2009;2009;43
+"1576";59;"Lääne-Viru maakond";9;"Muu valdkond";2;"Naised";2010;2010;40
+"1577";59;"Lääne-Viru maakond";9;"Muu valdkond";2;"Naised";2011;2011;55
+"1578";59;"Lääne-Viru maakond";9;"Muu valdkond";2;"Naised";2012;2012;228
+"1579";59;"Lääne-Viru maakond";9;"Muu valdkond";2;"Naised";2013;2013;244
+"1580";59;"Lääne-Viru maakond";9;"Muu valdkond";2;"Naised";2014;2014;227
+"1581";59;"Lääne-Viru maakond";9;"Muu valdkond";2;"Naised";2015;2015;227
+"1582";59;"Lääne-Viru maakond";9;"Muu valdkond";2;"Naised";2016;2016;227
+"1583";59;"Lääne-Viru maakond";9;"Muu valdkond";2;"Naised";2017;2017;250
+"1584";59;"Lääne-Viru maakond";9;"Muu valdkond";2;"Naised";2018;2018;170
+"1607";65;"Põlva maakond";2;"Folkloor";1;"Mehed";2008;2008;26
+"1608";65;"Põlva maakond";2;"Folkloor";1;"Mehed";2009;2009;22
+"1609";65;"Põlva maakond";2;"Folkloor";1;"Mehed";2010;2010;22
+"1610";65;"Põlva maakond";2;"Folkloor";1;"Mehed";2011;2011;18
+"1611";65;"Põlva maakond";2;"Folkloor";1;"Mehed";2012;2012;18
+"1612";65;"Põlva maakond";2;"Folkloor";1;"Mehed";2013;2013;18
+"1613";65;"Põlva maakond";2;"Folkloor";1;"Mehed";2014;2014;18
+"1614";65;"Põlva maakond";2;"Folkloor";1;"Mehed";2015;2015;18
+"1615";65;"Põlva maakond";2;"Folkloor";1;"Mehed";2016;2016;18
+"1616";65;"Põlva maakond";2;"Folkloor";1;"Mehed";2017;2017;23
+"1617";65;"Põlva maakond";2;"Folkloor";1;"Mehed";2018;2018;14
+"1618";65;"Põlva maakond";2;"Folkloor";2;"Naised";2008;2008;153
+"1619";65;"Põlva maakond";2;"Folkloor";2;"Naised";2009;2009;152
+"1620";65;"Põlva maakond";2;"Folkloor";2;"Naised";2010;2010;152
+"1621";65;"Põlva maakond";2;"Folkloor";2;"Naised";2011;2011;162
+"1622";65;"Põlva maakond";2;"Folkloor";2;"Naised";2012;2012;162
+"1623";65;"Põlva maakond";2;"Folkloor";2;"Naised";2013;2013;162
+"1624";65;"Põlva maakond";2;"Folkloor";2;"Naised";2014;2014;162
+"1625";65;"Põlva maakond";2;"Folkloor";2;"Naised";2015;2015;162
+"1626";65;"Põlva maakond";2;"Folkloor";2;"Naised";2016;2016;179
+"1627";65;"Põlva maakond";2;"Folkloor";2;"Naised";2017;2017;162
+"1628";65;"Põlva maakond";2;"Folkloor";2;"Naised";2018;2018;77
+"1629";65;"Põlva maakond";3;"Harrastusteater";1;"Mehed";2008;2008;85
+"1630";65;"Põlva maakond";3;"Harrastusteater";1;"Mehed";2009;2009;88
+"1631";65;"Põlva maakond";3;"Harrastusteater";1;"Mehed";2010;2010;88
+"1632";65;"Põlva maakond";3;"Harrastusteater";1;"Mehed";2011;2011;87
+"1633";65;"Põlva maakond";3;"Harrastusteater";1;"Mehed";2012;2012;87
+"1634";65;"Põlva maakond";3;"Harrastusteater";1;"Mehed";2013;2013;87
+"1635";65;"Põlva maakond";3;"Harrastusteater";1;"Mehed";2014;2014;91
+"1636";65;"Põlva maakond";3;"Harrastusteater";1;"Mehed";2015;2015;91
+"1637";65;"Põlva maakond";3;"Harrastusteater";1;"Mehed";2016;2016;91
+"1638";65;"Põlva maakond";3;"Harrastusteater";1;"Mehed";2017;2017;84
+"1639";65;"Põlva maakond";3;"Harrastusteater";1;"Mehed";2018;2018;79
+"1640";65;"Põlva maakond";3;"Harrastusteater";2;"Naised";2008;2008;195
+"1641";65;"Põlva maakond";3;"Harrastusteater";2;"Naised";2009;2009;200
+"1642";65;"Põlva maakond";3;"Harrastusteater";2;"Naised";2010;2010;200
+"1643";65;"Põlva maakond";3;"Harrastusteater";2;"Naised";2011;2011;223
+"1644";65;"Põlva maakond";3;"Harrastusteater";2;"Naised";2012;2012;223
+"1645";65;"Põlva maakond";3;"Harrastusteater";2;"Naised";2013;2013;223
+"1646";65;"Põlva maakond";3;"Harrastusteater";2;"Naised";2014;2014;237
+"1647";65;"Põlva maakond";3;"Harrastusteater";2;"Naised";2015;2015;237
+"1648";65;"Põlva maakond";3;"Harrastusteater";2;"Naised";2016;2016;229
+"1649";65;"Põlva maakond";3;"Harrastusteater";2;"Naised";2017;2017;210
+"1650";65;"Põlva maakond";3;"Harrastusteater";2;"Naised";2018;2018;200
+"1651";65;"Põlva maakond";4;"Koorimuusika";1;"Mehed";2008;2008;371
+"1652";65;"Põlva maakond";4;"Koorimuusika";1;"Mehed";2009;2009;371
+"1653";65;"Põlva maakond";4;"Koorimuusika";1;"Mehed";2010;2010;381
+"1654";65;"Põlva maakond";4;"Koorimuusika";1;"Mehed";2011;2011;382
+"1655";65;"Põlva maakond";4;"Koorimuusika";1;"Mehed";2012;2012;382
+"1656";65;"Põlva maakond";4;"Koorimuusika";1;"Mehed";2013;2013;382
+"1657";65;"Põlva maakond";4;"Koorimuusika";1;"Mehed";2014;2014;382
+"1658";65;"Põlva maakond";4;"Koorimuusika";1;"Mehed";2015;2015;376
+"1659";65;"Põlva maakond";4;"Koorimuusika";1;"Mehed";2016;2016;377
+"1660";65;"Põlva maakond";4;"Koorimuusika";1;"Mehed";2017;2017;315
+"1661";65;"Põlva maakond";4;"Koorimuusika";1;"Mehed";2018;2018;237
+"1662";65;"Põlva maakond";4;"Koorimuusika";2;"Naised";2008;2008;778
+"1663";65;"Põlva maakond";4;"Koorimuusika";2;"Naised";2009;2009;756
+"1664";65;"Põlva maakond";4;"Koorimuusika";2;"Naised";2010;2010;784
+"1665";65;"Põlva maakond";4;"Koorimuusika";2;"Naised";2011;2011;781
+"1666";65;"Põlva maakond";4;"Koorimuusika";2;"Naised";2012;2012;781
+"1667";65;"Põlva maakond";4;"Koorimuusika";2;"Naised";2013;2013;781
+"1668";65;"Põlva maakond";4;"Koorimuusika";2;"Naised";2014;2014;781
+"1669";65;"Põlva maakond";4;"Koorimuusika";2;"Naised";2015;2015;776
+"1670";65;"Põlva maakond";4;"Koorimuusika";2;"Naised";2016;2016;786
+"1671";65;"Põlva maakond";4;"Koorimuusika";2;"Naised";2017;2017;659
+"1672";65;"Põlva maakond";4;"Koorimuusika";2;"Naised";2018;2018;564
+"1673";65;"Põlva maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;71
+"1674";65;"Põlva maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;66
+"1675";65;"Põlva maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;66
+"1676";65;"Põlva maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;68
+"1677";65;"Põlva maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;68
+"1678";65;"Põlva maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;68
+"1679";65;"Põlva maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;72
+"1680";65;"Põlva maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;69
+"1681";65;"Põlva maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;67
+"1682";65;"Põlva maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;44
+"1683";65;"Põlva maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;39
+"1684";65;"Põlva maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;191
+"1685";65;"Põlva maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;184
+"1686";65;"Põlva maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;168
+"1687";65;"Põlva maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;175
+"1688";65;"Põlva maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;175
+"1689";65;"Põlva maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;175
+"1690";65;"Põlva maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;186
+"1691";65;"Põlva maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;181
+"1692";65;"Põlva maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;183
+"1693";65;"Põlva maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;163
+"1694";65;"Põlva maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;133
+"1695";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;95
+"1696";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;98
+"1697";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;107
+"1698";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;100
+"1699";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;100
+"1700";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;100
+"1701";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;107
+"1702";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;98
+"1703";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;101
+"1704";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;88
+"1705";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;65
+"1706";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;130
+"1707";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;128
+"1708";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;128
+"1709";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;105
+"1710";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;105
+"1711";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;105
+"1712";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;121
+"1713";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;125
+"1714";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;119
+"1715";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;101
+"1716";65;"Põlva maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;84
+"1717";65;"Põlva maakond";7;"Rahvatants";1;"Mehed";2008;2008;254
+"1718";65;"Põlva maakond";7;"Rahvatants";1;"Mehed";2009;2009;254
+"1719";65;"Põlva maakond";7;"Rahvatants";1;"Mehed";2010;2010;254
+"1720";65;"Põlva maakond";7;"Rahvatants";1;"Mehed";2011;2011;241
+"1721";65;"Põlva maakond";7;"Rahvatants";1;"Mehed";2012;2012;241
+"1722";65;"Põlva maakond";7;"Rahvatants";1;"Mehed";2013;2013;241
+"1723";65;"Põlva maakond";7;"Rahvatants";1;"Mehed";2014;2014;254
+"1724";65;"Põlva maakond";7;"Rahvatants";1;"Mehed";2015;2015;268
+"1725";65;"Põlva maakond";7;"Rahvatants";1;"Mehed";2016;2016;276
+"1726";65;"Põlva maakond";7;"Rahvatants";1;"Mehed";2017;2017;228
+"1727";65;"Põlva maakond";7;"Rahvatants";1;"Mehed";2018;2018;207
+"1728";65;"Põlva maakond";7;"Rahvatants";2;"Naised";2008;2008;616
+"1729";65;"Põlva maakond";7;"Rahvatants";2;"Naised";2009;2009;616
+"1730";65;"Põlva maakond";7;"Rahvatants";2;"Naised";2010;2010;616
+"1731";65;"Põlva maakond";7;"Rahvatants";2;"Naised";2011;2011;616
+"1732";65;"Põlva maakond";7;"Rahvatants";2;"Naised";2012;2012;600
+"1733";65;"Põlva maakond";7;"Rahvatants";2;"Naised";2013;2013;600
+"1734";65;"Põlva maakond";7;"Rahvatants";2;"Naised";2014;2014;615
+"1735";65;"Põlva maakond";7;"Rahvatants";2;"Naised";2015;2015;662
+"1736";65;"Põlva maakond";7;"Rahvatants";2;"Naised";2016;2016;670
+"1737";65;"Põlva maakond";7;"Rahvatants";2;"Naised";2017;2017;608
+"1738";65;"Põlva maakond";7;"Rahvatants";2;"Naised";2018;2018;507
+"1739";65;"Põlva maakond";8;"Käsitöö";1;"Mehed";2008;2008;35
+"1740";65;"Põlva maakond";8;"Käsitöö";1;"Mehed";2009;2009;35
+"1741";65;"Põlva maakond";8;"Käsitöö";1;"Mehed";2010;2010;35
+"1742";65;"Põlva maakond";8;"Käsitöö";1;"Mehed";2011;2011;29
+"1743";65;"Põlva maakond";8;"Käsitöö";1;"Mehed";2012;2012;29
+"1744";65;"Põlva maakond";8;"Käsitöö";1;"Mehed";2013;2013;29
+"1745";65;"Põlva maakond";8;"Käsitöö";1;"Mehed";2014;2014;29
+"1746";65;"Põlva maakond";8;"Käsitöö";1;"Mehed";2015;2015;29
+"1747";65;"Põlva maakond";8;"Käsitöö";1;"Mehed";2016;2016;29
+"1748";65;"Põlva maakond";8;"Käsitöö";1;"Mehed";2017;2017;29
+"1749";65;"Põlva maakond";8;"Käsitöö";1;"Mehed";2018;2018;29
+"1750";65;"Põlva maakond";8;"Käsitöö";2;"Naised";2008;2008;294
+"1751";65;"Põlva maakond";8;"Käsitöö";2;"Naised";2009;2009;294
+"1752";65;"Põlva maakond";8;"Käsitöö";2;"Naised";2010;2010;294
+"1753";65;"Põlva maakond";8;"Käsitöö";2;"Naised";2011;2011;288
+"1754";65;"Põlva maakond";8;"Käsitöö";2;"Naised";2012;2012;288
+"1755";65;"Põlva maakond";8;"Käsitöö";2;"Naised";2013;2013;288
+"1756";65;"Põlva maakond";8;"Käsitöö";2;"Naised";2014;2014;305
+"1757";65;"Põlva maakond";8;"Käsitöö";2;"Naised";2015;2015;305
+"1758";65;"Põlva maakond";8;"Käsitöö";2;"Naised";2016;2016;305
+"1759";65;"Põlva maakond";8;"Käsitöö";2;"Naised";2017;2017;256
+"1760";65;"Põlva maakond";8;"Käsitöö";2;"Naised";2018;2018;246
+"1761";65;"Põlva maakond";9;"Muu valdkond";1;"Mehed";2008;2008;16
+"1762";65;"Põlva maakond";9;"Muu valdkond";1;"Mehed";2009;2009;16
+"1763";65;"Põlva maakond";9;"Muu valdkond";1;"Mehed";2010;2010;16
+"1764";65;"Põlva maakond";9;"Muu valdkond";1;"Mehed";2011;2011;16
+"1765";65;"Põlva maakond";9;"Muu valdkond";1;"Mehed";2012;2012;16
+"1766";65;"Põlva maakond";9;"Muu valdkond";1;"Mehed";2013;2013;16
+"1767";65;"Põlva maakond";9;"Muu valdkond";1;"Mehed";2014;2014;25
+"1768";65;"Põlva maakond";9;"Muu valdkond";1;"Mehed";2015;2015;25
+"1769";65;"Põlva maakond";9;"Muu valdkond";1;"Mehed";2016;2016;25
+"1770";65;"Põlva maakond";9;"Muu valdkond";1;"Mehed";2017;2017;22
+"1771";65;"Põlva maakond";9;"Muu valdkond";1;"Mehed";2018;2018;20
+"1772";65;"Põlva maakond";9;"Muu valdkond";2;"Naised";2008;2008;62
+"1773";65;"Põlva maakond";9;"Muu valdkond";2;"Naised";2009;2009;62
+"1774";65;"Põlva maakond";9;"Muu valdkond";2;"Naised";2010;2010;62
+"1775";65;"Põlva maakond";9;"Muu valdkond";2;"Naised";2011;2011;59
+"1776";65;"Põlva maakond";9;"Muu valdkond";2;"Naised";2012;2012;59
+"1777";65;"Põlva maakond";9;"Muu valdkond";2;"Naised";2013;2013;59
+"1778";65;"Põlva maakond";9;"Muu valdkond";2;"Naised";2014;2014;91
+"1779";65;"Põlva maakond";9;"Muu valdkond";2;"Naised";2015;2015;91
+"1780";65;"Põlva maakond";9;"Muu valdkond";2;"Naised";2016;2016;91
+"1781";65;"Põlva maakond";9;"Muu valdkond";2;"Naised";2017;2017;85
+"1782";65;"Põlva maakond";9;"Muu valdkond";2;"Naised";2018;2018;106
+"1805";67;"Pärnu maakond";2;"Folkloor";1;"Mehed";2008;2008;26
+"1806";67;"Pärnu maakond";2;"Folkloor";1;"Mehed";2009;2009;34
+"1807";67;"Pärnu maakond";2;"Folkloor";1;"Mehed";2010;2010;52
+"1808";67;"Pärnu maakond";2;"Folkloor";1;"Mehed";2011;2011;55
+"1809";67;"Pärnu maakond";2;"Folkloor";1;"Mehed";2012;2012;49
+"1810";67;"Pärnu maakond";2;"Folkloor";1;"Mehed";2013;2013;49
+"1811";67;"Pärnu maakond";2;"Folkloor";1;"Mehed";2014;2014;68
+"1812";67;"Pärnu maakond";2;"Folkloor";1;"Mehed";2015;2015;82
+"1813";67;"Pärnu maakond";2;"Folkloor";1;"Mehed";2016;2016;55
+"1814";67;"Pärnu maakond";2;"Folkloor";1;"Mehed";2017;2017;54
+"1815";67;"Pärnu maakond";2;"Folkloor";1;"Mehed";2018;2018;59
+"1816";67;"Pärnu maakond";2;"Folkloor";2;"Naised";2008;2008;183
+"1817";67;"Pärnu maakond";2;"Folkloor";2;"Naised";2009;2009;224
+"1818";67;"Pärnu maakond";2;"Folkloor";2;"Naised";2010;2010;262
+"1819";67;"Pärnu maakond";2;"Folkloor";2;"Naised";2011;2011;286
+"1820";67;"Pärnu maakond";2;"Folkloor";2;"Naised";2012;2012;275
+"1821";67;"Pärnu maakond";2;"Folkloor";2;"Naised";2013;2013;275
+"1822";67;"Pärnu maakond";2;"Folkloor";2;"Naised";2014;2014;283
+"1823";67;"Pärnu maakond";2;"Folkloor";2;"Naised";2015;2015;291
+"1824";67;"Pärnu maakond";2;"Folkloor";2;"Naised";2016;2016;261
+"1825";67;"Pärnu maakond";2;"Folkloor";2;"Naised";2017;2017;266
+"1826";67;"Pärnu maakond";2;"Folkloor";2;"Naised";2018;2018;278
+"1827";67;"Pärnu maakond";3;"Harrastusteater";1;"Mehed";2008;2008;109
+"1828";67;"Pärnu maakond";3;"Harrastusteater";1;"Mehed";2009;2009;118
+"1829";67;"Pärnu maakond";3;"Harrastusteater";1;"Mehed";2010;2010;128
+"1830";67;"Pärnu maakond";3;"Harrastusteater";1;"Mehed";2011;2011;155
+"1831";67;"Pärnu maakond";3;"Harrastusteater";1;"Mehed";2012;2012;152
+"1832";67;"Pärnu maakond";3;"Harrastusteater";1;"Mehed";2013;2013;153
+"1833";67;"Pärnu maakond";3;"Harrastusteater";1;"Mehed";2014;2014;165
+"1834";67;"Pärnu maakond";3;"Harrastusteater";1;"Mehed";2015;2015;178
+"1835";67;"Pärnu maakond";3;"Harrastusteater";1;"Mehed";2016;2016;149
+"1836";67;"Pärnu maakond";3;"Harrastusteater";1;"Mehed";2017;2017;160
+"1837";67;"Pärnu maakond";3;"Harrastusteater";1;"Mehed";2018;2018;122
+"1838";67;"Pärnu maakond";3;"Harrastusteater";2;"Naised";2008;2008;184
+"1839";67;"Pärnu maakond";3;"Harrastusteater";2;"Naised";2009;2009;189
+"1840";67;"Pärnu maakond";3;"Harrastusteater";2;"Naised";2010;2010;218
+"1841";67;"Pärnu maakond";3;"Harrastusteater";2;"Naised";2011;2011;270
+"1842";67;"Pärnu maakond";3;"Harrastusteater";2;"Naised";2012;2012;263
+"1843";67;"Pärnu maakond";3;"Harrastusteater";2;"Naised";2013;2013;270
+"1844";67;"Pärnu maakond";3;"Harrastusteater";2;"Naised";2014;2014;285
+"1845";67;"Pärnu maakond";3;"Harrastusteater";2;"Naised";2015;2015;293
+"1846";67;"Pärnu maakond";3;"Harrastusteater";2;"Naised";2016;2016;253
+"1847";67;"Pärnu maakond";3;"Harrastusteater";2;"Naised";2017;2017;276
+"1848";67;"Pärnu maakond";3;"Harrastusteater";2;"Naised";2018;2018;210
+"1849";67;"Pärnu maakond";4;"Koorimuusika";1;"Mehed";2008;2008;732
+"1850";67;"Pärnu maakond";4;"Koorimuusika";1;"Mehed";2009;2009;773
+"1851";67;"Pärnu maakond";4;"Koorimuusika";1;"Mehed";2010;2010;797
+"1852";67;"Pärnu maakond";4;"Koorimuusika";1;"Mehed";2011;2011;827
+"1853";67;"Pärnu maakond";4;"Koorimuusika";1;"Mehed";2012;2012;831
+"1854";67;"Pärnu maakond";4;"Koorimuusika";1;"Mehed";2013;2013;831
+"1855";67;"Pärnu maakond";4;"Koorimuusika";1;"Mehed";2014;2014;846
+"1856";67;"Pärnu maakond";4;"Koorimuusika";1;"Mehed";2015;2015;866
+"1857";67;"Pärnu maakond";4;"Koorimuusika";1;"Mehed";2016;2016;841
+"1858";67;"Pärnu maakond";4;"Koorimuusika";1;"Mehed";2017;2017;863
+"1859";67;"Pärnu maakond";4;"Koorimuusika";1;"Mehed";2018;2018;792
+"1860";67;"Pärnu maakond";4;"Koorimuusika";2;"Naised";2008;2008;2018
+"1861";67;"Pärnu maakond";4;"Koorimuusika";2;"Naised";2009;2009;2052
+"1862";67;"Pärnu maakond";4;"Koorimuusika";2;"Naised";2010;2010;2056
+"1863";67;"Pärnu maakond";4;"Koorimuusika";2;"Naised";2011;2011;2009
+"1864";67;"Pärnu maakond";4;"Koorimuusika";2;"Naised";2012;2012;2022
+"1865";67;"Pärnu maakond";4;"Koorimuusika";2;"Naised";2013;2013;2027
+"1866";67;"Pärnu maakond";4;"Koorimuusika";2;"Naised";2014;2014;2079
+"1867";67;"Pärnu maakond";4;"Koorimuusika";2;"Naised";2015;2015;2078
+"1868";67;"Pärnu maakond";4;"Koorimuusika";2;"Naised";2016;2016;2021
+"1869";67;"Pärnu maakond";4;"Koorimuusika";2;"Naised";2017;2017;1993
+"1870";67;"Pärnu maakond";4;"Koorimuusika";2;"Naised";2018;2018;1738
+"1871";67;"Pärnu maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;70
+"1872";67;"Pärnu maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;75
+"1873";67;"Pärnu maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;83
+"1874";67;"Pärnu maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;97
+"1875";67;"Pärnu maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;91
+"1876";67;"Pärnu maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;91
+"1877";67;"Pärnu maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;102
+"1878";67;"Pärnu maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;99
+"1879";67;"Pärnu maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;99
+"1880";67;"Pärnu maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;104
+"1881";67;"Pärnu maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;100
+"1882";67;"Pärnu maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;322
+"1883";67;"Pärnu maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;353
+"1884";67;"Pärnu maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;369
+"1885";67;"Pärnu maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;434
+"1886";67;"Pärnu maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;431
+"1887";67;"Pärnu maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;431
+"1888";67;"Pärnu maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;435
+"1889";67;"Pärnu maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;428
+"1890";67;"Pärnu maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;398
+"1891";67;"Pärnu maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;408
+"1892";67;"Pärnu maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;392
+"1893";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;188
+"1894";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;217
+"1895";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;207
+"1896";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;215
+"1897";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;222
+"1898";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;222
+"1899";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;233
+"1900";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;273
+"1901";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;208
+"1902";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;221
+"1903";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;211
+"1904";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;220
+"1905";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;232
+"1906";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;244
+"1907";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;252
+"1908";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;254
+"1909";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;254
+"1910";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;268
+"1911";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;271
+"1912";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;237
+"1913";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;239
+"1914";67;"Pärnu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;238
+"1915";67;"Pärnu maakond";7;"Rahvatants";1;"Mehed";2008;2008;585
+"1916";67;"Pärnu maakond";7;"Rahvatants";1;"Mehed";2009;2009;594
+"1917";67;"Pärnu maakond";7;"Rahvatants";1;"Mehed";2010;2010;636
+"1918";67;"Pärnu maakond";7;"Rahvatants";1;"Mehed";2011;2011;683
+"1919";67;"Pärnu maakond";7;"Rahvatants";1;"Mehed";2012;2012;806
+"1920";67;"Pärnu maakond";7;"Rahvatants";1;"Mehed";2013;2013;806
+"1921";67;"Pärnu maakond";7;"Rahvatants";1;"Mehed";2014;2014;808
+"1922";67;"Pärnu maakond";7;"Rahvatants";1;"Mehed";2015;2015;808
+"1923";67;"Pärnu maakond";7;"Rahvatants";1;"Mehed";2016;2016;813
+"1924";67;"Pärnu maakond";7;"Rahvatants";1;"Mehed";2017;2017;757
+"1925";67;"Pärnu maakond";7;"Rahvatants";1;"Mehed";2018;2018;598
+"1926";67;"Pärnu maakond";7;"Rahvatants";2;"Naised";2008;2008;1022
+"1927";67;"Pärnu maakond";7;"Rahvatants";2;"Naised";2009;2009;1061
+"1928";67;"Pärnu maakond";7;"Rahvatants";2;"Naised";2010;2010;1106
+"1929";67;"Pärnu maakond";7;"Rahvatants";2;"Naised";2011;2011;1158
+"1930";67;"Pärnu maakond";7;"Rahvatants";2;"Naised";2012;2012;1251
+"1931";67;"Pärnu maakond";7;"Rahvatants";2;"Naised";2013;2013;1251
+"1932";67;"Pärnu maakond";7;"Rahvatants";2;"Naised";2014;2014;1253
+"1933";67;"Pärnu maakond";7;"Rahvatants";2;"Naised";2015;2015;1253
+"1934";67;"Pärnu maakond";7;"Rahvatants";2;"Naised";2016;2016;1277
+"1935";67;"Pärnu maakond";7;"Rahvatants";2;"Naised";2017;2017;1318
+"1936";67;"Pärnu maakond";7;"Rahvatants";2;"Naised";2018;2018;1217
+"1937";67;"Pärnu maakond";8;"Käsitöö";1;"Mehed";2008;2008;26
+"1938";67;"Pärnu maakond";8;"Käsitöö";1;"Mehed";2009;2009;21
+"1939";67;"Pärnu maakond";8;"Käsitöö";1;"Mehed";2010;2010;24
+"1940";67;"Pärnu maakond";8;"Käsitöö";1;"Mehed";2011;2011;24
+"1941";67;"Pärnu maakond";8;"Käsitöö";1;"Mehed";2012;2012;22
+"1942";67;"Pärnu maakond";8;"Käsitöö";1;"Mehed";2013;2013;22
+"1943";67;"Pärnu maakond";8;"Käsitöö";1;"Mehed";2014;2014;23
+"1944";67;"Pärnu maakond";8;"Käsitöö";1;"Mehed";2015;2015;23
+"1945";67;"Pärnu maakond";8;"Käsitöö";1;"Mehed";2016;2016;22
+"1946";67;"Pärnu maakond";8;"Käsitöö";1;"Mehed";2017;2017;22
+"1947";67;"Pärnu maakond";8;"Käsitöö";1;"Mehed";2018;2018;24
+"1948";67;"Pärnu maakond";8;"Käsitöö";2;"Naised";2008;2008;317
+"1949";67;"Pärnu maakond";8;"Käsitöö";2;"Naised";2009;2009;342
+"1950";67;"Pärnu maakond";8;"Käsitöö";2;"Naised";2010;2010;350
+"1951";67;"Pärnu maakond";8;"Käsitöö";2;"Naised";2011;2011;350
+"1952";67;"Pärnu maakond";8;"Käsitöö";2;"Naised";2012;2012;354
+"1953";67;"Pärnu maakond";8;"Käsitöö";2;"Naised";2013;2013;354
+"1954";67;"Pärnu maakond";8;"Käsitöö";2;"Naised";2014;2014;409
+"1955";67;"Pärnu maakond";8;"Käsitöö";2;"Naised";2015;2015;415
+"1956";67;"Pärnu maakond";8;"Käsitöö";2;"Naised";2016;2016;354
+"1957";67;"Pärnu maakond";8;"Käsitöö";2;"Naised";2017;2017;376
+"1958";67;"Pärnu maakond";8;"Käsitöö";2;"Naised";2018;2018;345
+"1959";67;"Pärnu maakond";9;"Muu valdkond";1;"Mehed";2008;2008;29
+"1960";67;"Pärnu maakond";9;"Muu valdkond";1;"Mehed";2009;2009;30
+"1961";67;"Pärnu maakond";9;"Muu valdkond";1;"Mehed";2010;2010;35
+"1962";67;"Pärnu maakond";9;"Muu valdkond";1;"Mehed";2011;2011;39
+"1963";67;"Pärnu maakond";9;"Muu valdkond";1;"Mehed";2012;2012;42
+"1964";67;"Pärnu maakond";9;"Muu valdkond";1;"Mehed";2013;2013;43
+"1965";67;"Pärnu maakond";9;"Muu valdkond";1;"Mehed";2014;2014;43
+"1966";67;"Pärnu maakond";9;"Muu valdkond";1;"Mehed";2015;2015;51
+"1967";67;"Pärnu maakond";9;"Muu valdkond";1;"Mehed";2016;2016;31
+"1968";67;"Pärnu maakond";9;"Muu valdkond";1;"Mehed";2017;2017;45
+"1969";67;"Pärnu maakond";9;"Muu valdkond";1;"Mehed";2018;2018;35
+"1970";67;"Pärnu maakond";9;"Muu valdkond";2;"Naised";2008;2008;31
+"1971";67;"Pärnu maakond";9;"Muu valdkond";2;"Naised";2009;2009;48
+"1972";67;"Pärnu maakond";9;"Muu valdkond";2;"Naised";2010;2010;65
+"1973";67;"Pärnu maakond";9;"Muu valdkond";2;"Naised";2011;2011;70
+"1974";67;"Pärnu maakond";9;"Muu valdkond";2;"Naised";2012;2012;79
+"1975";67;"Pärnu maakond";9;"Muu valdkond";2;"Naised";2013;2013;87
+"1976";67;"Pärnu maakond";9;"Muu valdkond";2;"Naised";2014;2014;87
+"1977";67;"Pärnu maakond";9;"Muu valdkond";2;"Naised";2015;2015;145
+"1978";67;"Pärnu maakond";9;"Muu valdkond";2;"Naised";2016;2016;80
+"1979";67;"Pärnu maakond";9;"Muu valdkond";2;"Naised";2017;2017;128
+"1980";67;"Pärnu maakond";9;"Muu valdkond";2;"Naised";2018;2018;82
+"2003";70;"Rapla maakond";2;"Folkloor";1;"Mehed";2008;2008;5
+"2004";70;"Rapla maakond";2;"Folkloor";1;"Mehed";2009;2009;5
+"2005";70;"Rapla maakond";2;"Folkloor";1;"Mehed";2010;2010;5
+"2006";70;"Rapla maakond";2;"Folkloor";1;"Mehed";2011;2011;8
+"2007";70;"Rapla maakond";2;"Folkloor";1;"Mehed";2012;2012;8
+"2008";70;"Rapla maakond";2;"Folkloor";1;"Mehed";2013;2013;8
+"2009";70;"Rapla maakond";2;"Folkloor";1;"Mehed";2014;2014;8
+"2010";70;"Rapla maakond";2;"Folkloor";1;"Mehed";2015;2015;8
+"2011";70;"Rapla maakond";2;"Folkloor";1;"Mehed";2016;2016;8
+"2012";70;"Rapla maakond";2;"Folkloor";1;"Mehed";2017;2017;8
+"2013";70;"Rapla maakond";2;"Folkloor";1;"Mehed";2018;2018;8
+"2014";70;"Rapla maakond";2;"Folkloor";2;"Naised";2008;2008;27
+"2015";70;"Rapla maakond";2;"Folkloor";2;"Naised";2009;2009;43
+"2016";70;"Rapla maakond";2;"Folkloor";2;"Naised";2010;2010;43
+"2017";70;"Rapla maakond";2;"Folkloor";2;"Naised";2011;2011;43
+"2018";70;"Rapla maakond";2;"Folkloor";2;"Naised";2012;2012;45
+"2019";70;"Rapla maakond";2;"Folkloor";2;"Naised";2013;2013;45
+"2020";70;"Rapla maakond";2;"Folkloor";2;"Naised";2014;2014;45
+"2021";70;"Rapla maakond";2;"Folkloor";2;"Naised";2015;2015;45
+"2022";70;"Rapla maakond";2;"Folkloor";2;"Naised";2016;2016;45
+"2023";70;"Rapla maakond";2;"Folkloor";2;"Naised";2017;2017;45
+"2024";70;"Rapla maakond";2;"Folkloor";2;"Naised";2018;2018;45
+"2025";70;"Rapla maakond";3;"Harrastusteater";1;"Mehed";2008;2008;93
+"2026";70;"Rapla maakond";3;"Harrastusteater";1;"Mehed";2009;2009;80
+"2027";70;"Rapla maakond";3;"Harrastusteater";1;"Mehed";2010;2010;84
+"2028";70;"Rapla maakond";3;"Harrastusteater";1;"Mehed";2011;2011;81
+"2029";70;"Rapla maakond";3;"Harrastusteater";1;"Mehed";2012;2012;79
+"2030";70;"Rapla maakond";3;"Harrastusteater";1;"Mehed";2013;2013;77
+"2031";70;"Rapla maakond";3;"Harrastusteater";1;"Mehed";2014;2014;90
+"2032";70;"Rapla maakond";3;"Harrastusteater";1;"Mehed";2015;2015;92
+"2033";70;"Rapla maakond";3;"Harrastusteater";1;"Mehed";2016;2016;92
+"2034";70;"Rapla maakond";3;"Harrastusteater";1;"Mehed";2017;2017;92
+"2035";70;"Rapla maakond";3;"Harrastusteater";1;"Mehed";2018;2018;88
+"2036";70;"Rapla maakond";3;"Harrastusteater";2;"Naised";2008;2008;198
+"2037";70;"Rapla maakond";3;"Harrastusteater";2;"Naised";2009;2009;175
+"2038";70;"Rapla maakond";3;"Harrastusteater";2;"Naised";2010;2010;179
+"2039";70;"Rapla maakond";3;"Harrastusteater";2;"Naised";2011;2011;145
+"2040";70;"Rapla maakond";3;"Harrastusteater";2;"Naised";2012;2012;121
+"2041";70;"Rapla maakond";3;"Harrastusteater";2;"Naised";2013;2013;123
+"2042";70;"Rapla maakond";3;"Harrastusteater";2;"Naised";2014;2014;144
+"2043";70;"Rapla maakond";3;"Harrastusteater";2;"Naised";2015;2015;160
+"2044";70;"Rapla maakond";3;"Harrastusteater";2;"Naised";2016;2016;160
+"2045";70;"Rapla maakond";3;"Harrastusteater";2;"Naised";2017;2017;160
+"2046";70;"Rapla maakond";3;"Harrastusteater";2;"Naised";2018;2018;156
+"2047";70;"Rapla maakond";4;"Koorimuusika";1;"Mehed";2008;2008;352
+"2048";70;"Rapla maakond";4;"Koorimuusika";1;"Mehed";2009;2009;316
+"2049";70;"Rapla maakond";4;"Koorimuusika";1;"Mehed";2010;2010;331
+"2050";70;"Rapla maakond";4;"Koorimuusika";1;"Mehed";2011;2011;286
+"2051";70;"Rapla maakond";4;"Koorimuusika";1;"Mehed";2012;2012;280
+"2052";70;"Rapla maakond";4;"Koorimuusika";1;"Mehed";2013;2013;276
+"2053";70;"Rapla maakond";4;"Koorimuusika";1;"Mehed";2014;2014;340
+"2054";70;"Rapla maakond";4;"Koorimuusika";1;"Mehed";2015;2015;327
+"2055";70;"Rapla maakond";4;"Koorimuusika";1;"Mehed";2016;2016;293
+"2056";70;"Rapla maakond";4;"Koorimuusika";1;"Mehed";2017;2017;293
+"2057";70;"Rapla maakond";4;"Koorimuusika";1;"Mehed";2018;2018;308
+"2058";70;"Rapla maakond";4;"Koorimuusika";2;"Naised";2008;2008;1084
+"2059";70;"Rapla maakond";4;"Koorimuusika";2;"Naised";2009;2009;1006
+"2060";70;"Rapla maakond";4;"Koorimuusika";2;"Naised";2010;2010;1035
+"2061";70;"Rapla maakond";4;"Koorimuusika";2;"Naised";2011;2011;926
+"2062";70;"Rapla maakond";4;"Koorimuusika";2;"Naised";2012;2012;998
+"2063";70;"Rapla maakond";4;"Koorimuusika";2;"Naised";2013;2013;998
+"2064";70;"Rapla maakond";4;"Koorimuusika";2;"Naised";2014;2014;1118
+"2065";70;"Rapla maakond";4;"Koorimuusika";2;"Naised";2015;2015;1130
+"2066";70;"Rapla maakond";4;"Koorimuusika";2;"Naised";2016;2016;1116
+"2067";70;"Rapla maakond";4;"Koorimuusika";2;"Naised";2017;2017;1116
+"2068";70;"Rapla maakond";4;"Koorimuusika";2;"Naised";2018;2018;1003
+"2069";70;"Rapla maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;16
+"2070";70;"Rapla maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;28
+"2071";70;"Rapla maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;32
+"2072";70;"Rapla maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;25
+"2073";70;"Rapla maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;25
+"2074";70;"Rapla maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;22
+"2075";70;"Rapla maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;23
+"2076";70;"Rapla maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;34
+"2077";70;"Rapla maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;34
+"2078";70;"Rapla maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;34
+"2079";70;"Rapla maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;29
+"2080";70;"Rapla maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;23
+"2081";70;"Rapla maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;64
+"2082";70;"Rapla maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;66
+"2083";70;"Rapla maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;82
+"2084";70;"Rapla maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;92
+"2085";70;"Rapla maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;89
+"2086";70;"Rapla maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;107
+"2087";70;"Rapla maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;137
+"2088";70;"Rapla maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;130
+"2089";70;"Rapla maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;130
+"2090";70;"Rapla maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;130
+"2091";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;75
+"2092";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;75
+"2093";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;95
+"2094";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;85
+"2095";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;85
+"2096";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;86
+"2097";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;86
+"2098";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;92
+"2099";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;92
+"2100";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;92
+"2101";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;92
+"2102";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;91
+"2103";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;96
+"2104";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;104
+"2105";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;106
+"2106";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;118
+"2107";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;116
+"2108";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;115
+"2109";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;129
+"2110";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;129
+"2111";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;129
+"2112";70;"Rapla maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;129
+"2113";70;"Rapla maakond";7;"Rahvatants";1;"Mehed";2008;2008;294
+"2114";70;"Rapla maakond";7;"Rahvatants";1;"Mehed";2009;2009;297
+"2115";70;"Rapla maakond";7;"Rahvatants";1;"Mehed";2010;2010;297
+"2116";70;"Rapla maakond";7;"Rahvatants";1;"Mehed";2011;2011;312
+"2117";70;"Rapla maakond";7;"Rahvatants";1;"Mehed";2012;2012;372
+"2118";70;"Rapla maakond";7;"Rahvatants";1;"Mehed";2013;2013;377
+"2119";70;"Rapla maakond";7;"Rahvatants";1;"Mehed";2014;2014;415
+"2120";70;"Rapla maakond";7;"Rahvatants";1;"Mehed";2015;2015;424
+"2121";70;"Rapla maakond";7;"Rahvatants";1;"Mehed";2016;2016;417
+"2122";70;"Rapla maakond";7;"Rahvatants";1;"Mehed";2017;2017;417
+"2123";70;"Rapla maakond";7;"Rahvatants";1;"Mehed";2018;2018;410
+"2124";70;"Rapla maakond";7;"Rahvatants";2;"Naised";2008;2008;588
+"2125";70;"Rapla maakond";7;"Rahvatants";2;"Naised";2009;2009;619
+"2126";70;"Rapla maakond";7;"Rahvatants";2;"Naised";2010;2010;613
+"2127";70;"Rapla maakond";7;"Rahvatants";2;"Naised";2011;2011;678
+"2128";70;"Rapla maakond";7;"Rahvatants";2;"Naised";2012;2012;780
+"2129";70;"Rapla maakond";7;"Rahvatants";2;"Naised";2013;2013;769
+"2130";70;"Rapla maakond";7;"Rahvatants";2;"Naised";2014;2014;793
+"2131";70;"Rapla maakond";7;"Rahvatants";2;"Naised";2015;2015;847
+"2132";70;"Rapla maakond";7;"Rahvatants";2;"Naised";2016;2016;840
+"2133";70;"Rapla maakond";7;"Rahvatants";2;"Naised";2017;2017;840
+"2134";70;"Rapla maakond";7;"Rahvatants";2;"Naised";2018;2018;795
+"2135";70;"Rapla maakond";8;"Käsitöö";1;"Mehed";2008;2008;3
+"2136";70;"Rapla maakond";8;"Käsitöö";1;"Mehed";2009;2009;3
+"2137";70;"Rapla maakond";8;"Käsitöö";1;"Mehed";2010;2010;3
+"2138";70;"Rapla maakond";8;"Käsitöö";1;"Mehed";2011;2011;3
+"2139";70;"Rapla maakond";8;"Käsitöö";1;"Mehed";2012;2012;3
+"2140";70;"Rapla maakond";8;"Käsitöö";1;"Mehed";2013;2013;3
+"2141";70;"Rapla maakond";8;"Käsitöö";1;"Mehed";2014;2014;33
+"2142";70;"Rapla maakond";8;"Käsitöö";1;"Mehed";2015;2015;40
+"2143";70;"Rapla maakond";8;"Käsitöö";1;"Mehed";2016;2016;35
+"2144";70;"Rapla maakond";8;"Käsitöö";1;"Mehed";2017;2017;35
+"2145";70;"Rapla maakond";8;"Käsitöö";1;"Mehed";2018;2018;35
+"2146";70;"Rapla maakond";8;"Käsitöö";2;"Naised";2008;2008;238
+"2147";70;"Rapla maakond";8;"Käsitöö";2;"Naised";2009;2009;224
+"2148";70;"Rapla maakond";8;"Käsitöö";2;"Naised";2010;2010;243
+"2149";70;"Rapla maakond";8;"Käsitöö";2;"Naised";2011;2011;243
+"2150";70;"Rapla maakond";8;"Käsitöö";2;"Naised";2012;2012;243
+"2151";70;"Rapla maakond";8;"Käsitöö";2;"Naised";2013;2013;243
+"2152";70;"Rapla maakond";8;"Käsitöö";2;"Naised";2014;2014;309
+"2153";70;"Rapla maakond";8;"Käsitöö";2;"Naised";2015;2015;343
+"2154";70;"Rapla maakond";8;"Käsitöö";2;"Naised";2016;2016;331
+"2155";70;"Rapla maakond";8;"Käsitöö";2;"Naised";2017;2017;331
+"2156";70;"Rapla maakond";8;"Käsitöö";2;"Naised";2018;2018;331
+"2157";70;"Rapla maakond";9;"Muu valdkond";1;"Mehed";2008;2008;10
+"2158";70;"Rapla maakond";9;"Muu valdkond";1;"Mehed";2009;2009;10
+"2159";70;"Rapla maakond";9;"Muu valdkond";1;"Mehed";2010;2010;17
+"2160";70;"Rapla maakond";9;"Muu valdkond";1;"Mehed";2011;2011;27
+"2161";70;"Rapla maakond";9;"Muu valdkond";1;"Mehed";2012;2012;21
+"2162";70;"Rapla maakond";9;"Muu valdkond";1;"Mehed";2013;2013;21
+"2163";70;"Rapla maakond";9;"Muu valdkond";1;"Mehed";2014;2014;30
+"2164";70;"Rapla maakond";9;"Muu valdkond";1;"Mehed";2015;2015;30
+"2165";70;"Rapla maakond";9;"Muu valdkond";1;"Mehed";2016;2016;30
+"2166";70;"Rapla maakond";9;"Muu valdkond";1;"Mehed";2017;2017;30
+"2167";70;"Rapla maakond";9;"Muu valdkond";1;"Mehed";2018;2018;30
+"2168";70;"Rapla maakond";9;"Muu valdkond";2;"Naised";2008;2008;15
+"2169";70;"Rapla maakond";9;"Muu valdkond";2;"Naised";2009;2009;15
+"2170";70;"Rapla maakond";9;"Muu valdkond";2;"Naised";2010;2010;34
+"2171";70;"Rapla maakond";9;"Muu valdkond";2;"Naised";2011;2011;64
+"2172";70;"Rapla maakond";9;"Muu valdkond";2;"Naised";2012;2012;113
+"2173";70;"Rapla maakond";9;"Muu valdkond";2;"Naised";2013;2013;113
+"2174";70;"Rapla maakond";9;"Muu valdkond";2;"Naised";2014;2014;156
+"2175";70;"Rapla maakond";9;"Muu valdkond";2;"Naised";2015;2015;156
+"2176";70;"Rapla maakond";9;"Muu valdkond";2;"Naised";2016;2016;156
+"2177";70;"Rapla maakond";9;"Muu valdkond";2;"Naised";2017;2017;156
+"2178";70;"Rapla maakond";9;"Muu valdkond";2;"Naised";2018;2018;156
+"2201";74;"Saare maakond";2;"Folkloor";1;"Mehed";2008;2008;44
+"2202";74;"Saare maakond";2;"Folkloor";1;"Mehed";2009;2009;44
+"2203";74;"Saare maakond";2;"Folkloor";1;"Mehed";2010;2010;39
+"2204";74;"Saare maakond";2;"Folkloor";1;"Mehed";2011;2011;32
+"2205";74;"Saare maakond";2;"Folkloor";1;"Mehed";2012;2012;32
+"2206";74;"Saare maakond";2;"Folkloor";1;"Mehed";2013;2013;32
+"2207";74;"Saare maakond";2;"Folkloor";1;"Mehed";2014;2014;32
+"2208";74;"Saare maakond";2;"Folkloor";1;"Mehed";2015;2015;40
+"2209";74;"Saare maakond";2;"Folkloor";1;"Mehed";2016;2016;38
+"2210";74;"Saare maakond";2;"Folkloor";1;"Mehed";2017;2017;38
+"2211";74;"Saare maakond";2;"Folkloor";1;"Mehed";2018;2018;38
+"2212";74;"Saare maakond";2;"Folkloor";2;"Naised";2008;2008;100
+"2213";74;"Saare maakond";2;"Folkloor";2;"Naised";2009;2009;100
+"2214";74;"Saare maakond";2;"Folkloor";2;"Naised";2010;2010;111
+"2215";74;"Saare maakond";2;"Folkloor";2;"Naised";2011;2011;93
+"2216";74;"Saare maakond";2;"Folkloor";2;"Naised";2012;2012;93
+"2217";74;"Saare maakond";2;"Folkloor";2;"Naised";2013;2013;93
+"2218";74;"Saare maakond";2;"Folkloor";2;"Naised";2014;2014;93
+"2219";74;"Saare maakond";2;"Folkloor";2;"Naised";2015;2015;105
+"2220";74;"Saare maakond";2;"Folkloor";2;"Naised";2016;2016;91
+"2221";74;"Saare maakond";2;"Folkloor";2;"Naised";2017;2017;91
+"2222";74;"Saare maakond";2;"Folkloor";2;"Naised";2018;2018;91
+"2223";74;"Saare maakond";3;"Harrastusteater";1;"Mehed";2008;2008;75
+"2224";74;"Saare maakond";3;"Harrastusteater";1;"Mehed";2009;2009;83
+"2225";74;"Saare maakond";3;"Harrastusteater";1;"Mehed";2010;2010;83
+"2226";74;"Saare maakond";3;"Harrastusteater";1;"Mehed";2011;2011;101
+"2227";74;"Saare maakond";3;"Harrastusteater";1;"Mehed";2012;2012;101
+"2228";74;"Saare maakond";3;"Harrastusteater";1;"Mehed";2013;2013;101
+"2229";74;"Saare maakond";3;"Harrastusteater";1;"Mehed";2014;2014;101
+"2230";74;"Saare maakond";3;"Harrastusteater";1;"Mehed";2015;2015;104
+"2231";74;"Saare maakond";3;"Harrastusteater";1;"Mehed";2016;2016;114
+"2232";74;"Saare maakond";3;"Harrastusteater";1;"Mehed";2017;2017;114
+"2233";74;"Saare maakond";3;"Harrastusteater";1;"Mehed";2018;2018;114
+"2234";74;"Saare maakond";3;"Harrastusteater";2;"Naised";2008;2008;139
+"2235";74;"Saare maakond";3;"Harrastusteater";2;"Naised";2009;2009;151
+"2236";74;"Saare maakond";3;"Harrastusteater";2;"Naised";2010;2010;151
+"2237";74;"Saare maakond";3;"Harrastusteater";2;"Naised";2011;2011;174
+"2238";74;"Saare maakond";3;"Harrastusteater";2;"Naised";2012;2012;174
+"2239";74;"Saare maakond";3;"Harrastusteater";2;"Naised";2013;2013;174
+"2240";74;"Saare maakond";3;"Harrastusteater";2;"Naised";2014;2014;174
+"2241";74;"Saare maakond";3;"Harrastusteater";2;"Naised";2015;2015;178
+"2242";74;"Saare maakond";3;"Harrastusteater";2;"Naised";2016;2016;183
+"2243";74;"Saare maakond";3;"Harrastusteater";2;"Naised";2017;2017;183
+"2244";74;"Saare maakond";3;"Harrastusteater";2;"Naised";2018;2018;183
+"2245";74;"Saare maakond";4;"Koorimuusika";1;"Mehed";2008;2008;387
+"2246";74;"Saare maakond";4;"Koorimuusika";1;"Mehed";2009;2009;398
+"2247";74;"Saare maakond";4;"Koorimuusika";1;"Mehed";2010;2010;382
+"2248";74;"Saare maakond";4;"Koorimuusika";1;"Mehed";2011;2011;377
+"2249";74;"Saare maakond";4;"Koorimuusika";1;"Mehed";2012;2012;446
+"2250";74;"Saare maakond";4;"Koorimuusika";1;"Mehed";2013;2013;446
+"2251";74;"Saare maakond";4;"Koorimuusika";1;"Mehed";2014;2014;446
+"2252";74;"Saare maakond";4;"Koorimuusika";1;"Mehed";2015;2015;431
+"2253";74;"Saare maakond";4;"Koorimuusika";1;"Mehed";2016;2016;454
+"2254";74;"Saare maakond";4;"Koorimuusika";1;"Mehed";2017;2017;454
+"2255";74;"Saare maakond";4;"Koorimuusika";1;"Mehed";2018;2018;389
+"2256";74;"Saare maakond";4;"Koorimuusika";2;"Naised";2008;2008;937
+"2257";74;"Saare maakond";4;"Koorimuusika";2;"Naised";2009;2009;1055
+"2258";74;"Saare maakond";4;"Koorimuusika";2;"Naised";2010;2010;1112
+"2259";74;"Saare maakond";4;"Koorimuusika";2;"Naised";2011;2011;1085
+"2260";74;"Saare maakond";4;"Koorimuusika";2;"Naised";2012;2012;1050
+"2261";74;"Saare maakond";4;"Koorimuusika";2;"Naised";2013;2013;1050
+"2262";74;"Saare maakond";4;"Koorimuusika";2;"Naised";2014;2014;1030
+"2263";74;"Saare maakond";4;"Koorimuusika";2;"Naised";2015;2015;980
+"2264";74;"Saare maakond";4;"Koorimuusika";2;"Naised";2016;2016;959
+"2265";74;"Saare maakond";4;"Koorimuusika";2;"Naised";2017;2017;959
+"2266";74;"Saare maakond";4;"Koorimuusika";2;"Naised";2018;2018;940
+"2267";74;"Saare maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;54
+"2268";74;"Saare maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;54
+"2269";74;"Saare maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;51
+"2270";74;"Saare maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;53
+"2271";74;"Saare maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;53
+"2272";74;"Saare maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;53
+"2273";74;"Saare maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;38
+"2274";74;"Saare maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;69
+"2275";74;"Saare maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;62
+"2276";74;"Saare maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;62
+"2277";74;"Saare maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;61
+"2278";74;"Saare maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;65
+"2279";74;"Saare maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;65
+"2280";74;"Saare maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;65
+"2281";74;"Saare maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;79
+"2282";74;"Saare maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;79
+"2283";74;"Saare maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;79
+"2284";74;"Saare maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;69
+"2285";74;"Saare maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;98
+"2286";74;"Saare maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;109
+"2287";74;"Saare maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;109
+"2288";74;"Saare maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;107
+"2289";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;69
+"2290";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;68
+"2291";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;77
+"2292";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;83
+"2293";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;83
+"2294";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;83
+"2295";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;74
+"2296";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;68
+"2297";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;67
+"2298";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;67
+"2299";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;67
+"2300";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;72
+"2301";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;72
+"2302";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;79
+"2303";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;91
+"2304";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;91
+"2305";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;91
+"2306";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;79
+"2307";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;81
+"2308";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;80
+"2309";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;80
+"2310";74;"Saare maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;80
+"2311";74;"Saare maakond";7;"Rahvatants";1;"Mehed";2008;2008;215
+"2312";74;"Saare maakond";7;"Rahvatants";1;"Mehed";2009;2009;246
+"2313";74;"Saare maakond";7;"Rahvatants";1;"Mehed";2010;2010;279
+"2314";74;"Saare maakond";7;"Rahvatants";1;"Mehed";2011;2011;264
+"2315";74;"Saare maakond";7;"Rahvatants";1;"Mehed";2012;2012;264
+"2316";74;"Saare maakond";7;"Rahvatants";1;"Mehed";2013;2013;267
+"2317";74;"Saare maakond";7;"Rahvatants";1;"Mehed";2014;2014;261
+"2318";74;"Saare maakond";7;"Rahvatants";1;"Mehed";2015;2015;267
+"2319";74;"Saare maakond";7;"Rahvatants";1;"Mehed";2016;2016;319
+"2320";74;"Saare maakond";7;"Rahvatants";1;"Mehed";2017;2017;327
+"2321";74;"Saare maakond";7;"Rahvatants";1;"Mehed";2018;2018;344
+"2322";74;"Saare maakond";7;"Rahvatants";2;"Naised";2008;2008;597
+"2323";74;"Saare maakond";7;"Rahvatants";2;"Naised";2009;2009;617
+"2324";74;"Saare maakond";7;"Rahvatants";2;"Naised";2010;2010;663
+"2325";74;"Saare maakond";7;"Rahvatants";2;"Naised";2011;2011;636
+"2326";74;"Saare maakond";7;"Rahvatants";2;"Naised";2012;2012;636
+"2327";74;"Saare maakond";7;"Rahvatants";2;"Naised";2013;2013;640
+"2328";74;"Saare maakond";7;"Rahvatants";2;"Naised";2014;2014;635
+"2329";74;"Saare maakond";7;"Rahvatants";2;"Naised";2015;2015;609
+"2330";74;"Saare maakond";7;"Rahvatants";2;"Naised";2016;2016;690
+"2331";74;"Saare maakond";7;"Rahvatants";2;"Naised";2017;2017;688
+"2332";74;"Saare maakond";7;"Rahvatants";2;"Naised";2018;2018;705
+"2333";74;"Saare maakond";8;"Käsitöö";1;"Mehed";2008;2008;3
+"2334";74;"Saare maakond";8;"Käsitöö";1;"Mehed";2009;2009;3
+"2335";74;"Saare maakond";8;"Käsitöö";1;"Mehed";2010;2010;7
+"2336";74;"Saare maakond";8;"Käsitöö";1;"Mehed";2011;2011;7
+"2337";74;"Saare maakond";8;"Käsitöö";1;"Mehed";2012;2012;7
+"2338";74;"Saare maakond";8;"Käsitöö";1;"Mehed";2013;2013;7
+"2339";74;"Saare maakond";8;"Käsitöö";1;"Mehed";2014;2014;7
+"2340";74;"Saare maakond";8;"Käsitöö";1;"Mehed";2015;2015;7
+"2341";74;"Saare maakond";8;"Käsitöö";1;"Mehed";2016;2016;7
+"2342";74;"Saare maakond";8;"Käsitöö";1;"Mehed";2017;2017;7
+"2343";74;"Saare maakond";8;"Käsitöö";1;"Mehed";2018;2018;7
+"2344";74;"Saare maakond";8;"Käsitöö";2;"Naised";2008;2008;89
+"2345";74;"Saare maakond";8;"Käsitöö";2;"Naised";2009;2009;97
+"2346";74;"Saare maakond";8;"Käsitöö";2;"Naised";2010;2010;123
+"2347";74;"Saare maakond";8;"Käsitöö";2;"Naised";2011;2011;116
+"2348";74;"Saare maakond";8;"Käsitöö";2;"Naised";2012;2012;116
+"2349";74;"Saare maakond";8;"Käsitöö";2;"Naised";2013;2013;116
+"2350";74;"Saare maakond";8;"Käsitöö";2;"Naised";2014;2014;116
+"2351";74;"Saare maakond";8;"Käsitöö";2;"Naised";2015;2015;126
+"2352";74;"Saare maakond";8;"Käsitöö";2;"Naised";2016;2016;136
+"2353";74;"Saare maakond";8;"Käsitöö";2;"Naised";2017;2017;136
+"2354";74;"Saare maakond";8;"Käsitöö";2;"Naised";2018;2018;136
+"2355";74;"Saare maakond";9;"Muu valdkond";1;"Mehed";2008;2008;24
+"2356";74;"Saare maakond";9;"Muu valdkond";1;"Mehed";2009;2009;27
+"2357";74;"Saare maakond";9;"Muu valdkond";1;"Mehed";2010;2010;33
+"2358";74;"Saare maakond";9;"Muu valdkond";1;"Mehed";2011;2011;33
+"2359";74;"Saare maakond";9;"Muu valdkond";1;"Mehed";2012;2012;33
+"2360";74;"Saare maakond";9;"Muu valdkond";1;"Mehed";2013;2013;33
+"2361";74;"Saare maakond";9;"Muu valdkond";1;"Mehed";2014;2014;33
+"2362";74;"Saare maakond";9;"Muu valdkond";1;"Mehed";2015;2015;42
+"2363";74;"Saare maakond";9;"Muu valdkond";1;"Mehed";2016;2016;43
+"2364";74;"Saare maakond";9;"Muu valdkond";1;"Mehed";2017;2017;43
+"2365";74;"Saare maakond";9;"Muu valdkond";1;"Mehed";2018;2018;43
+"2366";74;"Saare maakond";9;"Muu valdkond";2;"Naised";2008;2008;22
+"2367";74;"Saare maakond";9;"Muu valdkond";2;"Naised";2009;2009;30
+"2368";74;"Saare maakond";9;"Muu valdkond";2;"Naised";2010;2010;30
+"2369";74;"Saare maakond";9;"Muu valdkond";2;"Naised";2011;2011;30
+"2370";74;"Saare maakond";9;"Muu valdkond";2;"Naised";2012;2012;30
+"2371";74;"Saare maakond";9;"Muu valdkond";2;"Naised";2013;2013;30
+"2372";74;"Saare maakond";9;"Muu valdkond";2;"Naised";2014;2014;36
+"2373";74;"Saare maakond";9;"Muu valdkond";2;"Naised";2015;2015;44
+"2374";74;"Saare maakond";9;"Muu valdkond";2;"Naised";2016;2016;70
+"2375";74;"Saare maakond";9;"Muu valdkond";2;"Naised";2017;2017;70
+"2376";74;"Saare maakond";9;"Muu valdkond";2;"Naised";2018;2018;70
+"2399";78;"Tartu maakond";2;"Folkloor";1;"Mehed";2008;2008;29
+"2400";78;"Tartu maakond";2;"Folkloor";1;"Mehed";2009;2009;24
+"2401";78;"Tartu maakond";2;"Folkloor";1;"Mehed";2010;2010;10
+"2402";78;"Tartu maakond";2;"Folkloor";1;"Mehed";2011;2011;27
+"2403";78;"Tartu maakond";2;"Folkloor";1;"Mehed";2012;2012;27
+"2404";78;"Tartu maakond";2;"Folkloor";1;"Mehed";2013;2013;27
+"2405";78;"Tartu maakond";2;"Folkloor";1;"Mehed";2014;2014;55
+"2406";78;"Tartu maakond";2;"Folkloor";1;"Mehed";2015;2015;59
+"2407";78;"Tartu maakond";2;"Folkloor";1;"Mehed";2016;2016;59
+"2408";78;"Tartu maakond";2;"Folkloor";1;"Mehed";2017;2017;54
+"2409";78;"Tartu maakond";2;"Folkloor";1;"Mehed";2018;2018;51
+"2410";78;"Tartu maakond";2;"Folkloor";2;"Naised";2008;2008;189
+"2411";78;"Tartu maakond";2;"Folkloor";2;"Naised";2009;2009;186
+"2412";78;"Tartu maakond";2;"Folkloor";2;"Naised";2010;2010;168
+"2413";78;"Tartu maakond";2;"Folkloor";2;"Naised";2011;2011;90
+"2414";78;"Tartu maakond";2;"Folkloor";2;"Naised";2012;2012;90
+"2415";78;"Tartu maakond";2;"Folkloor";2;"Naised";2013;2013;90
+"2416";78;"Tartu maakond";2;"Folkloor";2;"Naised";2014;2014;115
+"2417";78;"Tartu maakond";2;"Folkloor";2;"Naised";2015;2015;115
+"2418";78;"Tartu maakond";2;"Folkloor";2;"Naised";2016;2016;115
+"2419";78;"Tartu maakond";2;"Folkloor";2;"Naised";2017;2017;108
+"2420";78;"Tartu maakond";2;"Folkloor";2;"Naised";2018;2018;79
+"2421";78;"Tartu maakond";3;"Harrastusteater";1;"Mehed";2008;2008;263
+"2422";78;"Tartu maakond";3;"Harrastusteater";1;"Mehed";2009;2009;238
+"2423";78;"Tartu maakond";3;"Harrastusteater";1;"Mehed";2010;2010;303
+"2424";78;"Tartu maakond";3;"Harrastusteater";1;"Mehed";2011;2011;338
+"2425";78;"Tartu maakond";3;"Harrastusteater";1;"Mehed";2012;2012;326
+"2426";78;"Tartu maakond";3;"Harrastusteater";1;"Mehed";2013;2013;335
+"2427";78;"Tartu maakond";3;"Harrastusteater";1;"Mehed";2014;2014;307
+"2428";78;"Tartu maakond";3;"Harrastusteater";1;"Mehed";2015;2015;280
+"2429";78;"Tartu maakond";3;"Harrastusteater";1;"Mehed";2016;2016;274
+"2430";78;"Tartu maakond";3;"Harrastusteater";1;"Mehed";2017;2017;268
+"2431";78;"Tartu maakond";3;"Harrastusteater";1;"Mehed";2018;2018;282
+"2432";78;"Tartu maakond";3;"Harrastusteater";2;"Naised";2008;2008;474
+"2433";78;"Tartu maakond";3;"Harrastusteater";2;"Naised";2009;2009;430
+"2434";78;"Tartu maakond";3;"Harrastusteater";2;"Naised";2010;2010;524
+"2435";78;"Tartu maakond";3;"Harrastusteater";2;"Naised";2011;2011;542
+"2436";78;"Tartu maakond";3;"Harrastusteater";2;"Naised";2012;2012;517
+"2437";78;"Tartu maakond";3;"Harrastusteater";2;"Naised";2013;2013;542
+"2438";78;"Tartu maakond";3;"Harrastusteater";2;"Naised";2014;2014;485
+"2439";78;"Tartu maakond";3;"Harrastusteater";2;"Naised";2015;2015;432
+"2440";78;"Tartu maakond";3;"Harrastusteater";2;"Naised";2016;2016;423
+"2441";78;"Tartu maakond";3;"Harrastusteater";2;"Naised";2017;2017;412
+"2442";78;"Tartu maakond";3;"Harrastusteater";2;"Naised";2018;2018;438
+"2443";78;"Tartu maakond";4;"Koorimuusika";1;"Mehed";2008;2008;1303
+"2444";78;"Tartu maakond";4;"Koorimuusika";1;"Mehed";2009;2009;1350
+"2445";78;"Tartu maakond";4;"Koorimuusika";1;"Mehed";2010;2010;1671
+"2446";78;"Tartu maakond";4;"Koorimuusika";1;"Mehed";2011;2011;1699
+"2447";78;"Tartu maakond";4;"Koorimuusika";1;"Mehed";2012;2012;1733
+"2448";78;"Tartu maakond";4;"Koorimuusika";1;"Mehed";2013;2013;1733
+"2449";78;"Tartu maakond";4;"Koorimuusika";1;"Mehed";2014;2014;1737
+"2450";78;"Tartu maakond";4;"Koorimuusika";1;"Mehed";2015;2015;1762
+"2451";78;"Tartu maakond";4;"Koorimuusika";1;"Mehed";2016;2016;1797
+"2452";78;"Tartu maakond";4;"Koorimuusika";1;"Mehed";2017;2017;1793
+"2453";78;"Tartu maakond";4;"Koorimuusika";1;"Mehed";2018;2018;1763
+"2454";78;"Tartu maakond";4;"Koorimuusika";2;"Naised";2008;2008;3852
+"2455";78;"Tartu maakond";4;"Koorimuusika";2;"Naised";2009;2009;3876
+"2456";78;"Tartu maakond";4;"Koorimuusika";2;"Naised";2010;2010;4587
+"2457";78;"Tartu maakond";4;"Koorimuusika";2;"Naised";2011;2011;4515
+"2458";78;"Tartu maakond";4;"Koorimuusika";2;"Naised";2012;2012;4479
+"2459";78;"Tartu maakond";4;"Koorimuusika";2;"Naised";2013;2013;4456
+"2460";78;"Tartu maakond";4;"Koorimuusika";2;"Naised";2014;2014;4427
+"2461";78;"Tartu maakond";4;"Koorimuusika";2;"Naised";2015;2015;4420
+"2462";78;"Tartu maakond";4;"Koorimuusika";2;"Naised";2016;2016;4388
+"2463";78;"Tartu maakond";4;"Koorimuusika";2;"Naised";2017;2017;4372
+"2464";78;"Tartu maakond";4;"Koorimuusika";2;"Naised";2018;2018;4345
+"2465";78;"Tartu maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;31
+"2466";78;"Tartu maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;35
+"2467";78;"Tartu maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;46
+"2468";78;"Tartu maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;50
+"2469";78;"Tartu maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;56
+"2470";78;"Tartu maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;56
+"2471";78;"Tartu maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;61
+"2472";78;"Tartu maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;58
+"2473";78;"Tartu maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;57
+"2474";78;"Tartu maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;52
+"2475";78;"Tartu maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;56
+"2476";78;"Tartu maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;168
+"2477";78;"Tartu maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;202
+"2478";78;"Tartu maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;210
+"2479";78;"Tartu maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;215
+"2480";78;"Tartu maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;216
+"2481";78;"Tartu maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;191
+"2482";78;"Tartu maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;213
+"2483";78;"Tartu maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;221
+"2484";78;"Tartu maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;219
+"2485";78;"Tartu maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;208
+"2486";78;"Tartu maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;236
+"2487";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;301
+"2488";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;354
+"2489";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;459
+"2490";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;450
+"2491";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;464
+"2492";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;460
+"2493";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;379
+"2494";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;373
+"2495";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;350
+"2496";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;333
+"2497";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;378
+"2498";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;133
+"2499";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;169
+"2500";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;253
+"2501";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;285
+"2502";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;276
+"2503";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;274
+"2504";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;257
+"2505";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;246
+"2506";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;235
+"2507";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;189
+"2508";78;"Tartu maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;274
+"2509";78;"Tartu maakond";7;"Rahvatants";1;"Mehed";2008;2008;514
+"2510";78;"Tartu maakond";7;"Rahvatants";1;"Mehed";2009;2009;573
+"2511";78;"Tartu maakond";7;"Rahvatants";1;"Mehed";2010;2010;668
+"2512";78;"Tartu maakond";7;"Rahvatants";1;"Mehed";2011;2011;620
+"2513";78;"Tartu maakond";7;"Rahvatants";1;"Mehed";2012;2012;686
+"2514";78;"Tartu maakond";7;"Rahvatants";1;"Mehed";2013;2013;687
+"2515";78;"Tartu maakond";7;"Rahvatants";1;"Mehed";2014;2014;741
+"2516";78;"Tartu maakond";7;"Rahvatants";1;"Mehed";2015;2015;801
+"2517";78;"Tartu maakond";7;"Rahvatants";1;"Mehed";2016;2016;774
+"2518";78;"Tartu maakond";7;"Rahvatants";1;"Mehed";2017;2017;782
+"2519";78;"Tartu maakond";7;"Rahvatants";1;"Mehed";2018;2018;747
+"2520";78;"Tartu maakond";7;"Rahvatants";2;"Naised";2008;2008;1053
+"2521";78;"Tartu maakond";7;"Rahvatants";2;"Naised";2009;2009;1107
+"2522";78;"Tartu maakond";7;"Rahvatants";2;"Naised";2010;2010;1334
+"2523";78;"Tartu maakond";7;"Rahvatants";2;"Naised";2011;2011;1230
+"2524";78;"Tartu maakond";7;"Rahvatants";2;"Naised";2012;2012;1323
+"2525";78;"Tartu maakond";7;"Rahvatants";2;"Naised";2013;2013;1325
+"2526";78;"Tartu maakond";7;"Rahvatants";2;"Naised";2014;2014;1374
+"2527";78;"Tartu maakond";7;"Rahvatants";2;"Naised";2015;2015;1507
+"2528";78;"Tartu maakond";7;"Rahvatants";2;"Naised";2016;2016;1473
+"2529";78;"Tartu maakond";7;"Rahvatants";2;"Naised";2017;2017;1481
+"2530";78;"Tartu maakond";7;"Rahvatants";2;"Naised";2018;2018;1487
+"2531";78;"Tartu maakond";8;"Käsitöö";1;"Mehed";2008;2008;35
+"2532";78;"Tartu maakond";8;"Käsitöö";1;"Mehed";2009;2009;50
+"2533";78;"Tartu maakond";8;"Käsitöö";1;"Mehed";2010;2010;23
+"2534";78;"Tartu maakond";8;"Käsitöö";1;"Mehed";2011;2011;23
+"2535";78;"Tartu maakond";8;"Käsitöö";1;"Mehed";2012;2012;23
+"2536";78;"Tartu maakond";8;"Käsitöö";1;"Mehed";2013;2013;23
+"2537";78;"Tartu maakond";8;"Käsitöö";1;"Mehed";2014;2014;23
+"2538";78;"Tartu maakond";8;"Käsitöö";1;"Mehed";2015;2015;23
+"2539";78;"Tartu maakond";8;"Käsitöö";1;"Mehed";2016;2016;23
+"2540";78;"Tartu maakond";8;"Käsitöö";1;"Mehed";2017;2017;23
+"2541";78;"Tartu maakond";8;"Käsitöö";1;"Mehed";2018;2018;23
+"2542";78;"Tartu maakond";8;"Käsitöö";2;"Naised";2008;2008;111
+"2543";78;"Tartu maakond";8;"Käsitöö";2;"Naised";2009;2009;153
+"2544";78;"Tartu maakond";8;"Käsitöö";2;"Naised";2010;2010;154
+"2545";78;"Tartu maakond";8;"Käsitöö";2;"Naised";2011;2011;168
+"2546";78;"Tartu maakond";8;"Käsitöö";2;"Naised";2012;2012;168
+"2547";78;"Tartu maakond";8;"Käsitöö";2;"Naised";2013;2013;168
+"2548";78;"Tartu maakond";8;"Käsitöö";2;"Naised";2014;2014;168
+"2549";78;"Tartu maakond";8;"Käsitöö";2;"Naised";2015;2015;131
+"2550";78;"Tartu maakond";8;"Käsitöö";2;"Naised";2016;2016;139
+"2551";78;"Tartu maakond";8;"Käsitöö";2;"Naised";2017;2017;139
+"2552";78;"Tartu maakond";8;"Käsitöö";2;"Naised";2018;2018;121
+"2553";78;"Tartu maakond";9;"Muu valdkond";1;"Mehed";2008;2008;25
+"2554";78;"Tartu maakond";9;"Muu valdkond";1;"Mehed";2009;2009;32
+"2555";78;"Tartu maakond";9;"Muu valdkond";1;"Mehed";2010;2010;124
+"2556";78;"Tartu maakond";9;"Muu valdkond";1;"Mehed";2011;2011;130
+"2557";78;"Tartu maakond";9;"Muu valdkond";1;"Mehed";2012;2012;138
+"2558";78;"Tartu maakond";9;"Muu valdkond";1;"Mehed";2013;2013;132
+"2559";78;"Tartu maakond";9;"Muu valdkond";1;"Mehed";2014;2014;132
+"2560";78;"Tartu maakond";9;"Muu valdkond";1;"Mehed";2015;2015;132
+"2561";78;"Tartu maakond";9;"Muu valdkond";1;"Mehed";2016;2016;138
+"2562";78;"Tartu maakond";9;"Muu valdkond";1;"Mehed";2017;2017;130
+"2563";78;"Tartu maakond";9;"Muu valdkond";1;"Mehed";2018;2018;120
+"2564";78;"Tartu maakond";9;"Muu valdkond";2;"Naised";2008;2008;49
+"2565";78;"Tartu maakond";9;"Muu valdkond";2;"Naised";2009;2009;49
+"2566";78;"Tartu maakond";9;"Muu valdkond";2;"Naised";2010;2010;116
+"2567";78;"Tartu maakond";9;"Muu valdkond";2;"Naised";2011;2011;156
+"2568";78;"Tartu maakond";9;"Muu valdkond";2;"Naised";2012;2012;191
+"2569";78;"Tartu maakond";9;"Muu valdkond";2;"Naised";2013;2013;191
+"2570";78;"Tartu maakond";9;"Muu valdkond";2;"Naised";2014;2014;176
+"2571";78;"Tartu maakond";9;"Muu valdkond";2;"Naised";2015;2015;176
+"2572";78;"Tartu maakond";9;"Muu valdkond";2;"Naised";2016;2016;175
+"2573";78;"Tartu maakond";9;"Muu valdkond";2;"Naised";2017;2017;175
+"2574";78;"Tartu maakond";9;"Muu valdkond";2;"Naised";2018;2018;176
+"2597";82;"Valga maakond";2;"Folkloor";1;"Mehed";2008;2008;77
+"2598";82;"Valga maakond";2;"Folkloor";1;"Mehed";2009;2009;77
+"2599";82;"Valga maakond";2;"Folkloor";1;"Mehed";2010;2010;77
+"2600";82;"Valga maakond";2;"Folkloor";1;"Mehed";2011;2011;11
+"2601";82;"Valga maakond";2;"Folkloor";1;"Mehed";2012;2012;11
+"2602";82;"Valga maakond";2;"Folkloor";1;"Mehed";2013;2013;11
+"2603";82;"Valga maakond";2;"Folkloor";1;"Mehed";2014;2014;11
+"2604";82;"Valga maakond";2;"Folkloor";1;"Mehed";2015;2015;11
+"2605";82;"Valga maakond";2;"Folkloor";1;"Mehed";2016;2016;11
+"2606";82;"Valga maakond";2;"Folkloor";1;"Mehed";2017;2017;11
+"2607";82;"Valga maakond";2;"Folkloor";1;"Mehed";2018;2018;17
+"2608";82;"Valga maakond";2;"Folkloor";2;"Naised";2008;2008;141
+"2609";82;"Valga maakond";2;"Folkloor";2;"Naised";2009;2009;153
+"2610";82;"Valga maakond";2;"Folkloor";2;"Naised";2010;2010;153
+"2611";82;"Valga maakond";2;"Folkloor";2;"Naised";2011;2011;35
+"2612";82;"Valga maakond";2;"Folkloor";2;"Naised";2012;2012;35
+"2613";82;"Valga maakond";2;"Folkloor";2;"Naised";2013;2013;35
+"2614";82;"Valga maakond";2;"Folkloor";2;"Naised";2014;2014;35
+"2615";82;"Valga maakond";2;"Folkloor";2;"Naised";2015;2015;35
+"2616";82;"Valga maakond";2;"Folkloor";2;"Naised";2016;2016;35
+"2617";82;"Valga maakond";2;"Folkloor";2;"Naised";2017;2017;35
+"2618";82;"Valga maakond";2;"Folkloor";2;"Naised";2018;2018;44
+"2619";82;"Valga maakond";3;"Harrastusteater";1;"Mehed";2008;2008;151
+"2620";82;"Valga maakond";3;"Harrastusteater";1;"Mehed";2009;2009;151
+"2621";82;"Valga maakond";3;"Harrastusteater";1;"Mehed";2010;2010;151
+"2622";82;"Valga maakond";3;"Harrastusteater";1;"Mehed";2011;2011;193
+"2623";82;"Valga maakond";3;"Harrastusteater";1;"Mehed";2012;2012;173
+"2624";82;"Valga maakond";3;"Harrastusteater";1;"Mehed";2013;2013;173
+"2625";82;"Valga maakond";3;"Harrastusteater";1;"Mehed";2014;2014;168
+"2626";82;"Valga maakond";3;"Harrastusteater";1;"Mehed";2015;2015;166
+"2627";82;"Valga maakond";3;"Harrastusteater";1;"Mehed";2016;2016;152
+"2628";82;"Valga maakond";3;"Harrastusteater";1;"Mehed";2017;2017;152
+"2629";82;"Valga maakond";3;"Harrastusteater";1;"Mehed";2018;2018;70
+"2630";82;"Valga maakond";3;"Harrastusteater";2;"Naised";2008;2008;342
+"2631";82;"Valga maakond";3;"Harrastusteater";2;"Naised";2009;2009;342
+"2632";82;"Valga maakond";3;"Harrastusteater";2;"Naised";2010;2010;342
+"2633";82;"Valga maakond";3;"Harrastusteater";2;"Naised";2011;2011;373
+"2634";82;"Valga maakond";3;"Harrastusteater";2;"Naised";2012;2012;336
+"2635";82;"Valga maakond";3;"Harrastusteater";2;"Naised";2013;2013;336
+"2636";82;"Valga maakond";3;"Harrastusteater";2;"Naised";2014;2014;326
+"2637";82;"Valga maakond";3;"Harrastusteater";2;"Naised";2015;2015;324
+"2638";82;"Valga maakond";3;"Harrastusteater";2;"Naised";2016;2016;296
+"2639";82;"Valga maakond";3;"Harrastusteater";2;"Naised";2017;2017;296
+"2640";82;"Valga maakond";3;"Harrastusteater";2;"Naised";2018;2018;143
+"2641";82;"Valga maakond";4;"Koorimuusika";1;"Mehed";2008;2008;374
+"2642";82;"Valga maakond";4;"Koorimuusika";1;"Mehed";2009;2009;368
+"2643";82;"Valga maakond";4;"Koorimuusika";1;"Mehed";2010;2010;378
+"2644";82;"Valga maakond";4;"Koorimuusika";1;"Mehed";2011;2011;375
+"2645";82;"Valga maakond";4;"Koorimuusika";1;"Mehed";2012;2012;375
+"2646";82;"Valga maakond";4;"Koorimuusika";1;"Mehed";2013;2013;375
+"2647";82;"Valga maakond";4;"Koorimuusika";1;"Mehed";2014;2014;282
+"2648";82;"Valga maakond";4;"Koorimuusika";1;"Mehed";2015;2015;298
+"2649";82;"Valga maakond";4;"Koorimuusika";1;"Mehed";2016;2016;267
+"2650";82;"Valga maakond";4;"Koorimuusika";1;"Mehed";2017;2017;267
+"2651";82;"Valga maakond";4;"Koorimuusika";1;"Mehed";2018;2018;181
+"2652";82;"Valga maakond";4;"Koorimuusika";2;"Naised";2008;2008;680
+"2653";82;"Valga maakond";4;"Koorimuusika";2;"Naised";2009;2009;666
+"2654";82;"Valga maakond";4;"Koorimuusika";2;"Naised";2010;2010;679
+"2655";82;"Valga maakond";4;"Koorimuusika";2;"Naised";2011;2011;681
+"2656";82;"Valga maakond";4;"Koorimuusika";2;"Naised";2012;2012;681
+"2657";82;"Valga maakond";4;"Koorimuusika";2;"Naised";2013;2013;681
+"2658";82;"Valga maakond";4;"Koorimuusika";2;"Naised";2014;2014;499
+"2659";82;"Valga maakond";4;"Koorimuusika";2;"Naised";2015;2015;541
+"2660";82;"Valga maakond";4;"Koorimuusika";2;"Naised";2016;2016;515
+"2661";82;"Valga maakond";4;"Koorimuusika";2;"Naised";2017;2017;515
+"2662";82;"Valga maakond";4;"Koorimuusika";2;"Naised";2018;2018;383
+"2663";82;"Valga maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;124
+"2664";82;"Valga maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;124
+"2665";82;"Valga maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;126
+"2666";82;"Valga maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;117
+"2667";82;"Valga maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;100
+"2668";82;"Valga maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;100
+"2669";82;"Valga maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;100
+"2670";82;"Valga maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;111
+"2671";82;"Valga maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;104
+"2672";82;"Valga maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;104
+"2673";82;"Valga maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;85
+"2674";82;"Valga maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;346
+"2675";82;"Valga maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;346
+"2676";82;"Valga maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;365
+"2677";82;"Valga maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;376
+"2678";82;"Valga maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;343
+"2679";82;"Valga maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;343
+"2680";82;"Valga maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;338
+"2681";82;"Valga maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;359
+"2682";82;"Valga maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;290
+"2683";82;"Valga maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;298
+"2684";82;"Valga maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;259
+"2685";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;52
+"2686";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;52
+"2687";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;47
+"2688";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;49
+"2689";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;38
+"2690";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;38
+"2691";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;29
+"2692";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;29
+"2693";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;25
+"2694";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;25
+"2695";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;23
+"2696";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;39
+"2697";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;39
+"2698";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;40
+"2699";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;40
+"2700";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;53
+"2701";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;53
+"2702";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;46
+"2703";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;46
+"2704";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;44
+"2705";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;44
+"2706";82;"Valga maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;51
+"2707";82;"Valga maakond";7;"Rahvatants";1;"Mehed";2008;2008;269
+"2708";82;"Valga maakond";7;"Rahvatants";1;"Mehed";2009;2009;236
+"2709";82;"Valga maakond";7;"Rahvatants";1;"Mehed";2010;2010;244
+"2710";82;"Valga maakond";7;"Rahvatants";1;"Mehed";2011;2011;275
+"2711";82;"Valga maakond";7;"Rahvatants";1;"Mehed";2012;2012;291
+"2712";82;"Valga maakond";7;"Rahvatants";1;"Mehed";2013;2013;284
+"2713";82;"Valga maakond";7;"Rahvatants";1;"Mehed";2014;2014;247
+"2714";82;"Valga maakond";7;"Rahvatants";1;"Mehed";2015;2015;233
+"2715";82;"Valga maakond";7;"Rahvatants";1;"Mehed";2016;2016;269
+"2716";82;"Valga maakond";7;"Rahvatants";1;"Mehed";2017;2017;269
+"2717";82;"Valga maakond";7;"Rahvatants";1;"Mehed";2018;2018;228
+"2718";82;"Valga maakond";7;"Rahvatants";2;"Naised";2008;2008;556
+"2719";82;"Valga maakond";7;"Rahvatants";2;"Naised";2009;2009;522
+"2720";82;"Valga maakond";7;"Rahvatants";2;"Naised";2010;2010;527
+"2721";82;"Valga maakond";7;"Rahvatants";2;"Naised";2011;2011;586
+"2722";82;"Valga maakond";7;"Rahvatants";2;"Naised";2012;2012;593
+"2723";82;"Valga maakond";7;"Rahvatants";2;"Naised";2013;2013;583
+"2724";82;"Valga maakond";7;"Rahvatants";2;"Naised";2014;2014;549
+"2725";82;"Valga maakond";7;"Rahvatants";2;"Naised";2015;2015;549
+"2726";82;"Valga maakond";7;"Rahvatants";2;"Naised";2016;2016;601
+"2727";82;"Valga maakond";7;"Rahvatants";2;"Naised";2017;2017;589
+"2728";82;"Valga maakond";7;"Rahvatants";2;"Naised";2018;2018;531
+"2729";82;"Valga maakond";8;"Käsitöö";1;"Mehed";2008;2008;20
+"2730";82;"Valga maakond";8;"Käsitöö";1;"Mehed";2009;2009;20
+"2731";82;"Valga maakond";8;"Käsitöö";1;"Mehed";2010;2010;20
+"2732";82;"Valga maakond";8;"Käsitöö";1;"Mehed";2011;2011;20
+"2733";82;"Valga maakond";8;"Käsitöö";1;"Mehed";2012;2012;20
+"2734";82;"Valga maakond";8;"Käsitöö";1;"Mehed";2013;2013;20
+"2735";82;"Valga maakond";8;"Käsitöö";1;"Mehed";2014;2014;20
+"2736";82;"Valga maakond";8;"Käsitöö";1;"Mehed";2015;2015;25
+"2737";82;"Valga maakond";8;"Käsitöö";1;"Mehed";2016;2016;25
+"2738";82;"Valga maakond";8;"Käsitöö";1;"Mehed";2017;2017;25
+"2739";82;"Valga maakond";8;"Käsitöö";1;"Mehed";2018;2018;25
+"2740";82;"Valga maakond";8;"Käsitöö";2;"Naised";2008;2008;201
+"2741";82;"Valga maakond";8;"Käsitöö";2;"Naised";2009;2009;201
+"2742";82;"Valga maakond";8;"Käsitöö";2;"Naised";2010;2010;216
+"2743";82;"Valga maakond";8;"Käsitöö";2;"Naised";2011;2011;191
+"2744";82;"Valga maakond";8;"Käsitöö";2;"Naised";2012;2012;190
+"2745";82;"Valga maakond";8;"Käsitöö";2;"Naised";2013;2013;190
+"2746";82;"Valga maakond";8;"Käsitöö";2;"Naised";2014;2014;190
+"2747";82;"Valga maakond";8;"Käsitöö";2;"Naised";2015;2015;190
+"2748";82;"Valga maakond";8;"Käsitöö";2;"Naised";2016;2016;214
+"2749";82;"Valga maakond";8;"Käsitöö";2;"Naised";2017;2017;214
+"2750";82;"Valga maakond";8;"Käsitöö";2;"Naised";2018;2018;214
+"2751";82;"Valga maakond";9;"Muu valdkond";1;"Mehed";2008;2008;15
+"2752";82;"Valga maakond";9;"Muu valdkond";1;"Mehed";2009;2009;15
+"2753";82;"Valga maakond";9;"Muu valdkond";1;"Mehed";2010;2010;17
+"2754";82;"Valga maakond";9;"Muu valdkond";1;"Mehed";2011;2011;32
+"2755";82;"Valga maakond";9;"Muu valdkond";1;"Mehed";2012;2012;17
+"2756";82;"Valga maakond";9;"Muu valdkond";1;"Mehed";2013;2013;17
+"2757";82;"Valga maakond";9;"Muu valdkond";1;"Mehed";2014;2014;49
+"2758";82;"Valga maakond";9;"Muu valdkond";1;"Mehed";2015;2015;49
+"2759";82;"Valga maakond";9;"Muu valdkond";1;"Mehed";2016;2016;49
+"2760";82;"Valga maakond";9;"Muu valdkond";1;"Mehed";2017;2017;49
+"2761";82;"Valga maakond";9;"Muu valdkond";1;"Mehed";2018;2018;66
+"2762";82;"Valga maakond";9;"Muu valdkond";2;"Naised";2008;2008;0
+"2763";82;"Valga maakond";9;"Muu valdkond";2;"Naised";2009;2009;0
+"2764";82;"Valga maakond";9;"Muu valdkond";2;"Naised";2010;2010;62
+"2765";82;"Valga maakond";9;"Muu valdkond";2;"Naised";2011;2011;95
+"2766";82;"Valga maakond";9;"Muu valdkond";2;"Naised";2012;2012;65
+"2767";82;"Valga maakond";9;"Muu valdkond";2;"Naised";2013;2013;65
+"2768";82;"Valga maakond";9;"Muu valdkond";2;"Naised";2014;2014;200
+"2769";82;"Valga maakond";9;"Muu valdkond";2;"Naised";2015;2015;297
+"2770";82;"Valga maakond";9;"Muu valdkond";2;"Naised";2016;2016;281
+"2771";82;"Valga maakond";9;"Muu valdkond";2;"Naised";2017;2017;281
+"2772";82;"Valga maakond";9;"Muu valdkond";2;"Naised";2018;2018;241
+"2795";84;"Viljandi maakond";2;"Folkloor";1;"Mehed";2008;2008;43
+"2796";84;"Viljandi maakond";2;"Folkloor";1;"Mehed";2009;2009;39
+"2797";84;"Viljandi maakond";2;"Folkloor";1;"Mehed";2010;2010;50
+"2798";84;"Viljandi maakond";2;"Folkloor";1;"Mehed";2011;2011;38
+"2799";84;"Viljandi maakond";2;"Folkloor";1;"Mehed";2012;2012;46
+"2800";84;"Viljandi maakond";2;"Folkloor";1;"Mehed";2013;2013;46
+"2801";84;"Viljandi maakond";2;"Folkloor";1;"Mehed";2014;2014;46
+"2802";84;"Viljandi maakond";2;"Folkloor";1;"Mehed";2015;2015;46
+"2803";84;"Viljandi maakond";2;"Folkloor";1;"Mehed";2016;2016;46
+"2804";84;"Viljandi maakond";2;"Folkloor";1;"Mehed";2017;2017;33
+"2805";84;"Viljandi maakond";2;"Folkloor";1;"Mehed";2018;2018;33
+"2806";84;"Viljandi maakond";2;"Folkloor";2;"Naised";2008;2008;95
+"2807";84;"Viljandi maakond";2;"Folkloor";2;"Naised";2009;2009;125
+"2808";84;"Viljandi maakond";2;"Folkloor";2;"Naised";2010;2010;136
+"2809";84;"Viljandi maakond";2;"Folkloor";2;"Naised";2011;2011;119
+"2810";84;"Viljandi maakond";2;"Folkloor";2;"Naised";2012;2012;128
+"2811";84;"Viljandi maakond";2;"Folkloor";2;"Naised";2013;2013;128
+"2812";84;"Viljandi maakond";2;"Folkloor";2;"Naised";2014;2014;128
+"2813";84;"Viljandi maakond";2;"Folkloor";2;"Naised";2015;2015;128
+"2814";84;"Viljandi maakond";2;"Folkloor";2;"Naised";2016;2016;152
+"2815";84;"Viljandi maakond";2;"Folkloor";2;"Naised";2017;2017;88
+"2816";84;"Viljandi maakond";2;"Folkloor";2;"Naised";2018;2018;88
+"2817";84;"Viljandi maakond";3;"Harrastusteater";1;"Mehed";2008;2008;28
+"2818";84;"Viljandi maakond";3;"Harrastusteater";1;"Mehed";2009;2009;94
+"2819";84;"Viljandi maakond";3;"Harrastusteater";1;"Mehed";2010;2010;94
+"2820";84;"Viljandi maakond";3;"Harrastusteater";1;"Mehed";2011;2011;113
+"2821";84;"Viljandi maakond";3;"Harrastusteater";1;"Mehed";2012;2012;112
+"2822";84;"Viljandi maakond";3;"Harrastusteater";1;"Mehed";2013;2013;112
+"2823";84;"Viljandi maakond";3;"Harrastusteater";1;"Mehed";2014;2014;111
+"2824";84;"Viljandi maakond";3;"Harrastusteater";1;"Mehed";2015;2015;109
+"2825";84;"Viljandi maakond";3;"Harrastusteater";1;"Mehed";2016;2016;110
+"2826";84;"Viljandi maakond";3;"Harrastusteater";1;"Mehed";2017;2017;88
+"2827";84;"Viljandi maakond";3;"Harrastusteater";1;"Mehed";2018;2018;88
+"2828";84;"Viljandi maakond";3;"Harrastusteater";2;"Naised";2008;2008;63
+"2829";84;"Viljandi maakond";3;"Harrastusteater";2;"Naised";2009;2009;189
+"2830";84;"Viljandi maakond";3;"Harrastusteater";2;"Naised";2010;2010;202
+"2831";84;"Viljandi maakond";3;"Harrastusteater";2;"Naised";2011;2011;236
+"2832";84;"Viljandi maakond";3;"Harrastusteater";2;"Naised";2012;2012;263
+"2833";84;"Viljandi maakond";3;"Harrastusteater";2;"Naised";2013;2013;263
+"2834";84;"Viljandi maakond";3;"Harrastusteater";2;"Naised";2014;2014;263
+"2835";84;"Viljandi maakond";3;"Harrastusteater";2;"Naised";2015;2015;259
+"2836";84;"Viljandi maakond";3;"Harrastusteater";2;"Naised";2016;2016;247
+"2837";84;"Viljandi maakond";3;"Harrastusteater";2;"Naised";2017;2017;213
+"2838";84;"Viljandi maakond";3;"Harrastusteater";2;"Naised";2018;2018;213
+"2839";84;"Viljandi maakond";4;"Koorimuusika";1;"Mehed";2008;2008;450
+"2840";84;"Viljandi maakond";4;"Koorimuusika";1;"Mehed";2009;2009;594
+"2841";84;"Viljandi maakond";4;"Koorimuusika";1;"Mehed";2010;2010;629
+"2842";84;"Viljandi maakond";4;"Koorimuusika";1;"Mehed";2011;2011;632
+"2843";84;"Viljandi maakond";4;"Koorimuusika";1;"Mehed";2012;2012;654
+"2844";84;"Viljandi maakond";4;"Koorimuusika";1;"Mehed";2013;2013;651
+"2845";84;"Viljandi maakond";4;"Koorimuusika";1;"Mehed";2014;2014;660
+"2846";84;"Viljandi maakond";4;"Koorimuusika";1;"Mehed";2015;2015;629
+"2847";84;"Viljandi maakond";4;"Koorimuusika";1;"Mehed";2016;2016;516
+"2848";84;"Viljandi maakond";4;"Koorimuusika";1;"Mehed";2017;2017;512
+"2849";84;"Viljandi maakond";4;"Koorimuusika";1;"Mehed";2018;2018;507
+"2850";84;"Viljandi maakond";4;"Koorimuusika";2;"Naised";2008;2008;1520
+"2851";84;"Viljandi maakond";4;"Koorimuusika";2;"Naised";2009;2009;1519
+"2852";84;"Viljandi maakond";4;"Koorimuusika";2;"Naised";2010;2010;1627
+"2853";84;"Viljandi maakond";4;"Koorimuusika";2;"Naised";2011;2011;1568
+"2854";84;"Viljandi maakond";4;"Koorimuusika";2;"Naised";2012;2012;1597
+"2855";84;"Viljandi maakond";4;"Koorimuusika";2;"Naised";2013;2013;1597
+"2856";84;"Viljandi maakond";4;"Koorimuusika";2;"Naised";2014;2014;1597
+"2857";84;"Viljandi maakond";4;"Koorimuusika";2;"Naised";2015;2015;1384
+"2858";84;"Viljandi maakond";4;"Koorimuusika";2;"Naised";2016;2016;1157
+"2859";84;"Viljandi maakond";4;"Koorimuusika";2;"Naised";2017;2017;1063
+"2860";84;"Viljandi maakond";4;"Koorimuusika";2;"Naised";2018;2018;1056
+"2861";84;"Viljandi maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;18
+"2862";84;"Viljandi maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;66
+"2863";84;"Viljandi maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;53
+"2864";84;"Viljandi maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;67
+"2865";84;"Viljandi maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;67
+"2866";84;"Viljandi maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;67
+"2867";84;"Viljandi maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;98
+"2868";84;"Viljandi maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;98
+"2869";84;"Viljandi maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;85
+"2870";84;"Viljandi maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;81
+"2871";84;"Viljandi maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;77
+"2872";84;"Viljandi maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;111
+"2873";84;"Viljandi maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;299
+"2874";84;"Viljandi maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;309
+"2875";84;"Viljandi maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;352
+"2876";84;"Viljandi maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;369
+"2877";84;"Viljandi maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;359
+"2878";84;"Viljandi maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;469
+"2879";84;"Viljandi maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;458
+"2880";84;"Viljandi maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;373
+"2881";84;"Viljandi maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;380
+"2882";84;"Viljandi maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;368
+"2883";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;39
+"2884";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;64
+"2885";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;108
+"2886";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;105
+"2887";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;111
+"2888";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;120
+"2889";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;123
+"2890";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;123
+"2891";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;116
+"2892";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;130
+"2893";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;130
+"2894";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;40
+"2895";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;68
+"2896";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;159
+"2897";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;169
+"2898";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;170
+"2899";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;171
+"2900";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;188
+"2901";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;189
+"2902";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;170
+"2903";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;190
+"2904";84;"Viljandi maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;190
+"2905";84;"Viljandi maakond";7;"Rahvatants";1;"Mehed";2008;2008;330
+"2906";84;"Viljandi maakond";7;"Rahvatants";1;"Mehed";2009;2009;397
+"2907";84;"Viljandi maakond";7;"Rahvatants";1;"Mehed";2010;2010;420
+"2908";84;"Viljandi maakond";7;"Rahvatants";1;"Mehed";2011;2011;434
+"2909";84;"Viljandi maakond";7;"Rahvatants";1;"Mehed";2012;2012;436
+"2910";84;"Viljandi maakond";7;"Rahvatants";1;"Mehed";2013;2013;445
+"2911";84;"Viljandi maakond";7;"Rahvatants";1;"Mehed";2014;2014;464
+"2912";84;"Viljandi maakond";7;"Rahvatants";1;"Mehed";2015;2015;450
+"2913";84;"Viljandi maakond";7;"Rahvatants";1;"Mehed";2016;2016;462
+"2914";84;"Viljandi maakond";7;"Rahvatants";1;"Mehed";2017;2017;478
+"2915";84;"Viljandi maakond";7;"Rahvatants";1;"Mehed";2018;2018;478
+"2916";84;"Viljandi maakond";7;"Rahvatants";2;"Naised";2008;2008;785
+"2917";84;"Viljandi maakond";7;"Rahvatants";2;"Naised";2009;2009;906
+"2918";84;"Viljandi maakond";7;"Rahvatants";2;"Naised";2010;2010;983
+"2919";84;"Viljandi maakond";7;"Rahvatants";2;"Naised";2011;2011;994
+"2920";84;"Viljandi maakond";7;"Rahvatants";2;"Naised";2012;2012;1028
+"2921";84;"Viljandi maakond";7;"Rahvatants";2;"Naised";2013;2013;1037
+"2922";84;"Viljandi maakond";7;"Rahvatants";2;"Naised";2014;2014;1060
+"2923";84;"Viljandi maakond";7;"Rahvatants";2;"Naised";2015;2015;1052
+"2924";84;"Viljandi maakond";7;"Rahvatants";2;"Naised";2016;2016;1040
+"2925";84;"Viljandi maakond";7;"Rahvatants";2;"Naised";2017;2017;1054
+"2926";84;"Viljandi maakond";7;"Rahvatants";2;"Naised";2018;2018;1053
+"2927";84;"Viljandi maakond";8;"Käsitöö";1;"Mehed";2008;2008;1
+"2928";84;"Viljandi maakond";8;"Käsitöö";1;"Mehed";2009;2009;77
+"2929";84;"Viljandi maakond";8;"Käsitöö";1;"Mehed";2010;2010;88
+"2930";84;"Viljandi maakond";8;"Käsitöö";1;"Mehed";2011;2011;88
+"2931";84;"Viljandi maakond";8;"Käsitöö";1;"Mehed";2012;2012;88
+"2932";84;"Viljandi maakond";8;"Käsitöö";1;"Mehed";2013;2013;88
+"2933";84;"Viljandi maakond";8;"Käsitöö";1;"Mehed";2014;2014;88
+"2934";84;"Viljandi maakond";8;"Käsitöö";1;"Mehed";2015;2015;88
+"2935";84;"Viljandi maakond";8;"Käsitöö";1;"Mehed";2016;2016;83
+"2936";84;"Viljandi maakond";8;"Käsitöö";1;"Mehed";2017;2017;80
+"2937";84;"Viljandi maakond";8;"Käsitöö";1;"Mehed";2018;2018;80
+"2938";84;"Viljandi maakond";8;"Käsitöö";2;"Naised";2008;2008;146
+"2939";84;"Viljandi maakond";8;"Käsitöö";2;"Naised";2009;2009;343
+"2940";84;"Viljandi maakond";8;"Käsitöö";2;"Naised";2010;2010;354
+"2941";84;"Viljandi maakond";8;"Käsitöö";2;"Naised";2011;2011;374
+"2942";84;"Viljandi maakond";8;"Käsitöö";2;"Naised";2012;2012;386
+"2943";84;"Viljandi maakond";8;"Käsitöö";2;"Naised";2013;2013;386
+"2944";84;"Viljandi maakond";8;"Käsitöö";2;"Naised";2014;2014;374
+"2945";84;"Viljandi maakond";8;"Käsitöö";2;"Naised";2015;2015;374
+"2946";84;"Viljandi maakond";8;"Käsitöö";2;"Naised";2016;2016;303
+"2947";84;"Viljandi maakond";8;"Käsitöö";2;"Naised";2017;2017;346
+"2948";84;"Viljandi maakond";8;"Käsitöö";2;"Naised";2018;2018;346
+"2949";84;"Viljandi maakond";9;"Muu valdkond";1;"Mehed";2008;2008;13
+"2950";84;"Viljandi maakond";9;"Muu valdkond";1;"Mehed";2009;2009;62
+"2951";84;"Viljandi maakond";9;"Muu valdkond";1;"Mehed";2010;2010;78
+"2952";84;"Viljandi maakond";9;"Muu valdkond";1;"Mehed";2011;2011;76
+"2953";84;"Viljandi maakond";9;"Muu valdkond";1;"Mehed";2012;2012;76
+"2954";84;"Viljandi maakond";9;"Muu valdkond";1;"Mehed";2013;2013;76
+"2955";84;"Viljandi maakond";9;"Muu valdkond";1;"Mehed";2014;2014;67
+"2956";84;"Viljandi maakond";9;"Muu valdkond";1;"Mehed";2015;2015;62
+"2957";84;"Viljandi maakond";9;"Muu valdkond";1;"Mehed";2016;2016;66
+"2958";84;"Viljandi maakond";9;"Muu valdkond";1;"Mehed";2017;2017;89
+"2959";84;"Viljandi maakond";9;"Muu valdkond";1;"Mehed";2018;2018;89
+"2960";84;"Viljandi maakond";9;"Muu valdkond";2;"Naised";2008;2008;32
+"2961";84;"Viljandi maakond";9;"Muu valdkond";2;"Naised";2009;2009;97
+"2962";84;"Viljandi maakond";9;"Muu valdkond";2;"Naised";2010;2010;171
+"2963";84;"Viljandi maakond";9;"Muu valdkond";2;"Naised";2011;2011;162
+"2964";84;"Viljandi maakond";9;"Muu valdkond";2;"Naised";2012;2012;162
+"2965";84;"Viljandi maakond";9;"Muu valdkond";2;"Naised";2013;2013;162
+"2966";84;"Viljandi maakond";9;"Muu valdkond";2;"Naised";2014;2014;153
+"2967";84;"Viljandi maakond";9;"Muu valdkond";2;"Naised";2015;2015;129
+"2968";84;"Viljandi maakond";9;"Muu valdkond";2;"Naised";2016;2016;141
+"2969";84;"Viljandi maakond";9;"Muu valdkond";2;"Naised";2017;2017;213
+"2970";84;"Viljandi maakond";9;"Muu valdkond";2;"Naised";2018;2018;213
+"2993";86;"Võru maakond";2;"Folkloor";1;"Mehed";2008;2008;22
+"2994";86;"Võru maakond";2;"Folkloor";1;"Mehed";2009;2009;46
+"2995";86;"Võru maakond";2;"Folkloor";1;"Mehed";2010;2010;50
+"2996";86;"Võru maakond";2;"Folkloor";1;"Mehed";2011;2011;63
+"2997";86;"Võru maakond";2;"Folkloor";1;"Mehed";2012;2012;73
+"2998";86;"Võru maakond";2;"Folkloor";1;"Mehed";2013;2013;78
+"2999";86;"Võru maakond";2;"Folkloor";1;"Mehed";2014;2014;72
+"3000";86;"Võru maakond";2;"Folkloor";1;"Mehed";2015;2015;83
+"3001";86;"Võru maakond";2;"Folkloor";1;"Mehed";2016;2016;64
+"3002";86;"Võru maakond";2;"Folkloor";1;"Mehed";2017;2017;65
+"3003";86;"Võru maakond";2;"Folkloor";1;"Mehed";2018;2018;61
+"3004";86;"Võru maakond";2;"Folkloor";2;"Naised";2008;2008;75
+"3005";86;"Võru maakond";2;"Folkloor";2;"Naised";2009;2009;113
+"3006";86;"Võru maakond";2;"Folkloor";2;"Naised";2010;2010;137
+"3007";86;"Võru maakond";2;"Folkloor";2;"Naised";2011;2011;117
+"3008";86;"Võru maakond";2;"Folkloor";2;"Naised";2012;2012;132
+"3009";86;"Võru maakond";2;"Folkloor";2;"Naised";2013;2013;155
+"3010";86;"Võru maakond";2;"Folkloor";2;"Naised";2014;2014;161
+"3011";86;"Võru maakond";2;"Folkloor";2;"Naised";2015;2015;146
+"3012";86;"Võru maakond";2;"Folkloor";2;"Naised";2016;2016;110
+"3013";86;"Võru maakond";2;"Folkloor";2;"Naised";2017;2017;117
+"3014";86;"Võru maakond";2;"Folkloor";2;"Naised";2018;2018;202
+"3015";86;"Võru maakond";3;"Harrastusteater";1;"Mehed";2008;2008;92
+"3016";86;"Võru maakond";3;"Harrastusteater";1;"Mehed";2009;2009;118
+"3017";86;"Võru maakond";3;"Harrastusteater";1;"Mehed";2010;2010;116
+"3018";86;"Võru maakond";3;"Harrastusteater";1;"Mehed";2011;2011;123
+"3019";86;"Võru maakond";3;"Harrastusteater";1;"Mehed";2012;2012;147
+"3020";86;"Võru maakond";3;"Harrastusteater";1;"Mehed";2013;2013;123
+"3021";86;"Võru maakond";3;"Harrastusteater";1;"Mehed";2014;2014;128
+"3022";86;"Võru maakond";3;"Harrastusteater";1;"Mehed";2015;2015;120
+"3023";86;"Võru maakond";3;"Harrastusteater";1;"Mehed";2016;2016;102
+"3024";86;"Võru maakond";3;"Harrastusteater";1;"Mehed";2017;2017;113
+"3025";86;"Võru maakond";3;"Harrastusteater";1;"Mehed";2018;2018;115
+"3026";86;"Võru maakond";3;"Harrastusteater";2;"Naised";2008;2008;146
+"3027";86;"Võru maakond";3;"Harrastusteater";2;"Naised";2009;2009;211
+"3028";86;"Võru maakond";3;"Harrastusteater";2;"Naised";2010;2010;203
+"3029";86;"Võru maakond";3;"Harrastusteater";2;"Naised";2011;2011;209
+"3030";86;"Võru maakond";3;"Harrastusteater";2;"Naised";2012;2012;205
+"3031";86;"Võru maakond";3;"Harrastusteater";2;"Naised";2013;2013;198
+"3032";86;"Võru maakond";3;"Harrastusteater";2;"Naised";2014;2014;219
+"3033";86;"Võru maakond";3;"Harrastusteater";2;"Naised";2015;2015;241
+"3034";86;"Võru maakond";3;"Harrastusteater";2;"Naised";2016;2016;206
+"3035";86;"Võru maakond";3;"Harrastusteater";2;"Naised";2017;2017;203
+"3036";86;"Võru maakond";3;"Harrastusteater";2;"Naised";2018;2018;233
+"3037";86;"Võru maakond";4;"Koorimuusika";1;"Mehed";2008;2008;308
+"3038";86;"Võru maakond";4;"Koorimuusika";1;"Mehed";2009;2009;303
+"3039";86;"Võru maakond";4;"Koorimuusika";1;"Mehed";2010;2010;333
+"3040";86;"Võru maakond";4;"Koorimuusika";1;"Mehed";2011;2011;338
+"3041";86;"Võru maakond";4;"Koorimuusika";1;"Mehed";2012;2012;387
+"3042";86;"Võru maakond";4;"Koorimuusika";1;"Mehed";2013;2013;413
+"3043";86;"Võru maakond";4;"Koorimuusika";1;"Mehed";2014;2014;429
+"3044";86;"Võru maakond";4;"Koorimuusika";1;"Mehed";2015;2015;415
+"3045";86;"Võru maakond";4;"Koorimuusika";1;"Mehed";2016;2016;393
+"3046";86;"Võru maakond";4;"Koorimuusika";1;"Mehed";2017;2017;415
+"3047";86;"Võru maakond";4;"Koorimuusika";1;"Mehed";2018;2018;420
+"3048";86;"Võru maakond";4;"Koorimuusika";2;"Naised";2008;2008;1040
+"3049";86;"Võru maakond";4;"Koorimuusika";2;"Naised";2009;2009;990
+"3050";86;"Võru maakond";4;"Koorimuusika";2;"Naised";2010;2010;1060
+"3051";86;"Võru maakond";4;"Koorimuusika";2;"Naised";2011;2011;1045
+"3052";86;"Võru maakond";4;"Koorimuusika";2;"Naised";2012;2012;1036
+"3053";86;"Võru maakond";4;"Koorimuusika";2;"Naised";2013;2013;1086
+"3054";86;"Võru maakond";4;"Koorimuusika";2;"Naised";2014;2014;1079
+"3055";86;"Võru maakond";4;"Koorimuusika";2;"Naised";2015;2015;1011
+"3056";86;"Võru maakond";4;"Koorimuusika";2;"Naised";2016;2016;1042
+"3057";86;"Võru maakond";4;"Koorimuusika";2;"Naised";2017;2017;989
+"3058";86;"Võru maakond";4;"Koorimuusika";2;"Naised";2018;2018;996
+"3059";86;"Võru maakond";5;"Muu vokaalmuusika";1;"Mehed";2008;2008;66
+"3060";86;"Võru maakond";5;"Muu vokaalmuusika";1;"Mehed";2009;2009;61
+"3061";86;"Võru maakond";5;"Muu vokaalmuusika";1;"Mehed";2010;2010;63
+"3062";86;"Võru maakond";5;"Muu vokaalmuusika";1;"Mehed";2011;2011;69
+"3063";86;"Võru maakond";5;"Muu vokaalmuusika";1;"Mehed";2012;2012;88
+"3064";86;"Võru maakond";5;"Muu vokaalmuusika";1;"Mehed";2013;2013;89
+"3065";86;"Võru maakond";5;"Muu vokaalmuusika";1;"Mehed";2014;2014;108
+"3066";86;"Võru maakond";5;"Muu vokaalmuusika";1;"Mehed";2015;2015;98
+"3067";86;"Võru maakond";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;96
+"3068";86;"Võru maakond";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;96
+"3069";86;"Võru maakond";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;88
+"3070";86;"Võru maakond";5;"Muu vokaalmuusika";2;"Naised";2008;2008;213
+"3071";86;"Võru maakond";5;"Muu vokaalmuusika";2;"Naised";2009;2009;198
+"3072";86;"Võru maakond";5;"Muu vokaalmuusika";2;"Naised";2010;2010;225
+"3073";86;"Võru maakond";5;"Muu vokaalmuusika";2;"Naised";2011;2011;235
+"3074";86;"Võru maakond";5;"Muu vokaalmuusika";2;"Naised";2012;2012;329
+"3075";86;"Võru maakond";5;"Muu vokaalmuusika";2;"Naised";2013;2013;317
+"3076";86;"Võru maakond";5;"Muu vokaalmuusika";2;"Naised";2014;2014;314
+"3077";86;"Võru maakond";5;"Muu vokaalmuusika";2;"Naised";2015;2015;312
+"3078";86;"Võru maakond";5;"Muu vokaalmuusika";2;"Naised";2016;2016;385
+"3079";86;"Võru maakond";5;"Muu vokaalmuusika";2;"Naised";2017;2017;393
+"3080";86;"Võru maakond";5;"Muu vokaalmuusika";2;"Naised";2018;2018;392
+"3081";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2008;2008;92
+"3082";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2009;2009;91
+"3083";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2010;2010;89
+"3084";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2011;2011;84
+"3085";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2012;2012;84
+"3086";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2013;2013;84
+"3087";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2014;2014;99
+"3088";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2015;2015;81
+"3089";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;85
+"3090";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;84
+"3091";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;116
+"3092";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2008;2008;116
+"3093";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2009;2009;108
+"3094";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2010;2010;114
+"3095";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2011;2011;132
+"3096";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2012;2012;110
+"3097";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2013;2013;119
+"3098";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2014;2014;156
+"3099";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2015;2015;133
+"3100";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;158
+"3101";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;158
+"3102";86;"Võru maakond";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;174
+"3103";86;"Võru maakond";7;"Rahvatants";1;"Mehed";2008;2008;263
+"3104";86;"Võru maakond";7;"Rahvatants";1;"Mehed";2009;2009;292
+"3105";86;"Võru maakond";7;"Rahvatants";1;"Mehed";2010;2010;290
+"3106";86;"Võru maakond";7;"Rahvatants";1;"Mehed";2011;2011;257
+"3107";86;"Võru maakond";7;"Rahvatants";1;"Mehed";2012;2012;295
+"3108";86;"Võru maakond";7;"Rahvatants";1;"Mehed";2013;2013;301
+"3109";86;"Võru maakond";7;"Rahvatants";1;"Mehed";2014;2014;264
+"3110";86;"Võru maakond";7;"Rahvatants";1;"Mehed";2015;2015;263
+"3111";86;"Võru maakond";7;"Rahvatants";1;"Mehed";2016;2016;258
+"3112";86;"Võru maakond";7;"Rahvatants";1;"Mehed";2017;2017;228
+"3113";86;"Võru maakond";7;"Rahvatants";1;"Mehed";2018;2018;217
+"3114";86;"Võru maakond";7;"Rahvatants";2;"Naised";2008;2008;824
+"3115";86;"Võru maakond";7;"Rahvatants";2;"Naised";2009;2009;715
+"3116";86;"Võru maakond";7;"Rahvatants";2;"Naised";2010;2010;710
+"3117";86;"Võru maakond";7;"Rahvatants";2;"Naised";2011;2011;638
+"3118";86;"Võru maakond";7;"Rahvatants";2;"Naised";2012;2012;667
+"3119";86;"Võru maakond";7;"Rahvatants";2;"Naised";2013;2013;663
+"3120";86;"Võru maakond";7;"Rahvatants";2;"Naised";2014;2014;625
+"3121";86;"Võru maakond";7;"Rahvatants";2;"Naised";2015;2015;606
+"3122";86;"Võru maakond";7;"Rahvatants";2;"Naised";2016;2016;584
+"3123";86;"Võru maakond";7;"Rahvatants";2;"Naised";2017;2017;537
+"3124";86;"Võru maakond";7;"Rahvatants";2;"Naised";2018;2018;532
+"3125";86;"Võru maakond";8;"Käsitöö";1;"Mehed";2008;2008;12
+"3126";86;"Võru maakond";8;"Käsitöö";1;"Mehed";2009;2009;24
+"3127";86;"Võru maakond";8;"Käsitöö";1;"Mehed";2010;2010;27
+"3128";86;"Võru maakond";8;"Käsitöö";1;"Mehed";2011;2011;33
+"3129";86;"Võru maakond";8;"Käsitöö";1;"Mehed";2012;2012;54
+"3130";86;"Võru maakond";8;"Käsitöö";1;"Mehed";2013;2013;78
+"3131";86;"Võru maakond";8;"Käsitöö";1;"Mehed";2014;2014;113
+"3132";86;"Võru maakond";8;"Käsitöö";1;"Mehed";2015;2015;139
+"3133";86;"Võru maakond";8;"Käsitöö";1;"Mehed";2016;2016;135
+"3134";86;"Võru maakond";8;"Käsitöö";1;"Mehed";2017;2017;123
+"3135";86;"Võru maakond";8;"Käsitöö";1;"Mehed";2018;2018;159
+"3136";86;"Võru maakond";8;"Käsitöö";2;"Naised";2008;2008;293
+"3137";86;"Võru maakond";8;"Käsitöö";2;"Naised";2009;2009;314
+"3138";86;"Võru maakond";8;"Käsitöö";2;"Naised";2010;2010;481
+"3139";86;"Võru maakond";8;"Käsitöö";2;"Naised";2011;2011;471
+"3140";86;"Võru maakond";8;"Käsitöö";2;"Naised";2012;2012;528
+"3141";86;"Võru maakond";8;"Käsitöö";2;"Naised";2013;2013;519
+"3142";86;"Võru maakond";8;"Käsitöö";2;"Naised";2014;2014;489
+"3143";86;"Võru maakond";8;"Käsitöö";2;"Naised";2015;2015;501
+"3144";86;"Võru maakond";8;"Käsitöö";2;"Naised";2016;2016;453
+"3145";86;"Võru maakond";8;"Käsitöö";2;"Naised";2017;2017;445
+"3146";86;"Võru maakond";8;"Käsitöö";2;"Naised";2018;2018;486
+"3147";86;"Võru maakond";9;"Muu valdkond";1;"Mehed";2008;2008;32
+"3148";86;"Võru maakond";9;"Muu valdkond";1;"Mehed";2009;2009;36
+"3149";86;"Võru maakond";9;"Muu valdkond";1;"Mehed";2010;2010;58
+"3150";86;"Võru maakond";9;"Muu valdkond";1;"Mehed";2011;2011;64
+"3151";86;"Võru maakond";9;"Muu valdkond";1;"Mehed";2012;2012;123
+"3152";86;"Võru maakond";9;"Muu valdkond";1;"Mehed";2013;2013;104
+"3153";86;"Võru maakond";9;"Muu valdkond";1;"Mehed";2014;2014;129
+"3154";86;"Võru maakond";9;"Muu valdkond";1;"Mehed";2015;2015;144
+"3155";86;"Võru maakond";9;"Muu valdkond";1;"Mehed";2016;2016;141
+"3156";86;"Võru maakond";9;"Muu valdkond";1;"Mehed";2017;2017;100
+"3157";86;"Võru maakond";9;"Muu valdkond";1;"Mehed";2018;2018;132
+"3158";86;"Võru maakond";9;"Muu valdkond";2;"Naised";2008;2008;48
+"3159";86;"Võru maakond";9;"Muu valdkond";2;"Naised";2009;2009;288
+"3160";86;"Võru maakond";9;"Muu valdkond";2;"Naised";2010;2010;389
+"3161";86;"Võru maakond";9;"Muu valdkond";2;"Naised";2011;2011;422
+"3162";86;"Võru maakond";9;"Muu valdkond";2;"Naised";2012;2012;471
+"3163";86;"Võru maakond";9;"Muu valdkond";2;"Naised";2013;2013;563
+"3164";86;"Võru maakond";9;"Muu valdkond";2;"Naised";2014;2014;752
+"3165";86;"Võru maakond";9;"Muu valdkond";2;"Naised";2015;2015;719
+"3166";86;"Võru maakond";9;"Muu valdkond";2;"Naised";2016;2016;702
+"3167";86;"Võru maakond";9;"Muu valdkond";2;"Naised";2017;2017;566
+"3168";86;"Võru maakond";9;"Muu valdkond";2;"Naised";2018;2018;616
+"3175";99;"Ei ole jaotatud maakonna järgi";2;"Folkloor";1;"Mehed";2016;2016;0
+"3176";99;"Ei ole jaotatud maakonna järgi";2;"Folkloor";1;"Mehed";2017;2017;0
+"3177";99;"Ei ole jaotatud maakonna järgi";2;"Folkloor";1;"Mehed";2018;2018;0
+"3178";99;"Ei ole jaotatud maakonna järgi";2;"Folkloor";2;"Naised";2016;2016;10
+"3179";99;"Ei ole jaotatud maakonna järgi";2;"Folkloor";2;"Naised";2017;2017;10
+"3180";99;"Ei ole jaotatud maakonna järgi";2;"Folkloor";2;"Naised";2018;2018;10
+"3181";99;"Ei ole jaotatud maakonna järgi";3;"Harrastusteater";1;"Mehed";2016;2016;0
+"3182";99;"Ei ole jaotatud maakonna järgi";3;"Harrastusteater";1;"Mehed";2017;2017;0
+"3183";99;"Ei ole jaotatud maakonna järgi";3;"Harrastusteater";1;"Mehed";2018;2018;0
+"3184";99;"Ei ole jaotatud maakonna järgi";3;"Harrastusteater";2;"Naised";2016;2016;0
+"3185";99;"Ei ole jaotatud maakonna järgi";3;"Harrastusteater";2;"Naised";2017;2017;0
+"3186";99;"Ei ole jaotatud maakonna järgi";3;"Harrastusteater";2;"Naised";2018;2018;0
+"3187";99;"Ei ole jaotatud maakonna järgi";4;"Koorimuusika";1;"Mehed";2016;2016;0
+"3188";99;"Ei ole jaotatud maakonna järgi";4;"Koorimuusika";1;"Mehed";2017;2017;0
+"3189";99;"Ei ole jaotatud maakonna järgi";4;"Koorimuusika";1;"Mehed";2018;2018;0
+"3190";99;"Ei ole jaotatud maakonna järgi";4;"Koorimuusika";2;"Naised";2016;2016;0
+"3191";99;"Ei ole jaotatud maakonna järgi";4;"Koorimuusika";2;"Naised";2017;2017;0
+"3192";99;"Ei ole jaotatud maakonna järgi";4;"Koorimuusika";2;"Naised";2018;2018;0
+"3193";99;"Ei ole jaotatud maakonna järgi";5;"Muu vokaalmuusika";1;"Mehed";2016;2016;0
+"3194";99;"Ei ole jaotatud maakonna järgi";5;"Muu vokaalmuusika";1;"Mehed";2017;2017;0
+"3195";99;"Ei ole jaotatud maakonna järgi";5;"Muu vokaalmuusika";1;"Mehed";2018;2018;0
+"3196";99;"Ei ole jaotatud maakonna järgi";5;"Muu vokaalmuusika";2;"Naised";2016;2016;0
+"3197";99;"Ei ole jaotatud maakonna järgi";5;"Muu vokaalmuusika";2;"Naised";2017;2017;0
+"3198";99;"Ei ole jaotatud maakonna järgi";5;"Muu vokaalmuusika";2;"Naised";2018;2018;0
+"3199";99;"Ei ole jaotatud maakonna järgi";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2016;2016;0
+"3200";99;"Ei ole jaotatud maakonna järgi";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2017;2017;0
+"3201";99;"Ei ole jaotatud maakonna järgi";6;"Puhkpilli- ja rahvamuusika";1;"Mehed";2018;2018;0
+"3202";99;"Ei ole jaotatud maakonna järgi";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2016;2016;0
+"3203";99;"Ei ole jaotatud maakonna järgi";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2017;2017;0
+"3204";99;"Ei ole jaotatud maakonna järgi";6;"Puhkpilli- ja rahvamuusika";2;"Naised";2018;2018;0
+"3205";99;"Ei ole jaotatud maakonna järgi";7;"Rahvatants";1;"Mehed";2016;2016;0
+"3206";99;"Ei ole jaotatud maakonna järgi";7;"Rahvatants";1;"Mehed";2017;2017;0
+"3207";99;"Ei ole jaotatud maakonna järgi";7;"Rahvatants";1;"Mehed";2018;2018;0
+"3208";99;"Ei ole jaotatud maakonna järgi";7;"Rahvatants";2;"Naised";2016;2016;0
+"3209";99;"Ei ole jaotatud maakonna järgi";7;"Rahvatants";2;"Naised";2017;2017;10
+"3210";99;"Ei ole jaotatud maakonna järgi";7;"Rahvatants";2;"Naised";2018;2018;10
+"3211";99;"Ei ole jaotatud maakonna järgi";8;"Käsitöö";1;"Mehed";2016;2016;0
+"3212";99;"Ei ole jaotatud maakonna järgi";8;"Käsitöö";1;"Mehed";2017;2017;0
+"3213";99;"Ei ole jaotatud maakonna järgi";8;"Käsitöö";1;"Mehed";2018;2018;0
+"3214";99;"Ei ole jaotatud maakonna järgi";8;"Käsitöö";2;"Naised";2016;2016;0
+"3215";99;"Ei ole jaotatud maakonna järgi";8;"Käsitöö";2;"Naised";2017;2017;0
+"3216";99;"Ei ole jaotatud maakonna järgi";8;"Käsitöö";2;"Naised";2018;2018;0
+"3217";99;"Ei ole jaotatud maakonna järgi";9;"Muu valdkond";1;"Mehed";2016;2016;0
+"3218";99;"Ei ole jaotatud maakonna järgi";9;"Muu valdkond";1;"Mehed";2017;2017;0
+"3219";99;"Ei ole jaotatud maakonna järgi";9;"Muu valdkond";1;"Mehed";2018;2018;0
+"3220";99;"Ei ole jaotatud maakonna järgi";9;"Muu valdkond";2;"Naised";2016;2016;0
+"3221";99;"Ei ole jaotatud maakonna järgi";9;"Muu valdkond";2;"Naised";2017;2017;0
+"3222";99;"Ei ole jaotatud maakonna järgi";9;"Muu valdkond";2;"Naised";2018;2018;0
